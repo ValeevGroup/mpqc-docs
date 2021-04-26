@@ -1,0 +1,4 @@
+<map id="mpqc::lcao::JacobiOrbitalLocalizer&lt; Tile, Policy, Minimizer &gt;" name="mpqc::lcao::JacobiOrbitalLocalizer&lt; Tile, Policy, Minimizer &gt;">
+<area shape="rect" id="node1" title="Implements Jacobi&#45;based spread minimizer." alt="" coords="15,95,199,151"/>
+<area shape="rect" id="node2" href="$classmpqc_1_1lcao_1_1_orbital_localizer.html" title="Localizes orbitals using LCAO&#45;specific info (e.g. AO&#45;basis operators)" alt="" coords="5,5,208,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sc::PumaThreadGrp" name="sc::PumaThreadGrp">
+<area shape="rect" id="node1" title="The PumaThreadGrp class privides a concrete thread group appropriate for the intel teraflops machine." alt="" coords="5,299,147,324"/>
+<area shape="rect" id="node2" href="$classsc_1_1ThreadGrp.html" title="The ThreadGrp abstract class provides a means to manage separate threads of control." alt="" coords="23,225,129,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="8,152,144,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="27,79,125,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="33,5,119,31"/>
+</map>

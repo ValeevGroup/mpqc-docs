@@ -1,0 +1,5 @@
+<map id="sc::SphericalTransformIter" name="sc::SphericalTransformIter">
+<area shape="rect" id="node1" title="This iterates through the components of a SphericalTransform." alt="" coords="30,179,207,204"/>
+<area shape="rect" id="node2" href="$classsc_1_1SphericalTransform.html" title="This is a base class for a container for a sparse Cartesian to solid harmonic basis function transfor..." alt="" coords="40,92,198,117"/>
+<area shape="rect" id="node3" href="$classsc_1_1SphericalTransformComponent.html" title="This is a base class for a container for a component of a sparse Cartesian to solid harmonic basis fu..." alt="" coords="5,5,232,31"/>
+</map>

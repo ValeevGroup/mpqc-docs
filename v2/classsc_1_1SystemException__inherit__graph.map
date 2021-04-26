@@ -1,0 +1,8 @@
+<map id="sc::SystemException" name="sc::SystemException">
+<area shape="rect" id="node1" title="This is thrown when a system problem occurs." alt="" coords="184,152,329,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1FileOperationFailed.html" title="This is thrown when an operation on a file fails." alt="" coords="5,225,164,251"/>
+<area shape="rect" id="node5" href="$classsc_1_1MemAllocFailed.html" title="This is thrown when a memory allocation fails." alt="" coords="188,225,325,251"/>
+<area shape="rect" id="node6" href="$classsc_1_1SyscallFailed.html" title="This is thrown when an system call fails with an errno." alt="" coords="350,225,470,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCException.html" title="This is a std::exception specialization that records information about where an exception took place." alt="" coords="197,79,316,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="205,5,308,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sc::ProgrammingError" name="sc::ProgrammingError">
+<area shape="rect" id="node1" title="This is thrown when a situations arises that should be impossible." alt="" coords="22,152,174,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1FeatureNotImplemented.html" title="This is thrown when an attempt is made to use a feature that is not yet implemented." alt="" coords="5,225,191,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCException.html" title="This is a std::exception specialization that records information about where an exception took place." alt="" coords="39,79,158,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="46,5,150,31"/>
+</map>

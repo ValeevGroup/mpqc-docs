@@ -1,0 +1,6 @@
+<map id="sc::SSAccResult&lt; T &gt;" name="sc::SSAccResult&lt; T &gt;">
+<area shape="rect" id="node1" title="This associates a result datum with an accuracy." alt="" coords="5,241,156,267"/>
+<area shape="rect" id="node2" href="$classsc_1_1AccResultInfo.html" title="This is like ResultInfo but the accuracy with which a result was computed as well as the desired accu..." alt="" coords="18,167,143,192"/>
+<area shape="rect" id="node3" href="$classsc_1_1ResultInfo.html" title="This is a base class for all of Compute&#39;s result types." alt="" coords="30,92,132,117"/>
+<area shape="rect" id="node4" href="$classsc_1_1Compute.html" title="The Compute class provides a means of keeping results up to date." alt="" coords="33,5,129,31"/>
+</map>

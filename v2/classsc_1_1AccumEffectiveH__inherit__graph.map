@@ -1,0 +1,13 @@
+<map id="sc::AccumEffectiveH" name="sc::AccumEffectiveH">
+<area shape="rect" id="node1" title=" " alt="" coords="230,445,374,471"/>
+<area shape="rect" id="node8" href="$classsc_1_1GSGeneralEffH.html" title=" " alt="" coords="5,519,140,544"/>
+<area shape="rect" id="node9" href="$classsc_1_1GSHighSpinEffH.html" title=" " alt="" coords="163,519,304,544"/>
+<area shape="rect" id="node10" href="$classsc_1_1PsiEffH.html" title=" " alt="" coords="328,519,414,544"/>
+<area shape="rect" id="node11" href="$classsc_1_1TestEffH.html" title=" " alt="" coords="438,519,531,544"/>
+<area shape="rect" id="node2" href="$classsc_1_1BlockedSCElementOp2.html" title=" " alt="" coords="211,372,393,397"/>
+<area shape="rect" id="node3" href="$classsc_1_1SCElementOp2.html" title="The SCElementOp2 class is very similar to the SCElementOp class except that pairs of blocks are treat..." alt="" coords="235,299,369,324"/>
+<area shape="rect" id="node4" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="241,225,363,251"/>
+<area shape="rect" id="node5" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="234,152,370,177"/>
+<area shape="rect" id="node6" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="253,79,351,104"/>
+<area shape="rect" id="node7" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="259,5,344,31"/>
+</map>

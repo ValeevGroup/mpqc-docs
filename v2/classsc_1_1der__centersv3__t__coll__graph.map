@@ -1,0 +1,8 @@
+<map id="sc::der_centersv3_t" name="sc::der_centersv3_t">
+<area shape="rect" id="node1" title=" " alt="" coords="12,404,150,429"/>
+<area shape="rect" id="node2" href="$classsc_1_1GaussianBasisSet.html" title="The GaussianBasisSet class is used describe a basis set composed of atomic gaussian orbitals." alt="" coords="5,304,156,329"/>
+<area shape="rect" id="node3" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="20,229,142,255"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="13,155,149,180"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="32,80,130,105"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="38,5,123,31"/>
+</map>

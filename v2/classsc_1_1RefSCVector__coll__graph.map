@@ -1,0 +1,5 @@
+<map id="sc::RefSCVector" name="sc::RefSCVector">
+<area shape="rect" id="node1" title="The RefSCVector class is a smart pointer to an SCVector specialization." alt="" coords="17,152,136,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1Ref.html" title=" " alt="" coords="5,79,147,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="30,5,123,31"/>
+</map>

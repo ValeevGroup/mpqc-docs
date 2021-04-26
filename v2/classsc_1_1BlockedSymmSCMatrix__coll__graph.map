@@ -1,0 +1,11 @@
+<map id="sc::BlockedSymmSCMatrix" name="sc::BlockedSymmSCMatrix">
+<area shape="rect" id="node1" title=" " alt="" coords="98,340,280,365"/>
+<area shape="rect" id="node2" href="$classsc_1_1SymmSCMatrix.html" title="The SymmSCMatrix class is the abstract base class for symmetric double valued matrices." alt="" coords="122,265,256,291"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="5,179,141,204"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="24,80,122,105"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="31,5,116,31"/>
+<area shape="rect" id="node6" href="$classsc_1_1Ref.html" title=" " alt="" coords="101,129,278,155"/>
+<area shape="rect" id="node7" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="180,5,273,31"/>
+<area shape="rect" id="node9" href="$classsc_1_1Ref.html" title=" " alt="" coords="225,80,393,105"/>
+<area shape="rect" id="node8" href="$classsc_1_1RefSCDimension.html" title="The RefSCDimension class is a smart pointer to an SCDimension specialization." alt="" coords="237,179,381,204"/>
+</map>

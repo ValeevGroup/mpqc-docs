@@ -1,0 +1,5 @@
+<map id="sc::NCResult&lt; T &gt;" name="sc::NCResult&lt; T &gt;">
+<area shape="rect" id="node1" title="This is similar to Result, but can be used with non&#45;class types." alt="" coords="5,167,135,192"/>
+<area shape="rect" id="node2" href="$classsc_1_1ResultInfo.html" title="This is a base class for all of Compute&#39;s result types." alt="" coords="19,92,121,117"/>
+<area shape="rect" id="node3" href="$classsc_1_1Compute.html" title="The Compute class provides a means of keeping results up to date." alt="" coords="22,5,118,31"/>
+</map>

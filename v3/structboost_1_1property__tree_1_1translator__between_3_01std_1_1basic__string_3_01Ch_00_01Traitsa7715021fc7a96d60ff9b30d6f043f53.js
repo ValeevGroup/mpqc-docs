@@ -1,0 +1,4 @@
+var structboost_1_1property__tree_1_1translator__between_3_01std_1_1basic__string_3_01Ch_00_01Traitsa7715021fc7a96d60ff9b30d6f043f53 =
+[
+    [ "type", "structboost_1_1property__tree_1_1translator__between_3_01std_1_1basic__string_3_01Ch_00_01Traitsa7715021fc7a96d60ff9b30d6f043f53.html#aa45b3949c76062b6a489983984e178ee", null ]
+];

@@ -1,0 +1,4 @@
+<map id="sc::TranslateData" name="sc::TranslateData">
+<area shape="rect" id="node1" title="Generic data translation." alt="" coords="35,5,161,31"/>
+<area shape="rect" id="node2" href="$classsc_1_1TranslateDataByteSwap.html" title="Data translation to an external representation with bytes swapped." alt="" coords="5,79,191,104"/>
+</map>

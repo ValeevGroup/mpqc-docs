@@ -1,0 +1,6 @@
+<map id="mpqc::lcao::gaussian::QQRScreen" name="mpqc::lcao::gaussian::QQRScreen">
+<area shape="rect" id="node1" title="Implements QQR screener for shell&#45;sets of integrals." alt="" coords="45,244,204,285"/>
+<area shape="rect" id="node2" href="$classmpqc_1_1lcao_1_1gaussian_1_1_schwarz_screen.html" title="Class for Schwarz based screening." alt="" coords="45,155,204,196"/>
+<area shape="rect" id="node3" href="$classmpqc_1_1lcao_1_1_thresholded_screener.html" title="ThresholdedScreener is a Screener equipped with a (mutable) real threshold." alt="" coords="5,80,244,107"/>
+<area shape="rect" id="node4" href="$classmpqc_1_1lcao_1_1_screener.html" title="Base class for screeners will never skip any integrals." alt="" coords="45,5,204,32"/>
+</map>

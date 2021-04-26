@@ -1,0 +1,5 @@
+<map id="sc::AlgorithmException" name="sc::AlgorithmException">
+<area shape="rect" id="node1" title="This exception is thrown whenever a problem with an algorithm is encountered." alt="" coords="5,152,162,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCException.html" title="This is a std::exception specialization that records information about where an exception took place." alt="" coords="24,79,143,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="32,5,136,31"/>
+</map>

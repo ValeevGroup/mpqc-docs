@@ -1,0 +1,6 @@
+<map id="sc::AssignedKeyVal" name="sc::AssignedKeyVal">
+<area shape="rect" id="node1" title="This class allows keyval associations to be set up by the program, rather than determined by an exter..." alt="" coords="5,225,144,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1KeyVal.html" title="The KeyVal class is designed to simplify the process of allowing a user to specify keyword/value asso..." alt="" coords="33,152,116,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="25,79,124,104"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="32,5,117,31"/>
+</map>

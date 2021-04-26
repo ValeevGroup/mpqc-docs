@@ -1,0 +1,7 @@
+<map id="sc::AlgorithmException" name="sc::AlgorithmException">
+<area shape="rect" id="node1" title="This exception is thrown whenever a problem with an algorithm is encountered." alt="" coords="88,152,245,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1MaxIterExceeded.html" title="This is thrown when an iterative algorithm attempts to use more iterations than allowed." alt="" coords="5,225,151,251"/>
+<area shape="rect" id="node5" href="$classsc_1_1ToleranceExceeded.html" title="This is thrown when when some tolerance is exceeded." alt="" coords="175,225,334,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCException.html" title="This is a std::exception specialization that records information about where an exception took place." alt="" coords="107,79,226,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="114,5,218,31"/>
+</map>

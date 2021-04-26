@@ -1,0 +1,345 @@
+\documentclass{article}
+\usepackage{ifthen}
+\usepackage{epsfig}
+\usepackage[utf8]{inputenc}
+% Packages requested by user
+\usepackage{amsmath}
+
+\usepackage{newunicodechar}
+  \newunicodechar{⁻}{${}^{-}$}% Superscript minus
+  \newunicodechar{²}{${}^{2}$}% Superscript two
+  \newunicodechar{³}{${}^{3}$}% Superscript three
+
+\pagestyle{empty}
+\begin{document}
+$ m_s=+1/2 $
+\pagebreak
+
+$ m_s=-1/2 $
+\pagebreak
+
+$ \sqrt{\sum_i ||r_i||_2^2}/(\sum_i \mathrm{size}(r_i)) $
+\pagebreak
+
+$ U^{ij}_{\rho\sigma} \equiv \left( t^{ij}_{\mu \nu} + t^{i}_{\mu} t^{j}_{\nu} \right) (\mu \rho| \nu \sigma) $
+\pagebreak
+
+$ \sum_{abcijk} \frac{W^{abc}_{ijk}}{D^{abc}_{ijk}} $
+\pagebreak
+
+$ \sum_{abcijk} \frac{other^{abc}_{ijk}}{D^{abc}_{ijk}} $
+\pagebreak
+
+$ \sum_{c<=b<=a} \sum_{k<=j<=i} \frac{other^{abc}_{ijk}}{D^{abc}_{ijk}} $
+\pagebreak
+
+$ Q_x $
+\pagebreak
+
+$ Q_{ab} $
+\pagebreak
+
+$V_{ij}^{kl}$
+\pagebreak
+
+$X_{ij}^{kl}$
+\pagebreak
+
+$B_{ij}^{kl}$
+\pagebreak
+
+$V_{ia}^{kl}$
+\pagebreak
+
+$V_{ij}^{ab}$
+\pagebreak
+
+$V_{ij}^{p'q'}$
+\pagebreak
+
+$C_{ij}^{ab}$
+\pagebreak
+
+$T_{ab}^{ij} * (V_{kl}^{ab} + C_{kl}^{ab})$
+\pagebreak
+
+$V_{\rho \sigma}^{\mu \nu}$
+\pagebreak
+
+$T_{a}^{j} * V_{ia}^{kl}$
+\pagebreak
+
+$V_{pq}^{rs} \equiv R_{pq}^{\alpha \beta} g_{\alpha \beta}^{r s}$
+\pagebreak
+
+$V_{pq}^{sr} \equiv R_{pq}^{\alpha \beta} g_{\alpha \beta}^{r s}$
+\pagebreak
+
+$ g \to R $
+\pagebreak
+
+$ - \exp(- A r_{12})/A \approx \sum\limits_{i=1}^N c_i \exp(- \alpha_i r_{12}^2) $
+\pagebreak
+
+$ \sqrt(\frac{2}{\zeta}) * \mathrm{erfc}^{-1}(\theta_\mathrm{ws}) $
+\pagebreak
+
+$ \theta_\mathrm{ws} $
+\pagebreak
+
+$ \zeta $
+\pagebreak
+
+$ O^l_0 = (2 \pi)^{3/4} \sum_i c_i \beta_l(\zeta_i) $
+\pagebreak
+
+$ i $
+\pagebreak
+
+$ c_i $
+\pagebreak
+
+$ \zeta_i $
+\pagebreak
+
+$ \beta_l(\zeta) $
+\pagebreak
+
+$ \beta_l(\zeta) = \zeta^{-(2l+3)/4} \sqrt{(2l-1)!!} $
+\pagebreak
+
+$ \left(\frac{\pi}{2(\zeta_a+\zeta_b)}\right)^{1/2} $
+\pagebreak
+
+$ O^l_0 $
+\pagebreak
+
+$ I^{ij}_{ij} $
+\pagebreak
+
+$ I^{ji}_{ij} $
+\pagebreak
+
+$ I^{ij}_{kl} $
+\pagebreak
+
+$ c^{ij}_{ij} I^{ij}_{ij} + c^{ji}_{ij} I^{ij}_{ji} $
+\pagebreak
+
+$ i=j $
+\pagebreak
+
+$ {P_v, F_v, S_v} $
+\pagebreak
+
+$ P_v \equiv C_v C_v^\dagger S $
+\pagebreak
+
+$ F_v \equiv P_v^\dagger F P_v $
+\pagebreak
+
+$ S_v \equiv P_v^\dagger S P_v = S C_v C_v^\dagger S $
+\pagebreak
+
+$ (a_ij|a_kj) $
+\pagebreak
+
+$ R^{ij}_{a_{ij} b_{ij}} \equiv K^{ij}_{a_{ij} b_{ij}} + F^{c_{ij}}_{a_{ij}} T^{ij}_{c_{ij} b_{ij}} + F^{c_{ij}}_{b_{ij}} T^{ij}_{a_{ij} c_{ij}} - F^i_k T^{kj}_{a_{kj} b_{kj}} S^{a_{kj}}_{a_{ij}} S^{b_{kj}}_{b_{ij}} - F^j_k T^{ik}_{a_{ik} b_{ik}} S^{a_{ik}}_{a_{ij}} S^{b_{ik}}_{b_{ij}} $
+\pagebreak
+
+$ K $
+\pagebreak
+
+$ F $
+\pagebreak
+
+$ \left(R^{(4)}\right)^{ij}_{a_{ij} b_{ij}} $
+\pagebreak
+
+$ \left(R^{(5)}\right)^{ji}_{a_{ji} b_{ji}} $
+\pagebreak
+
+$ \left(R^{(4)}\right)^{ij}_{a_{ij} b_{ij}} \equiv \left(R^{(5)}\right)^{ji}_{b_{ji} a_{ji}} $
+\pagebreak
+
+$ E_\mathrm{PNO-MP2} \equiv \sum_{ij} \left( R^{ij}_{a_{ij} b_{ij}} + G^{ij}_{a_{ij} b_{ij}} \right) \bar{T}^{ij}_{a_{ij} b_{ij}} $
+\pagebreak
+
+$ \bar{T}^{ij}_{a_{ij} b_{ij}} \equiv 2 T^{ij}_{a_{ij} b_{ij}} - T^{ij}_{b_{ij} a_{ij}} $
+\pagebreak
+
+$ T^{ij}_{a_{ij} b_{ij}} += R^{ij}_{a_{ij} b_{ij}} / (F^i_i + F^j_j - F^{a_{ij}}_{a_{ij}} - F^{b_{ij}}_{b_{ij}}) $
+\pagebreak
+
+$ m_s = 1/2 $
+\pagebreak
+
+$ m_s = -1/2 $
+\pagebreak
+
+$ \frac{1}{2} (\rho - \tilde{\rho}|\tilde{\rho}_\mathbf{L}) $
+\pagebreak
+
+\[ O_{l,m}(\vec{r}) \equiv \frac{r^l}{(l+m)!} P^m_l(\cos\theta) \begin{cases} \cos(m\phi)\mathrm{,\ if\ } m \geq 0 \\ \sin(m\phi)\mathrm{,\ if\ } m < 0 \end{cases} \]
+\pagebreak
+
+\[ O^+_{l,m} \equiv \begin{cases} O_{l,m} \mathrm{, if} m \geq 0 \\ (-1)^m O_{l,-m} \mathrm{,\ if\ } m < 0 \end{cases} \]
+\pagebreak
+
+\[ O^-_{l,m} \equiv \begin{cases} (-1)^{(m+1)} O_{l,-m} \mathrm{,\ if\ } m > 0 \\ 0 \mathrm{,\ if\ } m = 0 \\ O_{l, m} \mathrm{,\ if\ } m < 0 \end{cases} \]
+\pagebreak
+
+\[ O^\pm_{l,m} \equiv O^{\mathrm{sign}(m)}_{l, |m|} = \begin{cases} O^+_{l,m} \mathrm{,\ if\ } m \geq 0 \\ O^-_{l,-m} \mathrm{,\ if\ } m < 0 \end{cases} \]
+\pagebreak
+
+$ (i.e. including phase for odd negative m) MultipoleMoments<TArray> sphemm_; 2-center (dfbs|O|1) spherical multipole integrals, \$ O^\pm_{l,m} $
+\pagebreak
+
+$ O_{l,m} $
+\pagebreak
+
+$ O_{l, m} $
+\pagebreak
+
+\[ O_{l,m}(\mathbf{r}) = \begin{cases} \frac{|\mathbf{r}|^{l}}{(l+m)!} P_l^m(\cos\theta) \cos(m \phi), \mathrm{\ if\ m \geq 0} \\ \frac{|\mathbf{r}|^{l}}{(l+m)!} P_l^m(\cos\theta) \sin(m \phi), \mathrm{\ if\ m < 0} \end{cases} \]
+\pagebreak
+
+\[ M_{\mu \nu_{\mathbf{k}}} = \sum_{\mathbf{R}} \exp( \mathrm{i} \mathbf{k}\cdot\mathbf{R} ) M_{\mu \nu_{\mathbf{R}}} \]
+\pagebreak
+
+$ A $
+\pagebreak
+
+$ P_A = \sum_{\mu \in A} \sum_i \sum_\nu C^i_\nu S^{\nu}_{\mu} C^\mu_i = \sum_{\mu \in A} \sum_\nu P^\mu_\nu S^{\nu}_{\mu} . $
+\pagebreak
+
+$ \{ \tilde{\mu} \} $
+\pagebreak
+
+$ P_A = \sum_{\tilde{\mu} \in A} \sum_i \sum_\nu \left( C^i_{\nu} S^{\nu}_{\tilde{\mu}} C^{\tilde{\mu}}_i \right), $
+\pagebreak
+
+$ C_{\tilde{\mu}}^i \equiv \left(\mathbf{\tilde{C}}\right)_{\tilde{\mu}}^i = \left(\left(\mathbf{C} \mathbf{\tilde{S}}\right)^{-1}\right)_{\tilde{\mu}}^i $
+\pagebreak
+
+$ \left(\mathbf{C}\right)^i_\mu \equiv C^i_\mu $
+\pagebreak
+
+$ \left(\mathbf{\tilde{S}}\right)^\mu_{\tilde{\mu}} \equiv S^\mu_{\tilde{\mu}} $
+\pagebreak
+
+$ \mathbf{C} $
+\pagebreak
+
+$ \sum_{\mu} \sum_\nu C^i_{\nu} S^{\nu}_{\tilde{\mu}} C^{\tilde{\mu}}_j = \delta^i_j $
+\pagebreak
+
+$ \mathbf{\tilde{C}} $
+\pagebreak
+
+$ P_A = \sum_{\tilde{\mu} \in A} \sum_i \sum_{\tilde{\nu}} \left( C^i_{\tilde{\nu}} S^{\tilde{\nu}}_{\tilde{\mu}} C^{\tilde{\mu}}_i \right), $
+\pagebreak
+
+$ C_{\tilde{\nu}}^i \equiv (\mathbf{S}^{-1/2})^{\tilde{\nu}}_{\tilde{\mu}} V^i_{\tilde{\nu}} $
+\pagebreak
+
+$ V^i_{\tilde{\mu}} $
+\pagebreak
+
+$ C_i^\mu S^{\tilde{\nu}}_{\mu} (\mathbf{S}^{-1/2})^{\tilde{\mu}}_{\tilde{\nu}} $
+\pagebreak
+
+$ P_A = \frac{1}{2} \sum_{\tilde{\mu} \in A} \sum_{i,\vec{k}} \sum_\nu \left( C^{i,\vec{k}}_{\nu} S^{\nu}_{\tilde{\mu}} C^{\tilde{\mu}}_{i,\vec{k}} + C_{\tilde{\mu}}^{i,\vec{k}} S_{\nu}^{\tilde{\mu}} C_{i,\vec{k}}^{\nu} \right), $
+\pagebreak
+
+$ C_{\tilde{\mu}}^{i,\vec{k}} \equiv \left(\mathbf{\tilde{C}}\right)_{\tilde{\mu}}^{i,\vec{k}} = \left(\left(\mathbf{C} \mathbf{\tilde{S}}\right)^{-1}\right)_{\tilde{\mu}}^{i,\vec{k}} $
+\pagebreak
+
+$ \left(\mathbf{C}\right)^{i,\vec{k}}_\mu \equiv C^{i,\vec{k}}_\mu $
+\pagebreak
+
+$ C^{i,\vec{k}}_\mu = \left( C_{i,\vec{k}}^\mu \right)^* $
+\pagebreak
+
+$ \sum_{\mu} \sum_\nu C^{i,\vec{k}}_{\nu} S^{\nu}_{\tilde{\mu}} C^{\tilde{\mu}}_{j,\vec{k}} = \delta^i_j $
+\pagebreak
+
+$ \sim 0.3~{\rm meV} $
+\pagebreak
+
+$ \sim 3~{\rm meV} $
+\pagebreak
+
+$^{-1}$
+\pagebreak
+
+$ a,b $
+\pagebreak
+
+$ ||a|-|b||/(|a|+|b|) \leq \epsilon $
+\pagebreak
+
+$ \epsilon $
+\pagebreak
+
+$ \mathcal{O}(\delta^2) $
+\pagebreak
+
+$ \mathcal{O}(\delta^24) $
+\pagebreak
+
+$ {i_1, i_2, i_3, ... i_N} $
+\pagebreak
+
+$ i_1 \leq i_2 \leq i_3 ... \leq i_N $
+\pagebreak
+
+$ \mathbf{n} = \{n_a, n_b, n_c\} $
+\pagebreak
+
+$ \mathbf{L} = \{ L_a, L_b, L_c \} $
+\pagebreak
+
+$ \{k_a, k_b, k_c\} = \{ \frac{\pi (2 K_a - (n_a-1))}{L_a (n_a-1)}, \frac{\pi (2 K_b - (n_b-1))}{L_b (n_b-1)}, \frac{\pi (2 K_c - (n_c-1))}{L_c (n_c-1)} \} $
+\pagebreak
+
+$ K_a = [0..n_a) $
+\pagebreak
+
+$ \{ K_a, K_b, K_c \} $
+\pagebreak
+
+$ N_{left} + *N_{right} - 1 $
+\pagebreak
+
+$ \in \mathbf{R}^{X *\times a \times i} $
+\pagebreak
+
+$ \in \mathbf{R}^{X \times b \times j} *$
+\pagebreak
+
+$ f_1 \in \mathbf{R}^{a\times b \times r}$
+\pagebreak
+
+$ f_2 \in *\mathbf{R}^{a\times j \times r}$
+\pagebreak
+
+$ f_3 \in \mathbf{R}^{i\times b \times *r}$
+\pagebreak
+
+$ f_4 \in \mathbf{R}^{i\times j \times r}$
+\pagebreak
+
+$ Xab_{cp} Xab $
+\pagebreak
+
+$ Xab_{cp} Xab_{cp}$
+\pagebreak
+
+$ Xab_{cp} (2.0 Xab - Xab_{cp} $
+\pagebreak
+
+$ G^{a \mu}_{ib} $
+\pagebreak
+
+\end{document}

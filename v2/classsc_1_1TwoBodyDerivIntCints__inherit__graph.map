@@ -1,0 +1,6 @@
+<map id="sc::TwoBodyDerivIntCints" name="sc::TwoBodyDerivIntCints">
+<area shape="rect" id="node1" title="This implements electron repulsion derivative integrals in the IntV3 library." alt="" coords="5,225,179,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1TwoBodyDerivInt.html" title="This is an abstract base type for classes that compute integrals involving two electrons." alt="" coords="21,152,163,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="43,79,141,104"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="49,5,134,31"/>
+</map>

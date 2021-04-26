@@ -1,0 +1,7 @@
+<map id="sc::GaussianBasisSet::ValueData" name="sc::GaussianBasisSet::ValueData">
+<area shape="rect" id="node1" title="This holds scratch data needed to compute basis function values." alt="" coords="130,265,281,304"/>
+<area shape="rect" id="node2" href="$classsc_1_1SphericalTransformIter.html" title="This iterates through the components of a SphericalTransform." alt="" coords="30,179,207,204"/>
+<area shape="rect" id="node3" href="$classsc_1_1SphericalTransform.html" title="This is a base class for a container for a sparse Cartesian to solid harmonic basis function transfor..." alt="" coords="40,92,198,117"/>
+<area shape="rect" id="node4" href="$classsc_1_1SphericalTransformComponent.html" title="This is a base class for a container for a component of a sparse Cartesian to solid harmonic basis fu..." alt="" coords="5,5,232,31"/>
+<area shape="rect" id="node5" href="$classsc_1_1CartesianIter.html" title="CartesianIter gives the ordering of the Cartesian functions within a shell for the particular integra..." alt="" coords="232,179,350,204"/>
+</map>

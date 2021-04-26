@@ -1,0 +1,173 @@
+\form#0:$\mathrm{CH}_3\mathrm{NH}_2$
+\form#1:$ \exp(- Y r_{12})$
+\form#2:$i$
+\form#3:$0 \leq i < n$
+\form#4:$2 (i-1) + 1$
+\form#5:$2 i$
+\form#6:$(i-1)\times 2 + 1$
+\form#7:$i\times 2$
+\form#8:$B$
+\form#9:$\kappa_2$
+\form#10:$C_{2v}$
+\form#11:$C_1$
+\form#12:$a$
+\form#13:$b$
+\form#14:$\bar{r}_a$
+\form#15:$\bar{r}_b$
+\form#16:$r$
+\form#17:\[ r = \| \bar{r}_a - \bar{r}_b \| \]
+\form#18:$c$
+\form#19:$\bar{r}_c$
+\form#20:$\theta$
+\form#21:\[ \bar{u}_{ab} = \frac{\bar{r}_a - \bar{r}_b}{\| \bar{r}_a - \bar{r}_b \|}\]
+\form#22:\[ \bar{u}_{cb} = \frac{\bar{r}_c - \bar{r}_b}{\| \bar{r}_c - \bar{r}_b \|}\]
+\form#23:\[ \theta = \arccos ( \bar{u}_{ab} \cdot \bar{u}_{cb} ) \]
+\form#24:$d$
+\form#25:$\bar{r}_d$
+\form#26:$\tau$
+\form#27:\[ \bar{u}_{cd} = \frac{\bar{r}_c - \bar{r}_d}{\| \bar{r}_c - \bar{r}_b \|}\]
+\form#28:\[ \bar{n}_{abc}= \frac{\bar{u}_{ab} \times \bar{u}_{cb}} {\| \bar{u}_{ab} \times \bar{u}_{cb} \|} \]
+\form#29:\[ \bar{n}_{bcd}= \frac{\bar{u}_{cd} \times \bar{u}_{bc}} {\| \bar{u}_{cd} \times \bar{u}_{bc} \|} \]
+\form#30:\[ s = \left\{ \begin{array}{ll} 1 & \mbox{if $(\bar{n}_{abc}\times\bar{n}_{bcd}) \cdot \bar{u}_{cb} > 0;$} \\ -1 & \mbox{otherwise} \end{array} \right. \]
+\form#31:\[ \tau = s \arccos ( - \bar{n}_{abc} \cdot \bar{n}_{bcd} ) \]
+\form#32:$\tau_s$
+\form#33:\[ \bar{n}_{abc}= \frac{\bar{u}_{ab} \times \bar{u}_{cb}} {\| \bar{u}_{ab} \times \bar{u}_{cb} \|}\]
+\form#34:\[ \bar{n}_{bcd}= \frac{\bar{u}_{cd} \times \bar{u}_{cb}} {\| \bar{u}_{cd} \times \bar{u}_{cb} \|}\]
+\form#35:\[ s = \left\{ \begin{array}{ll} -1 & \mbox{if $(\bar{n}_{abc}\times\bar{n}_{bcd}) \cdot \bar{u}_{cb} > 0$} \\ 1 & \mbox{otherwise} \end{array} \right. \]
+\form#36:\[ \tau_s = s \sqrt{\left(1-(\bar{u}_{ab} \cdot \bar{u}_{cb}\right)^2) \left(1-(\bar{u}_{cb} \cdot \bar{u}_{cd}\right)^2)} \arccos ( - \bar{n}_{abc} \cdot \bar{n}_{bcd} )\]
+\form#37:$\bar{u}$
+\form#38:$\bar{r}_a - \bar{r}_b$
+\form#39:$\bar{r}_b - \bar{r}_c$
+\form#40:$\theta_i$
+\form#41:\[ \bar{u}_{cb} = \frac{\bar{r}_b - \bar{r}_c}{\| \bar{r}_c - \bar{r}_b \|}\]
+\form#42:\[ \theta_i = \pi - \arccos ( \bar{u}_{ab} \cdot \bar{u} ) - \arccos ( \bar{u}_{cb} \cdot \bar{u} )\]
+\form#43:$\theta_o$
+\form#44:\[ \bar{n} = \frac{\bar{u} \times \bar{u}_{ab}} {\| \bar{u} \times \bar{u}_{ab} \|}\]
+\form#45:\[ \theta_o = \pi - \arccos ( \bar{u}_{ab} \cdot \bar{n} ) - \arccos ( \bar{u}_{cb} \cdot \bar{n} )\]
+\form#46:$n_0$
+\form#47:$n_1$
+\form#48:$n_2$
+\form#49:$\bar{p}\cdot V\bar{p}$
+\form#50:$V$
+\form#51:$\bar{p}\times V\bar{p}$
+\form#52:$p^4 = (\bar{p} \cdot \bar{p})^2$
+\form#53:$e (\mathbf{r}-\mathbf{O})$
+\form#54:$e (\mathbf{r}-\mathbf{O}) \otimes (\mathbf{r}-\mathbf{O})$
+\form#55:$ r_{12}^{-1}, $
+\form#56:$ r_{12}^k g_{12}, \, k=-1,0, $
+\form#57:$ g_{12} $
+\form#58:$ [g_{12},[\hat{T}_1,g_{12}]] $
+\form#59:$ \delta_3({\bf r}_1 - {\bf r}_2), $
+\form#60:$ \sum_i c_i \exp( - g_i x ) $
+\form#61:$ x $
+\form#62:$ r_{12}^2 $
+\form#63:$ (\underline{\hat{p}} \cdot \underline{\hat{p}})^2 $
+\form#64:$ \equiv i \hat{p}_x $
+\form#65:$ \equiv i \hat{p}_y $
+\form#66:$ \equiv i \hat{p}_z $
+\form#67:$ \equiv i \hat{L}_x $
+\form#68:$ \equiv i \hat{L}_y $
+\form#69:$ \equiv i \hat{L}_z $
+\form#70:$ 1/r_{12} $
+\form#71:$ r_{12} $
+\form#72:$ [r_{12},\hat{T}_1] $
+\form#73:$ [r_{12},\hat{T}_2] $
+\form#74:$ g_{12} \equiv \sum_i c_i \exp[- \alpha_i r_{12}^2 ]$
+\form#75:$ r_{12}^{-1} g_{12} $
+\form#76:$ [\hat{T}_1, g_{12}] $
+\form#77:$ [\hat{T}_2, g_{12}] $
+\form#78:$ [ g_{12}, [\hat{T}_1, g_{12}] ] $
+\form#79:$ [g_{12}, [\hat{p}^4_1 + \hat{p}^4_2, g_{12}]] - 2 [g_{12}, [\hat{T}_1 + \hat{T}_2, g_{12}]](\hat{T}_1 + \hat{T}_2) $
+\form#80:$ \delta_3({\bf r}_1 - {\bf r}_2) $
+\form#81:$ X O_bas X^T$
+\form#82:$X$
+\form#83:$ O_bas $
+\form#84:$ X^T F_obas $
+\form#85:$ F_obas $
+\form#86:$X O_obas X^T$
+\form#87:$ O_obas $
+\form#88:$ X^T F_bas $
+\form#89:$ F_bas $
+\form#90:$ X^T O_ao X$
+\form#91:$ O_ao $
+\form#92:$ X F_so $
+\form#93:$ F_so $
+\form#94:$ X^T O_so X$
+\form#95:$ O_so $
+\form#96:$ X F_ao $
+\form#97:$ F_ao $
+\form#98:$ \in $
+\form#99:$ \hbar/2 $
+\form#100:$x^d$
+\form#101:$x$
+\form#102:\[ |rs) = \sum_A C^{rs}_A |A) \quad , \]
+\form#103:$ |A) $
+\form#104:$ C^{rs}_A $
+\form#105:\[ (A|\hat{W}|rs) = \sum_B C^{rs}_B (A|\hat{W}|B) \quad . \]
+\form#106:$\hat{W} $
+\form#107:$ (A|\hat{W}|B) $
+\form#108:$ \tilde{C}^{rs}_A \equiv (A|\hat{W}|rs) = \sum_B C^{rs}_B (A|\hat{W}|B) $
+\form#109:$ \tilde{C} $
+\form#110:$ C $
+\form#111:$ (pq|rs) \approx \sum_A \tilde{C}^A_{pq} C^{rs}_A $
+\form#112:$ \log_2(\epsilon) $
+\form#113:$ \epsilon $
+\form#114:$ 2^{-50} \approx 10^{-15} $
+\form#115:$ F_m(T) $
+\form#116:$O(n_\mathrm{basis}^5)$
+\form#117:$ - \bar{r}_{p_{\gamma f\gamma} \alpha}^{rs} t_{rs}^{qp} $
+\form#118:$ Gamma^rs_vx * f^x_w * t^vw_tu $
+\form#119:$\overline{r}^{p' q'}_{\bf p q} k^{s'}_{p'} \overline{r}^{\bf r s}_{s' q'} $
+\form#120:$ \overline{r}^{p' q'}_{\bf p q} k^{s'}_{p'} = \overline{r}^{s'_k q'}_{\bf p q}$
+\form#121:$\overline{r}$
+\form#122:$C^{s'_k}_{\mu'} = C^{p'}_{\mu'} k^{s'}_{p'} $
+\form#123:$\overline{r}^{s'_k q'}_{\bf p q} \overline{r}^{\bf r s}_{s' q'}$
+\form#124:$C^{s'_k}_{\mu'}$
+\form#125:$ V_{pq}^{xy} = \frac{1}{2} \bar{g}_{pq}^{\alpha\beta} \bar{R}_{\alpha\beta}^{xy}$
+\form#126:$ U_{pq}^{xi} = \frac{1}{2} \bar{R}_{p \alpha'}^{x y} \bar{g}_{q y}^{i \alpha'} $
+\form#127:$ P_{uv}^{xy} = \frac{1}{4} \bar{R}^{\alpha\beta}_{uv} \bar{g}_{\alpha\beta}^{\gamma\delta} \bar{R}_{\gamma\delta}^{xy}$
+\form#128:$C_{ij}^{kl}$
+\form#129:$ V^{ij}_{ij} $
+\form#130:$ V^{ij}_{ji} $
+\form#131:$ X^{ij}_{ij} $
+\form#132:$ X^{ij}_{ji} $
+\form#133:$ B^{ij}_{ij} $
+\form#134:$ B^{ij}_{ji} $
+\form#135:$ \gamma^{p}_{q} $
+\form#136:$ \gamma^{pq}_{rs} $
+\form#137:$ V^{ij}_{mn} $
+\form#138:$ X^{ij}_{kl} $
+\form#139:$ B^{ij}_{kl} $
+\form#140:$ r_{12}^{-1} $
+\form#141:$ f(r_{12}) $
+\form#142:$ r_{12}^{-1} f(r_{12}) $
+\form#143:$ [f(r_{12}), [ \hat{T}_1 , f(r_{12})]] $
+\form#144:$ \Gamma $
+\form#145:$ - \bf{r}_i $
+\form#146:$ - \bf{r}_i \bf{r}_j $
+\form#147:$ \gamma^{r}_{c} $
+\form#148:$\mathrm{CC}-(2)_{\overline{R12}}$
+\form#149:$\mathrm{CCSD}-(2)_{\overline{R12}}$
+\form#150:$\mathrm{CCSD}(T)_{\overline{R12}}$
+\form#151:$\mathrm{CC3}-(2)_{\overline{R12}}$
+\form#152:$n_\mathrm{socc}$
+\form#153:$n_\mathrm{docc}$
+\form#154:$n_\mathrm{docc} = (c - n_\mathrm{socc})/2$
+\form#155:$\Delta D$
+\form#156:$D$
+\form#157:$G$
+\form#158:$m$
+\form#159:$m - 1$
+\form#160:$O$
+\form#161:$X O X^T$
+\form#162:$ c x^k \exp(-a*x) $
+\form#163:\[ \bar{x}' = f(\bar{x}) \]
+\form#164:$ \sum_{i,j} A(i,j) * B(i,j) $
+\form#165:$ A(i,j) *= B(i,j), \forall i,j $
+\form#166:$ Y(i,j) += a*X(i,j), \forall i,j $
+\form#167:$m_{ij}$
+\form#168:$a_i$
+\form#169:$b_j$
+\form#170:$T_d$
+\form#171:$I_h$
+\form#172:$n$

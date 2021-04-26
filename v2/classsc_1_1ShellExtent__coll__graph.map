@@ -1,0 +1,5 @@
+<map id="sc::ShellExtent" name="sc::ShellExtent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,115,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="11,79,109,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="18,5,103,31"/>
+</map>

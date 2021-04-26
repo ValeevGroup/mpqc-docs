@@ -1,0 +1,11 @@
+<map id="sc::MolecularHessian" name="sc::MolecularHessian">
+<area shape="rect" id="node1" title="MolecularHessian is an abstract class that computes a molecule&#39;s second derivatives of the energy wit..." alt="" coords="638,80,786,105"/>
+<area shape="rect" id="node6" href="$classsc_1_1DiagMolecularHessian.html" title="DiagMolecularHessian is an implementation of MolecularHessian that returns a hessian that is a diagon..." alt="" coords="843,5,1018,31"/>
+<area shape="rect" id="node7" href="$classsc_1_1FinDispMolecularHessian.html" title="Computes the molecular hessian by finite displacements of gradients." alt="" coords="834,55,1027,80"/>
+<area shape="rect" id="node8" href="$classsc_1_1GuessMolecularHessian.html" title="GuessMolecularHessian is an implementation of MolecularHessian that estimates the hessian based on th..." alt="" coords="837,104,1024,129"/>
+<area shape="rect" id="node9" href="$classsc_1_1ReadMolecularHessian.html" title="ReadMolecularHessian is an implementation of MolecularHessian that reads the hessian from a file." alt="" coords="840,153,1020,179"/>
+<area shape="rect" id="node2" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="468,80,590,105"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="285,80,420,105"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="138,80,237,105"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="5,80,90,105"/>
+</map>

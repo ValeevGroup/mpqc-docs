@@ -1,0 +1,6 @@
+<map id="sc::DipoleIntV3" name="sc::DipoleIntV3">
+<area shape="rect" id="node1" title=" " alt="" coords="6,225,117,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1OneBodyInt.html" title="OneBodyInt is an abstract base class for objects that compute integrals between two basis functions." alt="" coords="5,152,118,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="12,79,111,104"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="19,5,104,31"/>
+</map>

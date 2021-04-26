@@ -1,0 +1,14 @@
+<map id="sc::GuessMolecularHessian" name="sc::GuessMolecularHessian">
+<area shape="rect" id="node1" title="GuessMolecularHessian is an implementation of MolecularHessian that estimates the hessian based on th..." alt="" coords="1149,193,1335,219"/>
+<area shape="rect" id="node2" href="$classsc_1_1MolecularHessian.html" title="MolecularHessian is an abstract class that computes a molecule&#39;s second derivatives of the energy wit..." alt="" coords="951,117,1099,143"/>
+<area shape="rect" id="node3" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="708,5,829,31"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="303,5,439,31"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="140,5,238,31"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="5,5,90,31"/>
+<area shape="rect" id="node7" href="$classsc_1_1Ref.html" title=" " alt="" coords="487,59,664,84"/>
+<area shape="rect" id="node8" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="142,151,236,176"/>
+<area shape="rect" id="node10" href="$classsc_1_1Ref.html" title=" " alt="" coords="287,117,455,143"/>
+<area shape="rect" id="node11" href="$classsc_1_1Ref.html" title=" " alt="" coords="495,168,655,193"/>
+<area shape="rect" id="node12" href="$classsc_1_1Ref.html" title=" " alt="" coords="479,227,672,252"/>
+<area shape="rect" id="node9" href="$classsc_1_1RefSCDimension.html" title="The RefSCDimension class is a smart pointer to an SCDimension specialization." alt="" coords="696,117,840,143"/>
+</map>

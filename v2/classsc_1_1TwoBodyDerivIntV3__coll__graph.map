@@ -1,0 +1,13 @@
+<map id="sc::TwoBodyDerivIntV3" name="sc::TwoBodyDerivIntV3">
+<area shape="rect" id="node1" title="This implements electron repulsion derivative integrals in the IntV3 library." alt="" coords="460,559,619,584"/>
+<area shape="rect" id="node2" href="$classsc_1_1TwoBodyDerivInt.html" title="This is an abstract base type for classes that compute integrals involving two electrons." alt="" coords="388,484,531,509"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="5,80,104,105"/>
+<area shape="rect" id="node7" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="76,155,212,180"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="12,5,97,31"/>
+<area shape="rect" id="node5" href="$classsc_1_1Integral.html" title="The Integral abstract class acts as a factory to provide objects that compute one and two electron in..." alt="" coords="367,383,454,409"/>
+<area shape="rect" id="node6" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="79,236,201,261"/>
+<area shape="rect" id="node8" href="$classsc_1_1Ref.html" title=" " alt="" coords="224,236,407,261"/>
+<area shape="rect" id="node9" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="477,155,570,180"/>
+<area shape="rect" id="node10" href="$classsc_1_1Ref.html" title=" " alt="" coords="432,229,616,268"/>
+<area shape="rect" id="node11" href="$classsc_1_1Ref.html" title=" " alt="" coords="560,306,712,331"/>
+</map>

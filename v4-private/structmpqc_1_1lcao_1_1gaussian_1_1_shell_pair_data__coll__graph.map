@@ -1,0 +1,6 @@
+<map id="mpqc::lcao::gaussian::ShellPairData" name="mpqc::lcao::gaussian::ShellPairData">
+<area shape="rect" id="node1" title="aggregate of the Libint2 and SQVl shell&#45;pair data" alt="" coords="72,184,231,225"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,102,132,129"/>
+<area shape="rect" id="node3" href="$structmpqc_1_1lcao_1_1gaussian_1_1_s_q_vl_shell_pair_data.html" title="This holds shell&#45;specific data relevant to the SVQ(l) integral estimator described in DOI 10...." alt="" coords="156,95,315,136"/>
+<area shape="rect" id="node4" href="$structmpqc_1_1lcao_1_1gaussian_1_1_f_m_m_shell_pair_data.html" title="This holds shell&#45;pair&#45;specific data relevant to FMM and related methods." alt="" coords="156,5,315,47"/>
+</map>

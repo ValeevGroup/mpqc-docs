@@ -1,0 +1,5 @@
+<map id="mpqc::lcao::pbc::PMzLocalizer&lt; Tile, Policy, Mat &gt;" name="mpqc::lcao::pbc::PMzLocalizer&lt; Tile, Policy, Mat &gt;">
+<area shape="rect" id="node1" title="Performs Pipek&#45;Mezey localization." alt="" coords="588,20,805,61"/>
+<area shape="rect" id="node2" href="$classmpqc_1_1lcao_1_1pbc_1_1_non_linear_conj_gradient.html" title=" " alt="" coords="264,5,540,76"/>
+<area shape="rect" id="node3" href="$classmpqc_1_1lcao_1_1z_orbital_localizer.html" title=" " alt="" coords="5,20,216,61"/>
+</map>

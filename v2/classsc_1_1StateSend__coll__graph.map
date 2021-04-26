@@ -1,0 +1,11 @@
+<map id="sc::StateSend" name="sc::StateSend">
+<area shape="rect" id="node1" title="StateSend is a concrete specialization of MsgStateSend that does the send part of point to point comm..." alt="" coords="257,403,361,428"/>
+<area shape="rect" id="node2" href="$classsc_1_1MsgStateSend.html" title="The MsgStateSend is an abstract base class that sends objects to nodes in a MessageGrp." alt="" coords="244,328,374,353"/>
+<area shape="rect" id="node3" href="$classsc_1_1StateOut.html" title="Serializes objects that derive from SavableState." alt="" coords="182,241,276,267"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="5,155,141,180"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="24,80,122,105"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="31,5,116,31"/>
+<area shape="rect" id="node7" href="$classsc_1_1TranslateDataOut.html" title="Convert data to other formats." alt="" coords="165,155,312,180"/>
+<area shape="rect" id="node8" href="$classsc_1_1Ref.html" title=" " alt="" coords="300,241,483,267"/>
+<area shape="rect" id="node9" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="345,155,438,180"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="sc::KeyVal" name="sc::KeyVal">
+<area shape="rect" id="node1" title="The KeyVal class is designed to simplify the process of allowing a user to specify keyword/value asso..." alt="" coords="277,152,361,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1AggregateKeyVal.html" title="This takes several KeyVal objects and makes them look like one KeyVal object." alt="" coords="5,225,150,251"/>
+<area shape="rect" id="node5" href="$classsc_1_1AssignedKeyVal.html" title="This class allows keyval associations to be set up by the program, rather than determined by an exter..." alt="" coords="174,225,312,251"/>
+<area shape="rect" id="node6" href="$classsc_1_1PrefixKeyVal.html" title="PrefixKeyVal is a KeyVal that searches a different KeyVal using modified keys." alt="" coords="336,225,454,251"/>
+<area shape="rect" id="node7" href="$classsc_1_1StringKeyVal.html" title="StringKeyVal is a base class for KeyVal implementations that store all values in a string format." alt="" coords="477,225,596,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="270,79,368,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="277,5,362,31"/>
+<area shape="rect" id="node8" href="$classsc_1_1ParsedKeyVal.html" title="Converts textual information into keyword/value assocations." alt="" coords="474,299,599,324"/>
+</map>

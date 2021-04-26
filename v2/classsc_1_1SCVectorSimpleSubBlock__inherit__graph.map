@@ -1,0 +1,8 @@
+<map id="sc::SCVectorSimpleSubBlock" name="sc::SCVectorSimpleSubBlock">
+<area shape="rect" id="node1" title="The SCVectorSimpleSubBlock describes a subblock of a vector." alt="" coords="5,372,201,397"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCMatrixBlock.html" title="SCMatrixBlock is the base clase for all types of blocks that comprise matrices and vectors." alt="" coords="38,299,168,324"/>
+<area shape="rect" id="node3" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="42,225,164,251"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="35,152,171,177"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="54,79,152,104"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="61,5,146,31"/>
+</map>

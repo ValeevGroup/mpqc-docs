@@ -1,0 +1,11 @@
+<map id="sc::MsgStateBufRecv" name="sc::MsgStateBufRecv">
+<area shape="rect" id="node1" title="The MsgStateBufRecv is an abstract base class that buffers objects sent through a MessageGrp." alt="" coords="78,299,227,324"/>
+<area shape="rect" id="node6" href="$classsc_1_1BcastStateInBin.html" title="BcastStateBin reads a file in written by StateInBin on node 0 and broadcasts it to all nodes so state..." alt="" coords="5,372,142,397"/>
+<area shape="rect" id="node7" href="$classsc_1_1MsgStateRecv.html" title="The MsgStateRecv is an abstract base class that receives objects from nodes in a MessageGrp." alt="" coords="167,372,296,397"/>
+<area shape="rect" id="node2" href="$classsc_1_1StateIn.html" title="Restores objects that derive from SavableState." alt="" coords="110,225,195,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="85,152,220,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="103,79,202,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="110,5,195,31"/>
+<area shape="rect" id="node8" href="$classsc_1_1BcastStateRecv.html" title="BcastStateRecv does the receive part of a broadcast of an object to all nodes." alt="" coords="91,445,228,471"/>
+<area shape="rect" id="node9" href="$classsc_1_1StateRecv.html" title="StateRecv is a concrete specialization of MsgStateRecv that does the receive part of point to point c..." alt="" coords="251,445,355,471"/>
+</map>

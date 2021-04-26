@@ -1,0 +1,11 @@
+<map id="sc::MPIMessageGrp" name="sc::MPIMessageGrp">
+<area shape="rect" id="node1" title="The MPIMessageGrp class is an concrete implementation of MessageGrp that uses the MPI 1 library." alt="" coords="309,328,451,353"/>
+<area shape="rect" id="node2" href="$classsc_1_1MessageGrp.html" title="The MessageGrp abstract class provides a mechanism for moving data and objects between nodes in a par..." alt="" coords="167,253,286,279"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="5,155,141,180"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="24,80,122,105"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="31,5,116,31"/>
+<area shape="rect" id="node6" href="$classsc_1_1Ref.html" title=" " alt="" coords="165,155,376,180"/>
+<area shape="rect" id="node7" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="366,80,460,105"/>
+<area shape="rect" id="node8" href="$classsc_1_1Ref.html" title=" " alt="" coords="294,204,465,229"/>
+<area shape="rect" id="node9" href="$classsc_1_1Ref.html" title=" " alt="" coords="471,204,648,229"/>
+</map>

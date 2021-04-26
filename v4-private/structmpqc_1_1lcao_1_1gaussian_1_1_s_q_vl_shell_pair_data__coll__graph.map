@@ -1,0 +1,4 @@
+<map id="mpqc::lcao::gaussian::SQVlShellPairData" name="mpqc::lcao::gaussian::SQVlShellPairData">
+<area shape="rect" id="node1" title="This holds shell&#45;specific data relevant to the SVQ(l) integral estimator described in DOI 10...." alt="" coords="5,95,164,136"/>
+<area shape="rect" id="node2" href="$structmpqc_1_1lcao_1_1gaussian_1_1_f_m_m_shell_pair_data.html" title="This holds shell&#45;pair&#45;specific data relevant to FMM and related methods." alt="" coords="5,5,164,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mpqc::lcao::ThresholdedScreener" name="mpqc::lcao::ThresholdedScreener">
+<area shape="rect" id="node1" title="ThresholdedScreener is a Screener equipped with a (mutable) real threshold." alt="" coords="5,80,244,107"/>
+<area shape="rect" id="node2" href="$classmpqc_1_1lcao_1_1_screener.html" title="Base class for screeners will never skip any integrals." alt="" coords="45,5,204,32"/>
+</map>

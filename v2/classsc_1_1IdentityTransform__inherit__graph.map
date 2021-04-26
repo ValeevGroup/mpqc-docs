@@ -1,0 +1,6 @@
+<map id="sc::IdentityTransform" name="sc::IdentityTransform">
+<area shape="rect" id="node1" title="The IdentityTransform is a special case of NonlinearTransform were no transformation takes place." alt="" coords="12,225,158,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1NonlinearTransform.html" title="The NonlinearTransform class transforms between two nonlinear coordinate systems." alt="" coords="5,152,165,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="36,79,134,104"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="43,5,128,31"/>
+</map>

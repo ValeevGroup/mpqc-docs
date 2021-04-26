@@ -1,0 +1,8 @@
+<map id="sc::BcastStateSend" name="sc::BcastStateSend">
+<area shape="rect" id="node1" title="BcastStateSend does the send part of a broadcast of an object to all nodes." alt="" coords="5,372,143,397"/>
+<area shape="rect" id="node2" href="$classsc_1_1MsgStateSend.html" title="The MsgStateSend is an abstract base class that sends objects to nodes in a MessageGrp." alt="" coords="9,299,139,324"/>
+<area shape="rect" id="node3" href="$classsc_1_1StateOut.html" title="Serializes objects that derive from SavableState." alt="" coords="27,225,122,251"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="6,152,142,177"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="25,79,123,104"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="32,5,117,31"/>
+</map>

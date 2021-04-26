@@ -1,0 +1,11 @@
+<map id="sc::ShmMessageGrp" name="sc::ShmMessageGrp">
+<area shape="rect" id="node1" title="The ShmMessageGrp class is an implementation of MessageGrp that allows multiple process to be started..." alt="" coords="176,403,322,428"/>
+<area shape="rect" id="node2" href="$classsc_1_1intMessageGrp.html" title="Uses integer message types to send and receive messages." alt="" coords="104,316,237,341"/>
+<area shape="rect" id="node3" href="$classsc_1_1MessageGrp.html" title="The MessageGrp abstract class provides a mechanism for moving data and objects between nodes in a par..." alt="" coords="111,241,230,267"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="5,155,141,180"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="24,80,122,105"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="31,5,116,31"/>
+<area shape="rect" id="node7" href="$classsc_1_1Ref.html" title=" " alt="" coords="165,155,376,180"/>
+<area shape="rect" id="node8" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="224,80,317,105"/>
+<area shape="rect" id="node9" href="$structsc_1_1commbuf__struct.html" title=" " alt="" coords="261,316,398,341"/>
+</map>

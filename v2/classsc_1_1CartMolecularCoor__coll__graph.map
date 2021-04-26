@@ -1,0 +1,13 @@
+<map id="sc::CartMolecularCoor" name="sc::CartMolecularCoor">
+<area shape="rect" id="node1" title="The CartMolecularCoor class implements Cartesian coordinates in a way suitable for use in geometry op..." alt="" coords="51,415,205,440"/>
+<area shape="rect" id="node2" href="$classsc_1_1MolecularCoor.html" title="The MolecularCoor abstract class describes the coordinate system used to describe a molecule." alt="" coords="150,340,279,365"/>
+<area shape="rect" id="node3" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="411,253,532,279"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="404,155,539,180"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="422,80,521,105"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="429,5,514,31"/>
+<area shape="rect" id="node7" href="$classsc_1_1Ref.html" title=" " alt="" coords="275,204,452,229"/>
+<area shape="rect" id="node8" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="164,80,257,105"/>
+<area shape="rect" id="node10" href="$classsc_1_1Ref.html" title=" " alt="" coords="5,155,173,180"/>
+<area shape="rect" id="node11" href="$classsc_1_1Ref.html" title=" " alt="" coords="109,204,269,229"/>
+<area shape="rect" id="node9" href="$classsc_1_1RefSCDimension.html" title="The RefSCDimension class is a smart pointer to an SCDimension specialization." alt="" coords="17,253,161,279"/>
+</map>

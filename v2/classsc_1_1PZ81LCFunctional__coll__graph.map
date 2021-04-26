@@ -1,0 +1,9 @@
+<map id="sc::PZ81LCFunctional" name="sc::PZ81LCFunctional">
+<area shape="rect" id="node1" title="Implements the PZ81 local (LSDA) correlation functional." alt="" coords="5,445,158,471"/>
+<area shape="rect" id="node2" href="$classsc_1_1LSDACFunctional.html" title="An abstract base class for local correlation functionals." alt="" coords="8,372,156,397"/>
+<area shape="rect" id="node3" href="$classsc_1_1DenFunctional.html" title="An abstract base class for density functionals." alt="" coords="18,299,146,324"/>
+<area shape="rect" id="node4" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="21,225,142,251"/>
+<area shape="rect" id="node5" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="14,152,149,177"/>
+<area shape="rect" id="node6" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="32,79,131,104"/>
+<area shape="rect" id="node7" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="39,5,124,31"/>
+</map>

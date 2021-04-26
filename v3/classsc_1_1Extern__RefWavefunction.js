@@ -1,0 +1,26 @@
+var classsc_1_1Extern__RefWavefunction =
+[
+    [ "Extern_RefWavefunction", "classsc_1_1Extern__RefWavefunction.html#a0548b3c78c939e3f3bb492780616ab44", null ],
+    [ "Extern_RefWavefunction", "classsc_1_1Extern__RefWavefunction.html#ae5e4e4df11ade3ed4790d954afae9bc2", null ],
+    [ "Extern_RefWavefunction", "classsc_1_1Extern__RefWavefunction.html#aea0551bcb86bda0835f38ae32f9aa88f", null ],
+    [ "~Extern_RefWavefunction", "classsc_1_1Extern__RefWavefunction.html#ad21cb69580011666b80c310f1d578cde", null ],
+    [ "actual_value_accuracy", "classsc_1_1Extern__RefWavefunction.html#ae50c473f10a58c9f2e546c1b153d9d89", null ],
+    [ "core_hamiltonian_for_basis", "classsc_1_1Extern__RefWavefunction.html#a89f877245454a5f6b79d34714761cbff", null ],
+    [ "desired_value_accuracy", "classsc_1_1Extern__RefWavefunction.html#a45b12621bc5e766dd4b2abe8ba847ae6", null ],
+    [ "dk", "classsc_1_1Extern__RefWavefunction.html#a97fe2d8b1eda230220e2d1a18fc715bf", null ],
+    [ "energy", "classsc_1_1Extern__RefWavefunction.html#a5717937cce30b34a899fb3ef0ab63988", null ],
+    [ "magnetic_moment", "classsc_1_1Extern__RefWavefunction.html#a59357d5ca40adebfab0f3c3db1db6617", null ],
+    [ "momentum_basis", "classsc_1_1Extern__RefWavefunction.html#aca51cd488762432ea085147645269a39", null ],
+    [ "nelectron", "classsc_1_1Extern__RefWavefunction.html#a8546d322630a6d0aee7205249abb5732", null ],
+    [ "nfzc", "classsc_1_1Extern__RefWavefunction.html#ab7c8feab978e4a4bd52409220441fd53", null ],
+    [ "nfzv", "classsc_1_1Extern__RefWavefunction.html#a77932f3ceb4ec7163e7ed462886a9e32", null ],
+    [ "obsolete", "classsc_1_1Extern__RefWavefunction.html#a97898630413eeca235b467113d5a7420", null ],
+    [ "omit_uocc", "classsc_1_1Extern__RefWavefunction.html#aca686d993929a5c8083679621e35bf8d", null ],
+    [ "ordm", "classsc_1_1Extern__RefWavefunction.html#a2994850ea64beb722b1e5cae79b1fe03", null ],
+    [ "ordm_idempotent", "classsc_1_1Extern__RefWavefunction.html#a155187657e54ba7c1c730dbf6ae45664", null ],
+    [ "print", "classsc_1_1Extern__RefWavefunction.html#a016be6804a997dbdc45ce99f5b868fef", null ],
+    [ "save_data_state", "classsc_1_1Extern__RefWavefunction.html#aec0fc0cf2ef80eef708a51dad9bf7c58", null ],
+    [ "sdref", "classsc_1_1Extern__RefWavefunction.html#a4c8a98f634271e24cf9e8b42c47adbf2", null ],
+    [ "spin_polarized", "classsc_1_1Extern__RefWavefunction.html#aeb6c413b3de6179e06c010bf376b17ac", null ],
+    [ "spin_restricted", "classsc_1_1Extern__RefWavefunction.html#a96243215e973db8e0226b754999e1fef", null ]
+];

@@ -1,0 +1,12 @@
+<map id="sc::ReplSCMatrix" name="sc::ReplSCMatrix">
+<area shape="rect" id="node1" title=" " alt="" coords="263,367,387,392"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCMatrix.html" title="The SCMatrix class is the abstract base class for general double valued n by m matrices." alt="" coords="182,292,279,317"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="5,192,141,217"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="24,80,122,105"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="31,5,116,31"/>
+<area shape="rect" id="node6" href="$classsc_1_1Ref.html" title=" " alt="" coords="99,136,276,161"/>
+<area shape="rect" id="node7" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="262,5,356,31"/>
+<area shape="rect" id="node9" href="$classsc_1_1Ref.html" title=" " alt="" coords="225,80,393,105"/>
+<area shape="rect" id="node10" href="$classsc_1_1Ref.html" title=" " alt="" coords="334,129,516,168"/>
+<area shape="rect" id="node8" href="$classsc_1_1RefSCDimension.html" title="The RefSCDimension class is a smart pointer to an SCDimension specialization." alt="" coords="237,192,381,217"/>
+</map>

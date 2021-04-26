@@ -1,0 +1,6 @@
+<map id="sc::SyscallFailed" name="sc::SyscallFailed">
+<area shape="rect" id="node1" title="This is thrown when an system call fails with an errno." alt="" coords="18,225,138,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1SystemException.html" title="This is thrown when a system problem occurs." alt="" coords="5,152,150,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1SCException.html" title="This is a std::exception specialization that records information about where an exception took place." alt="" coords="18,79,137,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="26,5,130,31"/>
+</map>
