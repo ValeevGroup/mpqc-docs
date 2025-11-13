@@ -1,0 +1,7 @@
+theme: jekyll-theme-midnight
+include:
+  - _*.html
+  - _*.js
+  - "_static"
+  - "_sources"
+  - "_images"

@@ -1,0 +1,13 @@
+<map id="mpqc::math::Optimizer&lt; Real, Params &gt;" name="mpqc::math::Optimizer&lt; Real, Params &gt;">
+<area shape="rect" id="Node000001" title="It is itself a Function, namely Function&lt;Params, std::tuple&lt;&gt;&gt;." alt="" coords="116,401,288,441"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,313,196,353"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,360,181,399,178,403,132,364"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1_described_class.html" title=" " alt="" coords="220,321,387,346"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,357,226,403,223,399,277,353"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="193,225,414,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,279,306,320,301,320,301,279"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="212,123,395,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,191,306,225,301,225,301,191"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="212,5,395,75"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="306,88,306,122,301,122,301,88"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="mpqc::lcao::pbc::PMzLocalizerBFGS&lt; Tile, Policy &gt;" name="mpqc::lcao::pbc::PMzLocalizerBFGS&lt; Tile, Policy &gt;">
+<area shape="rect" id="Node000001" title="Implements L&#45;BFGS for PM." alt="" coords="7,460,225,500"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1lcao_1_1z_orbital_localizer.html" title=" " alt="" coords="11,387,221,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,426,119,460,113,460,113,426"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1_described_class.html" title=" " alt="" coords="33,313,199,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,352,119,387,113,387,113,352"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="5,225,227,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,279,119,313,113,313,113,279"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="25,123,207,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="119,191,119,225,113,225,113,191"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="25,5,207,75"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="119,88,119,122,113,122,113,88"/>
+</map>

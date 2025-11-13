@@ -1,0 +1,8 @@
+<map id="sc::RenderedStickMolecule" name="sc::RenderedStickMolecule">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,188,397"/>
+<area shape="rect" id="node2" href="$classsc_1_1RenderedMolecule.html" title=" " alt="" coords="20,299,174,324"/>
+<area shape="rect" id="node3" href="$classsc_1_1RenderedObject.html" title=" " alt="" coords="27,225,166,251"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="29,152,164,177"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="48,79,146,104"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="54,5,139,31"/>
+</map>

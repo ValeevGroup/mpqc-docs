@@ -1,0 +1,24 @@
+<map id="mpqc/chemistry/qc/lcao/basis" name="mpqc/chemistry/qc/lcao/basis">
+<area shape="rect" id="node1" href="dir_ccca7abcd5dfb15bb9fa9e68acbdf5bb.html" title="expression" alt="" coords="152,136,245,161"/>
+<area shape="poly" id="edge3" href="dir_000000_000019.html" alt="" coords="163,87,186,123,182,126,159,90"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000000_000019.html" title="3" alt="" coords="184,109,193,123"/>
+<area shape="rect" id="node5" href="dir_048f7c5b69cb7e1832edab50eaa5c4ea.html" title="util" alt="" coords="317,136,360,161"/>
+<area shape="poly" id="edge1" href="dir_000000_000068.html" alt="" coords="174,86,194,96,250,115,305,131,304,136,248,120,192,101,171,91"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000000_000068.html" title="17" alt="" coords="294,117,312,131"/>
+<area shape="rect" id="node6" href="dir_05301f9ba83e223c2c24bb4e5a915266.html" title="math" alt="" coords="384,136,440,161"/>
+<area shape="poly" id="edge2" href="dir_000000_000037.html" alt="" coords="173,86,194,96,241,111,280,118,371,133,370,138,279,123,240,116,192,101,170,91"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000000_000037.html" title="6" alt="" coords="363,119,373,134"/>
+<area shape="rect" id="node3" href="dir_1631bb75adb030bd389a40d81b1b1004.html" title="gaussian" alt="" coords="205,63,285,88"/>
+<area shape="poly" id="edge7" href="dir_000027_000019.html" alt="" coords="240,90,216,126,212,123,235,87"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000027_000019.html" title="1" alt="" coords="219,118,228,133"/>
+<area shape="poly" id="edge4" href="dir_000027_000068.html" alt="" coords="262,86,314,125,311,130,259,90"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000027_000068.html" title="13" alt="" coords="305,111,323,125"/>
+<area shape="poly" id="edge5" href="dir_000027_000037.html" alt="" coords="273,86,373,128,371,133,271,90"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000027_000037.html" title="5" alt="" coords="367,114,376,128"/>
+<area shape="rect" id="node7" href="dir_79e09b370f6f9aca9214ea225a19a126.html" title="molecule" alt="" coords="464,136,547,161"/>
+<area shape="poly" id="edge6" href="dir_000027_000043.html" alt="" coords="286,85,451,130,450,135,285,90"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000027_000043.html" title="5" alt="" coords="444,116,453,131"/>
+<area shape="rect" id="node4" href="dir_2aa82ce894c4a2ffce2abd814218a74e.html" title="model" alt="" coords="38,63,101,88"/>
+<area shape="rect" id="clust2" href="dir_50885d8df49e326e988828eb2c569376.html" alt="" coords="27,52,296,99"/>
+<area shape="rect" id="clust1" href="dir_f442f60972c0f9169917a25cab152b2a.html" title="lcao" alt="" coords="16,16,307,172"/>
+</map>

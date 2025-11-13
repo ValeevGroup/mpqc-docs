@@ -1,0 +1,7 @@
+<map id="sc::RegionTimer" name="sc::RegionTimer">
+<area shape="rect" id="node1" title="The RegionTimer class is used to record the time spent in a section of code." alt="" coords="127,268,245,293"/>
+<area shape="rect" id="node2" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="5,155,141,180"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="24,80,122,105"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="31,5,116,31"/>
+<area shape="rect" id="node5" href="$classsc_1_1TimedRegion.html" title=" " alt="" coords="165,155,285,180"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="mpqc::lcao::OrbitalSpaceRegistry&lt; Array &gt;" name="mpqc::lcao::OrbitalSpaceRegistry&lt; Array &gt;">
+<area shape="rect" id="Node000001" title="OrbitalSpaceRegistry is an OrbitalRegistry that maps OrbitalIndex to OrbitalSpace class." alt="" coords="712,20,896,60"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1_s_p_space_registry.html" title=" " alt="" coords="469,5,664,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="678,37,712,37,712,43,678,43"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1_s_p_registry.html" title="map SPIndex to Value object" alt="" coords="219,27,421,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,37,469,37,469,43,435,43"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1utility_1_1_registry.html" title=" " alt="" coords="5,20,171,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="184,37,219,37,219,43,184,43"/>
+</map>

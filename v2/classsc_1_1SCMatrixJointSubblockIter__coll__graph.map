@@ -1,0 +1,8 @@
+<map id="sc::SCMatrixJointSubblockIter" name="sc::SCMatrixJointSubblockIter">
+<area shape="rect" id="node1" title=" " alt="" coords="97,255,296,280"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCMatrixSubblockIter.html" title="Objects of class SCMatrixSubblockIter are used to iterate through the blocks of a matrix." alt="" coords="5,161,176,187"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="42,80,140,105"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="48,5,133,31"/>
+<area shape="rect" id="node5" href="$classsc_1_1Ref.html" title=" " alt="" coords="200,155,405,193"/>
+<area shape="rect" id="node6" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="256,80,349,105"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sc::Int1eV3" name="sc::Int1eV3">
+<area shape="rect" id="node1" title="Int1eV3 is a class wrapper for the one body part of the C language IntV3 library." alt="" coords="11,152,99,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="5,79,104,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="12,5,97,31"/>
+</map>

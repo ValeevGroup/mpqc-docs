@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmpqc_1_1_formula_registry_base.html" title=" " alt="" coords="5,202,211,227"/>
+<area shape="rect" id="Node000001" href="$classmpqc_1_1_formula_registry.html" title=" " alt="" coords="283,69,457,109"/>
+<area shape="poly" id="edge31_Node000000_Node000001" title=" " alt="" coords="141,193,209,151,233,134,257,119,288,107,290,112,260,124,236,138,212,156,144,197"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1_formula_registry.html" title=" " alt="" coords="283,133,457,173"/>
+<area shape="poly" id="edge32_Node000000_Node000003" title=" " alt="" coords="176,196,283,171,284,176,177,201"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1_formula_registry.html" title=" " alt="" coords="283,197,457,237"/>
+<area shape="poly" id="edge33_Node000000_Node000004" title=" " alt="" coords="224,213,283,214,283,219,224,219"/>
+<area shape="rect" id="Node000007" href="$classmpqc_1_1_formula_registry.html" title="map Formula to Value object" alt="" coords="283,261,457,301"/>
+<area shape="poly" id="edge34_Node000000_Node000007" title=" " alt="" coords="173,228,291,259,290,264,171,233"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1utility_1_1_registry.html" title="a syntactically&#45;sweet wrapper of std::map, not thread_safe for writing" alt="" coords="25,101,191,141"/>
+<area shape="poly" id="edge35_Node000002_Node000001" title=" " alt="" coords="204,107,283,97,283,103,204,112"/>
+<area shape="poly" id="edge36_Node000002_Node000003" title=" " alt="" coords="204,130,283,140,283,145,204,136"/>
+<area shape="poly" id="edge37_Node000002_Node000004" title=" " alt="" coords="166,145,260,183,296,195,294,200,258,188,164,150"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="259,5,481,45"/>
+<area shape="poly" id="edge38_Node000002_Node000005" title=" " alt="" coords="164,93,258,55,294,43,296,48,260,60,166,98"/>
+<area shape="rect" id="Node000006" href="$classmpqc_1_1_s_p_space_registry.html" title="SPSpaceRegistry is an SPRegistry that maps SPIndex to a SPSpace or its derived class." alt="" coords="529,5,704,45"/>
+<area shape="poly" id="edge39_Node000005_Node000006" title=" " alt="" coords="495,23,529,23,529,28,495,28"/>
+<area shape="rect" id="Node000008" href="$classmpqc_1_1utility_1_1_registry.html" title=" " alt="" coords="25,261,191,301"/>
+<area shape="poly" id="edge40_Node000008_Node000007" title=" " alt="" coords="204,279,283,279,283,284,204,284"/>
+</map>

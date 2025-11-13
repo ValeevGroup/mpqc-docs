@@ -1,0 +1,5 @@
+<map id="sc::PointInputData" name="sc::PointInputData">
+<area shape="rect" id="node1" title="Contains data needed at each point by a DenFunctional." alt="" coords="64,119,194,144"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCVector3.html" title=" " alt="" coords="5,12,111,37"/>
+<area shape="rect" id="node3" href="$structsc_1_1PointInputData_1_1SpinData.html" title=" " alt="" coords="136,5,266,44"/>
+</map>

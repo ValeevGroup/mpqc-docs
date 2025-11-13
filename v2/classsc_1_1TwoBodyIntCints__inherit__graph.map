@@ -1,0 +1,6 @@
+<map id="sc::TwoBodyIntCints" name="sc::TwoBodyIntCints">
+<area shape="rect" id="node1" title="This implements electron repulsion integrals in the IntCints library." alt="" coords="5,225,147,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1TwoBodyInt.html" title="This is an abstract base type for classes that compute integrals involving two electrons." alt="" coords="21,152,132,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="27,79,126,104"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="34,5,119,31"/>
+</map>

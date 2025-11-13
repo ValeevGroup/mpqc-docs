@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structmpqc_1_1lcao_1_1detail_1_1_orbital_spread_minimizer.html" title="Abstract orbital spread minimizer." alt="" coords="5,37,228,77"/>
+<area shape="rect" id="Node000001" href="$classmpqc_1_1lcao_1_1detail_1_1_f_b_orbital_spread_minimizer.html" title="finds a stationary point of the Foster&#45;Boys objective function" alt="" coords="278,5,517,45"/>
+<area shape="poly" id="edge46_Node000000_Node000001" title=" " alt="" coords="241,40,277,36,278,42,242,46"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1lcao_1_1detail_1_1_p_m_orbital_spread_minimizer.html" title="finds a stationary point of the Pipek&#45;Mezey objective function" alt="" coords="276,69,519,109"/>
+<area shape="poly" id="edge47_Node000000_Node000002" title=" " alt="" coords="242,69,276,73,275,78,241,74"/>
+</map>

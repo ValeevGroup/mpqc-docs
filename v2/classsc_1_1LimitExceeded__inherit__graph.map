@@ -1,0 +1,5 @@
+<map id="sc::LimitExceeded&lt; T &gt;" name="sc::LimitExceeded&lt; T &gt;">
+<area shape="rect" id="node1" title="This is thrown when a limit is exceeded." alt="" coords="5,152,166,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCException.html" title="This is a std::exception specialization that records information about where an exception took place." alt="" coords="26,79,145,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="34,5,137,31"/>
+</map>

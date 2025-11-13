@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmpqc_1_1math_1_1_function_visitor_base.html" title=" " alt="" coords="5,142,216,182"/>
+<area shape="rect" id="Node000001" href="$classmpqc_1_1_energy_1_1_provider.html" title=" " alt="" coords="285,5,457,31"/>
+<area shape="poly" id="edge266_Node000000_Node000001" title=" " alt="" coords="140,131,194,84,228,61,263,41,297,28,299,33,265,46,230,65,197,88,143,135"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1_excitation_energy_1_1_provider.html" title=" " alt="" coords="283,55,459,95"/>
+<area shape="poly" id="edge267_Node000000_Node000002" title=" " alt="" coords="177,135,263,105,301,93,302,98,265,110,179,140"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1_g_f_real_pole_1_1_provider.html" title=" " alt="" coords="270,120,473,145"/>
+<area shape="poly" id="edge268_Node000000_Node000003" title=" " alt="" coords="229,146,269,141,270,147,230,151"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1_many_body_hamiltonian_1_1_provider.html" title=" " alt="" coords="264,170,479,210"/>
+<area shape="poly" id="edge269_Node000000_Node000004" title=" " alt="" coords="230,172,264,176,263,181,229,177"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1_perturbation_response_1_1_provider.html" title=" " alt="" coords="267,234,476,274"/>
+<area shape="poly" id="edge270_Node000000_Node000005" title=" " alt="" coords="174,185,265,219,302,231,300,237,263,225,172,190"/>
+<area shape="rect" id="Node000006" href="$classmpqc_1_1_r_d_m_1_1_provider.html" title="An abstract provider of RDM&lt;&gt;" alt="" coords="280,298,463,338"/>
+<area shape="poly" id="edge271_Node000000_Node000006" title=" " alt="" coords="143,190,197,238,230,262,265,284,292,296,290,300,263,288,227,267,194,242,139,194"/>
+</map>

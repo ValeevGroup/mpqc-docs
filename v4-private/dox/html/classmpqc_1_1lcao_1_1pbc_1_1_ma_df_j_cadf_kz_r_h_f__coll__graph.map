@@ -1,0 +1,33 @@
+<map id="mpqc::lcao::pbc::MaDfJCadfKzRHF&lt; Tile, Policy &gt;" name="mpqc::lcao::pbc::MaDfJCadfKzRHF&lt; Tile, Policy &gt;">
+<area shape="rect" id="Node000001" title="MaDfJCadfKzRHF uses MA&#45;DF&#45;J for coulomb and CADF&#45;K for exchange." alt="" coords="2289,117,2491,157"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1lcao_1_1pbc_1_1_s_d_1_1_impl.html" title="single&#45;determinant wavefunction under open and periodic boundary conditions." alt="" coords="2080,117,2240,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2254,135,2289,135,2289,140,2254,140"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1lcao_1_1pbc_1_1_s_d.html" title="Abstract single&#45;determinant wavefunction under open and periodic boundary conditions." alt="" coords="1880,117,2031,157"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2044,135,2080,135,2080,140,2044,140"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1lcao_1_1_periodic_wavefunction.html" title="PeriodicAOWavefunction is a Wavefunction with a pbc::gaussian::AOFactory." alt="" coords="1561,61,1804,86"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1765,86,1805,95,1883,115,1882,120,1803,100,1764,91"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1lcao_1_1_wavefunction.html" title=" " alt="" coords="1183,61,1374,86"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1387,71,1561,71,1561,76,1387,76"/>
+<area shape="rect" id="Node000006" href="$classmpqc_1_1_wavefunction.html" title=" " alt="" coords="960,61,1115,86"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1128,71,1183,71,1183,76,1128,76"/>
+<area shape="rect" id="Node000007" href="$classmpqc_1_1_described_class.html" title=" " alt="" coords="742,27,909,53"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="920,52,960,59,960,64,919,57"/>
+<area shape="rect" id="Node000008" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="469,20,691,60"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="705,37,742,37,742,43,705,43"/>
+<area shape="rect" id="Node000009" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="237,13,420,67"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="434,37,469,37,469,43,434,43"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="5,5,188,75"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="202,37,237,37,237,43,202,43"/>
+<area shape="rect" id="Node000011" href="$classmpqc_1_1utility_1_1_observer.html" title="helps to set up messaging between objects via the Observer pattern" alt="" coords="740,77,911,102"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="924,79,960,76,960,82,925,85"/>
+<area shape="rect" id="Node000012" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1589,110,1776,165"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="1790,135,1880,135,1880,140,1790,140"/>
+<area shape="rect" id="Node000013" href="$classmpqc_1_1_key_val.html" title="KeyVal specifies C++ primitive data (booleans, integers, reals, string) and user&#45;defined objects obta..." alt="" coords="1627,189,1738,214"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="1751,185,1803,173,1879,155,1880,160,1805,179,1752,190"/>
+<area shape="rect" id="Node000014" href="$structmpqc_1_1_key_val_1_1dummy__validator__t.html" title=" " alt="" coords="1195,124,1363,164"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1376,155,1627,191,1627,196,1376,160"/>
+<area shape="rect" id="Node000015" href="$structmpqc_1_1_key_val_1_1is__nonnegative__t.html" title=" " alt="" coords="1164,189,1393,214"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="1407,199,1627,199,1627,204,1407,204"/>
+<area shape="rect" id="Node000016" href="$structmpqc_1_1_key_val_1_1is__positive__t.html" title=" " alt="" coords="1179,238,1379,263"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="1392,236,1537,219,1627,207,1627,212,1538,224,1393,241"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sc::RefDiagSCMatrix" name="sc::RefDiagSCMatrix">
+<area shape="rect" id="node1" title="The RefDiagSCMatrix class is a smart pointer to an DiagSCMatrix specialization." alt="" coords="17,152,162,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1Ref.html" title=" " alt="" coords="5,79,173,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="43,5,136,31"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="sc::R12IntsAcc_MPIIOFile_Ind" name="sc::R12IntsAcc_MPIIOFile_Ind">
+<area shape="rect" id="node1" title=" " alt="" coords="140,479,342,504"/>
+<area shape="rect" id="node2" href="$classsc_1_1R12IntsAcc__MPIIOFile.html" title=" " alt="" coords="153,404,330,429"/>
+<area shape="rect" id="node3" href="$classsc_1_1R12IntsAcc.html" title="R12IntsAcc accumulates transformed (MO) integrals stored as (ijxy) where i, j, x, and,..." alt="" coords="18,311,128,336"/>
+<area shape="rect" id="node4" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="12,229,134,255"/>
+<area shape="rect" id="node5" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="5,155,141,180"/>
+<area shape="rect" id="node6" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="24,80,122,105"/>
+<area shape="rect" id="node7" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="31,5,116,31"/>
+<area shape="rect" id="node8" href="$structsc_1_1R12IntsAcc__MPIIOFile_1_1PairBlkInfo.html" title=" " alt="" coords="153,304,330,343"/>
+<area shape="rect" id="node9" href="$classsc_1_1Ref.html" title=" " alt="" coords="354,311,531,336"/>
+<area shape="rect" id="node10" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="396,229,489,255"/>
+</map>

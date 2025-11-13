@@ -1,0 +1,5 @@
+<map id="sc::RefSymmSCMatrix" name="sc::RefSymmSCMatrix">
+<area shape="rect" id="node1" title="The RefSymmSCMatrix class is a smart pointer to an SCSymmSCMatrix specialization." alt="" coords="17,152,172,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1Ref.html" title=" " alt="" coords="5,79,184,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="48,5,141,31"/>
+</map>

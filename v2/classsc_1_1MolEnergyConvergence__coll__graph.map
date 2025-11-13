@@ -1,0 +1,12 @@
+<map id="sc::MolEnergyConvergence" name="sc::MolEnergyConvergence">
+<area shape="rect" id="node1" title=" " alt="" coords="178,441,363,467"/>
+<area shape="rect" id="node2" href="$classsc_1_1Convergence.html" title="The Convergence class is used by the optimizer to determine when an optimization is converged." alt="" coords="160,367,282,392"/>
+<area shape="rect" id="node3" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="15,253,136,279"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="5,155,141,180"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="24,80,122,105"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="31,5,116,31"/>
+<area shape="rect" id="node7" href="$classsc_1_1RefSCVector.html" title="The RefSCVector class is a smart pointer to an SCVector specialization." alt="" coords="161,253,281,279"/>
+<area shape="rect" id="node8" href="$classsc_1_1Ref.html" title=" " alt="" coords="165,155,307,180"/>
+<area shape="rect" id="node9" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="262,80,356,105"/>
+<area shape="rect" id="node10" href="$classsc_1_1Ref.html" title=" " alt="" coords="240,204,447,229"/>
+</map>

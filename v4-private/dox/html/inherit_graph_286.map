@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmpqc_1_1utility_1_1_registry.html" title=" " alt="" coords="5,60,171,100"/>
+<area shape="rect" id="Node000001" href="$classmpqc_1_1_s_p_registry.html" title="map SPIndex to Value object" alt="" coords="219,67,421,93"/>
+<area shape="poly" id="edge331_Node000000_Node000001" title=" " alt="" coords="184,77,219,77,219,83,184,83"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1_s_p_space_registry.html" title=" " alt="" coords="469,5,664,75"/>
+<area shape="poly" id="edge332_Node000001_Node000002" title=" " alt="" coords="412,62,469,53,470,58,413,68"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1lcao_1_1gaussian_1_1_basis_registry.html" title=" " alt="" coords="487,99,646,139"/>
+<area shape="poly" id="edge334_Node000001_Node000004" title=" " alt="" coords="416,92,488,104,487,109,415,98"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1lcao_1_1_orbital_space_registry.html" title="OrbitalSpaceRegistry is an OrbitalRegistry that maps OrbitalIndex to OrbitalSpace class." alt="" coords="712,20,896,60"/>
+<area shape="poly" id="edge333_Node000002_Node000003" title=" " alt="" coords="678,37,712,37,712,43,678,43"/>
+</map>

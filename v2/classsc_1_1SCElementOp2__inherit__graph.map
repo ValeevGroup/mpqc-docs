@@ -1,0 +1,17 @@
+<map id="sc::SCElementOp2" name="sc::SCElementOp2">
+<area shape="rect" id="node1" title="The SCElementOp2 class is very similar to the SCElementOp class except that pairs of blocks are treat..." alt="" coords="638,188,772,213"/>
+<area shape="rect" id="node6" href="$classsc_1_1BlockedSCElementOp2.html" title=" " alt="" coords="826,104,1008,129"/>
+<area shape="rect" id="node13" href="$classsc_1_1SCDestructiveElementProduct.html" title=" " alt="" coords="829,153,1005,192"/>
+<area shape="rect" id="node14" href="$classsc_1_1SCElementScalarProduct.html" title=" " alt="" coords="820,216,1014,241"/>
+<area shape="rect" id="node15" href="$classsc_1_1SCFEnergy.html" title=" " alt="" coords="861,265,972,291"/>
+<area shape="rect" id="node2" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="468,188,590,213"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="285,188,420,213"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="138,188,237,213"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="5,188,90,213"/>
+<area shape="rect" id="node7" href="$classsc_1_1AccumEffectiveH.html" title=" " alt="" coords="1062,80,1205,105"/>
+<area shape="rect" id="node12" href="$classsc_1_1MOLagrangian.html" title=" " alt="" coords="1068,129,1198,155"/>
+<area shape="rect" id="node8" href="$classsc_1_1GSGeneralEffH.html" title=" " alt="" coords="1256,5,1391,31"/>
+<area shape="rect" id="node9" href="$classsc_1_1GSHighSpinEffH.html" title=" " alt="" coords="1253,55,1394,80"/>
+<area shape="rect" id="node10" href="$classsc_1_1PsiEffH.html" title=" " alt="" coords="1280,104,1367,129"/>
+<area shape="rect" id="node11" href="$classsc_1_1TestEffH.html" title=" " alt="" coords="1277,153,1370,179"/>
+</map>

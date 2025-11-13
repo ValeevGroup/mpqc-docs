@@ -1,0 +1,21 @@
+<map id="mpqc::WavefunctionProperty&lt; Value &gt;" name="mpqc::WavefunctionProperty&lt; Value &gt;">
+<area shape="rect" id="Node000001" title="WavefunctionProperty is a Property that can &quot;visit&quot; Wavefunction." alt="" coords="163,563,373,603"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1math_1_1_taylor_expansion_function.html" title=" " alt="" coords="5,475,299,515"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,521,244,560,241,565,187,525"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1math_1_1_function.html" title="Function maps Parameters to a Value." alt="" coords="67,387,237,427"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,441,155,474,149,474,149,441"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1_property.html" title="An abstract property that can be computed by MPQC as a Task." alt="" coords="323,482,445,507"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,518,295,565,292,560,356,513"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1_task.html" title=" " alt="" coords="299,394,394,419"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="360,431,381,480,376,483,355,433"/>
+<area shape="rect" id="Node000006" href="$classmpqc_1_1_described_class.html" title=" " alt="" coords="263,313,430,339"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="349,352,349,394,344,394,344,352"/>
+<area shape="rect" id="Node000007" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="236,225,457,265"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="349,279,349,313,344,313,344,279"/>
+<area shape="rect" id="Node000008" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="255,123,438,177"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="349,191,349,225,344,225,344,191"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="255,5,438,75"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="349,88,349,122,344,122,344,88"/>
+<area shape="rect" id="Node000010" href="$classmpqc_1_1_key_val_1_1_writable.html" title="base class for objects that can write themselves to a KeyVal" alt="" coords="419,394,592,419"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="479,430,402,484,399,480,476,425"/>
+</map>

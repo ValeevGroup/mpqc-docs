@@ -1,0 +1,9 @@
+<map id="sc::StateOutFile" name="sc::StateOutFile">
+<area shape="rect" id="node1" title="Writes state information to files." alt="" coords="74,299,190,324"/>
+<area shape="rect" id="node6" href="$classsc_1_1StateOutBin.html" title="Save state to a binary file." alt="" coords="5,372,119,397"/>
+<area shape="rect" id="node7" href="$classsc_1_1StateOutText.html" title="Writes out state information in an almost human readable format." alt="" coords="143,372,262,397"/>
+<area shape="rect" id="node2" href="$classsc_1_1StateOut.html" title="Serializes objects that derive from SavableState." alt="" coords="84,225,179,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="64,152,199,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="82,79,181,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="89,5,174,31"/>
+</map>

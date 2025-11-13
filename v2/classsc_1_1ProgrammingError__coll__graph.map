@@ -1,0 +1,5 @@
+<map id="sc::ProgrammingError" name="sc::ProgrammingError">
+<area shape="rect" id="node1" title="This is thrown when a situations arises that should be impossible." alt="" coords="5,152,157,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCException.html" title="This is a std::exception specialization that records information about where an exception took place." alt="" coords="22,79,141,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="29,5,133,31"/>
+</map>

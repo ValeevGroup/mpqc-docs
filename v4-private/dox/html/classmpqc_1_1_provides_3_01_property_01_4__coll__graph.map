@@ -1,0 +1,7 @@
+<map id="mpqc::Provides&lt; Property &gt;" name="mpqc::Provides&lt; Property &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="62,79,269,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,37,152,76,149,81,99,41"/>
+<area shape="rect" id="Node000003" href="$structmpqc_1_1_property_provider.html" title="utility class to support runtime casting to property provider" alt="" coords="169,5,343,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,41,182,81,179,76,229,37"/>
+</map>

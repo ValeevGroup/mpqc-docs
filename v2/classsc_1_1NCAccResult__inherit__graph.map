@@ -1,0 +1,5 @@
+<map id="sc::NCAccResult&lt; T &gt;" name="sc::NCAccResult&lt; T &gt;">
+<area shape="rect" id="node1" title="This associates a result non&#45;class datum with an accuracy." alt="" coords="5,152,157,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1AccResultInfo.html" title="This is like ResultInfo but the accuracy with which a result was computed as well as the desired accu..." alt="" coords="19,79,144,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1ResultInfo.html" title="This is a base class for all of Compute&#39;s result types." alt="" coords="30,5,132,31"/>
+</map>

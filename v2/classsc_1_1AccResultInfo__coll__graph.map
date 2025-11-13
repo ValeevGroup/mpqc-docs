@@ -1,0 +1,5 @@
+<map id="sc::AccResultInfo" name="sc::AccResultInfo">
+<area shape="rect" id="node1" title="This is like ResultInfo but the accuracy with which a result was computed as well as the desired accu..." alt="" coords="5,167,130,192"/>
+<area shape="rect" id="node2" href="$classsc_1_1ResultInfo.html" title="This is a base class for all of Compute&#39;s result types." alt="" coords="16,92,119,117"/>
+<area shape="rect" id="node3" href="$classsc_1_1Compute.html" title="The Compute class provides a means of keeping results up to date." alt="" coords="19,5,116,31"/>
+</map>

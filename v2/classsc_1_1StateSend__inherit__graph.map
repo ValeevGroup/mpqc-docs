@@ -1,0 +1,8 @@
+<map id="sc::StateSend" name="sc::StateSend">
+<area shape="rect" id="node1" title="StateSend is a concrete specialization of MsgStateSend that does the send part of point to point comm..." alt="" coords="21,372,125,397"/>
+<area shape="rect" id="node2" href="$classsc_1_1MsgStateSend.html" title="The MsgStateSend is an abstract base class that sends objects to nodes in a MessageGrp." alt="" coords="8,299,138,324"/>
+<area shape="rect" id="node3" href="$classsc_1_1StateOut.html" title="Serializes objects that derive from SavableState." alt="" coords="26,225,120,251"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="5,152,141,177"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="24,79,122,104"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="31,5,116,31"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="sc::RedundMolecularCoor" name="sc::RedundMolecularCoor">
+<area shape="rect" id="node1" title="The RedundMolecularCoor class provides a redundant set of simple internal coordinates." alt="" coords="1419,256,1594,281"/>
+<area shape="rect" id="node2" href="$classsc_1_1IntMolecularCoor.html" title="The IntMolecularCoor abstract class describes a molecule&#39;s coordinates in terms of internal coordinat..." alt="" coords="1226,256,1369,281"/>
+<area shape="rect" id="node3" href="$classsc_1_1MolecularCoor.html" title="The MolecularCoor abstract class describes the coordinate system used to describe a molecule." alt="" coords="1048,117,1176,143"/>
+<area shape="rect" id="node4" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="691,5,813,31"/>
+<area shape="rect" id="node5" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="303,5,439,31"/>
+<area shape="rect" id="node6" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="140,5,238,31"/>
+<area shape="rect" id="node7" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="5,5,90,31"/>
+<area shape="rect" id="node8" href="$classsc_1_1Ref.html" title=" " alt="" coords="479,56,656,81"/>
+<area shape="rect" id="node9" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="142,207,236,232"/>
+<area shape="rect" id="node11" href="$classsc_1_1Ref.html" title=" " alt="" coords="287,120,455,145"/>
+<area shape="rect" id="node12" href="$classsc_1_1Ref.html" title=" " alt="" coords="487,171,647,196"/>
+<area shape="rect" id="node13" href="$classsc_1_1Ref.html" title=" " alt="" coords="861,233,1011,259"/>
+<area shape="rect" id="node14" href="$classsc_1_1Ref.html" title=" " alt="" coords="848,275,1024,300"/>
+<area shape="rect" id="node15" href="$classsc_1_1Ref.html" title=" " alt="" coords="482,413,652,439"/>
+<area shape="rect" id="node10" href="$classsc_1_1RefSCDimension.html" title="The RefSCDimension class is a smart pointer to an SCDimension specialization." alt="" coords="680,117,824,143"/>
+</map>

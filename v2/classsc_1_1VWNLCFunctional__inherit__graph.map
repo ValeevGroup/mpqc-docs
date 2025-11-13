@@ -1,0 +1,14 @@
+<map id="sc::VWNLCFunctional" name="sc::VWNLCFunctional">
+<area shape="rect" id="node1" title="An abstract base class from which the various VWN (Vosko, Wilk and Nusair) local correlation function..." alt="" coords="1010,104,1161,129"/>
+<area shape="rect" id="node8" href="$classsc_1_1VWN1LCFunctional.html" title="The VWN1LCFunctional computes energies and densities using the VWN1 local correlation term (from Vosk..." alt="" coords="1209,5,1369,31"/>
+<area shape="rect" id="node9" href="$classsc_1_1VWN2LCFunctional.html" title="The VWN2LCFunctional computes energies and densities using the VWN2 local correlation term (from Vosk..." alt="" coords="1209,55,1369,80"/>
+<area shape="rect" id="node10" href="$classsc_1_1VWN3LCFunctional.html" title="The VWN3LCFunctional computes energies and densities using the VWN3 local correlation term (from Vosk..." alt="" coords="1209,104,1369,129"/>
+<area shape="rect" id="node11" href="$classsc_1_1VWN4LCFunctional.html" title="The VWN4LCFunctional computes energies and densities using the VWN4 local correlation term (from Vosk..." alt="" coords="1209,153,1369,179"/>
+<area shape="rect" id="node12" href="$classsc_1_1VWN5LCFunctional.html" title="The VWN5LCFunctional computes energies and densities using the VWN5 local correlation term (from Vosk..." alt="" coords="1209,203,1369,228"/>
+<area shape="rect" id="node2" href="$classsc_1_1LSDACFunctional.html" title="An abstract base class for local correlation functionals." alt="" coords="814,104,962,129"/>
+<area shape="rect" id="node3" href="$classsc_1_1DenFunctional.html" title="An abstract base class for density functionals." alt="" coords="638,104,766,129"/>
+<area shape="rect" id="node4" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="468,104,590,129"/>
+<area shape="rect" id="node5" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="285,104,420,129"/>
+<area shape="rect" id="node6" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="138,104,237,129"/>
+<area shape="rect" id="node7" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="5,104,90,129"/>
+</map>

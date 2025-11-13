@@ -1,0 +1,9 @@
+<map id="sc::AngularIntegrator" name="sc::AngularIntegrator">
+<area shape="rect" id="node1" title="An abstract base class for angular integrators." alt="" coords="128,299,273,324"/>
+<area shape="rect" id="node6" href="$classsc_1_1GaussLegendreAngularIntegrator.html" title="An implementation of an angular integrator using the Gauss&#45;Legendre weights and grid points." alt="" coords="5,372,188,411"/>
+<area shape="rect" id="node7" href="$classsc_1_1LebedevLaikovIntegrator.html" title="An implementation of a Lebedev angular integrator." alt="" coords="212,379,401,404"/>
+<area shape="rect" id="node2" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="140,225,261,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="133,152,269,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="152,79,250,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="158,5,243,31"/>
+</map>

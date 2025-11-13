@@ -1,0 +1,29 @@
+<map id="mpqc/math/core/kahan_accumulator.h" name="mpqc/math/core/kahan_accumulator.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="234,5,405,45"/>
+<area shape="rect" id="Node000002" href="$assert_8h.html" title=" " alt="" coords="133,93,308,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="297,48,248,87,245,82,294,43"/>
+<area shape="rect" id="Node000013" href="$float_8h.html" title=" " alt="" coords="333,93,506,119"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="345,43,395,82,392,87,342,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,161,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,121,119,163,117,158,197,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="186,167,255,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="223,119,223,153,218,153,218,119"/>
+<area shape="rect" id="Node000005" href="$exception_8h.html" title=" " alt="" coords="279,167,474,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="247,116,340,158,338,163,245,121"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="65,240,136,265"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="333,195,150,241,149,236,332,189"/>
+<area shape="rect" id="Node000007" href="$memory.html" title=" " alt="" coords="161,240,238,265"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="349,194,242,237,240,232,347,190"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="286,240,361,265"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="370,194,342,231,338,228,366,191"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="385,240,472,265"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="387,191,414,227,410,230,383,194"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="504,313,567,339"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="407,190,446,209,485,238,510,268,527,299,522,302,505,271,481,242,443,214,405,194"/>
+<area shape="rect" id="Node000011" href="$backtrace_8h.html" title=" " alt="" coords="547,240,742,265"/>
+<area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="420,189,589,234,588,239,419,195"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="229,237,253,239,261,244,265,253,258,264,243,269,242,263,255,260,259,252,257,247,251,244,229,243"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="629,268,566,308,563,303,626,263"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="615,313,674,339"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="647,266,647,300,642,300,642,266"/>
+</map>

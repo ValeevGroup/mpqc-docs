@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmpqc_1_1lcao_1_1_screener.html" title="Base class for screeners will never skip any integrals." alt="" coords="5,45,164,70"/>
+<area shape="rect" id="Node000001" href="$classmpqc_1_1lcao_1_1_thresholded_screener.html" title="ThresholdedScreener is a Screener equipped with a (mutable) real threshold." alt="" coords="212,45,451,70"/>
+<area shape="poly" id="edge54_Node000000_Node000001" title=" " alt="" coords="178,55,212,55,212,60,178,60"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1lcao_1_1gaussian_1_1_schwarz_screen.html" title="Class for Schwarz based screening." alt="" coords="499,37,657,77"/>
+<area shape="poly" id="edge55_Node000001_Node000002" title=" " alt="" coords="464,55,498,55,498,60,464,60"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1lcao_1_1gaussian_1_1_q_q_r_screen.html" title="Implements QQR screener for shell&#45;sets of integrals." alt="" coords="705,5,864,45"/>
+<area shape="poly" id="edge56_Node000002_Node000003" title=" " alt="" coords="671,40,705,35,706,40,671,46"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1lcao_1_1gaussian_1_1_s_q_vl_screen.html" title="Implements SQVlScreen screener for shell&#45;sets of (0|12) integrals." alt="" coords="705,69,864,109"/>
+<area shape="poly" id="edge57_Node000002_Node000004" title=" " alt="" coords="671,69,706,74,705,80,671,74"/>
+</map>

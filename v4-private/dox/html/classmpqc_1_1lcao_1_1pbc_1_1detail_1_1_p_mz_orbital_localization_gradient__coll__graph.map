@@ -1,0 +1,5 @@
+<map id="mpqc::lcao::pbc::detail::PMzOrbitalLocalizationGradient&lt; Tile, Policy &gt;" name="mpqc::lcao::pbc::detail::PMzOrbitalLocalizationGradient&lt; Tile, Policy &gt;">
+<area shape="rect" id="Node000001" title="Finds a stationary point of the PM objective function for a periodic systems." alt="" coords="5,93,240,148"/>
+<area shape="rect" id="Node000002" href="$structmpqc_1_1lcao_1_1pbc_1_1detail_1_1z_orbital_localization_gradient.html" title="Abstract gradient of a localization functional for a periodic system." alt="" coords="15,5,230,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,59,125,93,120,93,120,59"/>
+</map>

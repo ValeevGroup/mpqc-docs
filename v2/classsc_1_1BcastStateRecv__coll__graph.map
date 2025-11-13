@@ -1,0 +1,13 @@
+<map id="sc::BcastStateRecv" name="sc::BcastStateRecv">
+<area shape="rect" id="node1" title="BcastStateRecv does the receive part of a broadcast of an object to all nodes." alt="" coords="152,477,289,503"/>
+<area shape="rect" id="node2" href="$classsc_1_1MsgStateRecv.html" title="The MsgStateRecv is an abstract base class that receives objects from nodes in a MessageGrp." alt="" coords="156,403,285,428"/>
+<area shape="rect" id="node3" href="$classsc_1_1MsgStateBufRecv.html" title="The MsgStateBufRecv is an abstract base class that buffers objects sent through a MessageGrp." alt="" coords="146,328,295,353"/>
+<area shape="rect" id="node4" href="$classsc_1_1StateIn.html" title="Restores objects that derive from SavableState." alt="" coords="261,253,346,279"/>
+<area shape="rect" id="node5" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="449,155,584,180"/>
+<area shape="rect" id="node6" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="468,80,566,105"/>
+<area shape="rect" id="node7" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="474,5,559,31"/>
+<area shape="rect" id="node8" href="$classsc_1_1Ref.html" title=" " alt="" coords="116,155,264,180"/>
+<area shape="rect" id="node9" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="69,80,162,105"/>
+<area shape="rect" id="node11" href="$classsc_1_1Ref.html" title=" " alt="" coords="5,204,188,229"/>
+<area shape="rect" id="node10" href="$classsc_1_1TranslateDataIn.html" title="Convert data from other formats." alt="" coords="289,155,425,180"/>
+</map>

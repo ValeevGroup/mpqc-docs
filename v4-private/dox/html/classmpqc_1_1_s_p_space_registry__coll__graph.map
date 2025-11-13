@@ -1,0 +1,7 @@
+<map id="mpqc::SPSpaceRegistry&lt; Basis, Space &gt;" name="mpqc::SPSpaceRegistry&lt; Basis, Space &gt;">
+<area shape="rect" id="Node000001" title="SPSpaceRegistry is an SPRegistry that maps SPIndex to a SPSpace or its derived class." alt="" coords="29,181,204,221"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,228,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,147,119,181,114,181,114,147"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1utility_1_1_registry.html" title="a syntactically&#45;sweet wrapper of std::map, not thread_safe for writing" alt="" coords="34,5,199,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,59,119,93,114,93,114,59"/>
+</map>

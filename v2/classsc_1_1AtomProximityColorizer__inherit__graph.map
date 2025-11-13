@@ -1,0 +1,7 @@
+<map id="sc::AtomProximityColorizer" name="sc::AtomProximityColorizer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,187,324"/>
+<area shape="rect" id="node2" href="$classsc_1_1MoleculeColorizer.html" title=" " alt="" coords="22,225,170,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="28,152,164,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="47,79,145,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="53,5,139,31"/>
+</map>

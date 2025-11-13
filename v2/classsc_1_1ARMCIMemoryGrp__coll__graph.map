@@ -1,0 +1,12 @@
+<map id="sc::ARMCIMemoryGrp" name="sc::ARMCIMemoryGrp">
+<area shape="rect" id="node1" title="The ARMCIMemoryGrp concrete class provides an implementation of MsgMemoryGrp." alt="" coords="194,477,349,503"/>
+<area shape="rect" id="node2" href="$classsc_1_1RDMAMemoryGrp.html" title="The RDMAMemoryGrp abstract class specializes the MsgMemoryGrp class." alt="" coords="196,403,348,428"/>
+<area shape="rect" id="node3" href="$classsc_1_1MsgMemoryGrp.html" title="A MsgMemoryGrp that initializes its data using a messagegrp." alt="" coords="203,328,341,353"/>
+<area shape="rect" id="node4" href="$classsc_1_1MemoryGrp.html" title="The MemoryGrp abstract class provides a way of accessing distributed memory in a parallel machine." alt="" coords="130,241,243,267"/>
+<area shape="rect" id="node5" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="5,155,141,180"/>
+<area shape="rect" id="node6" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="24,80,122,105"/>
+<area shape="rect" id="node7" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="31,5,116,31"/>
+<area shape="rect" id="node8" href="$classsc_1_1distsize__t.html" title=" " alt="" coords="164,155,262,180"/>
+<area shape="rect" id="node9" href="$classsc_1_1Ref.html" title=" " alt="" coords="267,241,450,267"/>
+<area shape="rect" id="node10" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="312,155,405,180"/>
+</map>

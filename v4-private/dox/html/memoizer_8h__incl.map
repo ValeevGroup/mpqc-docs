@@ -1,0 +1,31 @@
+<map id="mpqc/util/misc/memoizer.h" name="mpqc/util/misc/memoizer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,5,465,31"/>
+<area shape="rect" id="Node000002" href="$assert_8h.html" title=" " alt="" coords="133,79,308,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,33,258,75,255,70,341,28"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="333,79,399,104"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="369,31,369,65,363,65,363,31"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="423,79,487,104"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="382,29,432,68,428,72,379,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,161,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,106,119,148,117,143,197,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="186,152,255,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="223,104,223,138,218,138,218,104"/>
+<area shape="rect" id="Node000005" href="$exception_8h.html" title=" " alt="" coords="279,152,474,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="247,102,340,144,338,149,245,106"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="65,225,136,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="333,180,150,227,149,222,332,175"/>
+<area shape="rect" id="Node000007" href="$memory.html" title=" " alt="" coords="161,225,238,251"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="349,180,242,223,240,218,347,175"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="286,225,361,251"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="370,179,342,216,338,213,366,176"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="385,225,472,251"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="387,176,414,213,410,216,383,179"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="504,299,567,324"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="407,175,446,195,485,223,510,254,527,285,522,287,505,257,481,227,443,199,405,180"/>
+<area shape="rect" id="Node000011" href="$backtrace_8h.html" title=" " alt="" coords="547,225,742,251"/>
+<area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="420,175,589,219,588,224,419,180"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="229,223,253,224,261,229,265,238,258,250,243,254,242,249,255,245,259,238,257,233,251,229,229,228"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="629,253,566,293,563,289,626,248"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="615,299,674,324"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="647,251,647,285,642,285,642,251"/>
+</map>

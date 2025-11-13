@@ -1,0 +1,11 @@
+<map id="mpqc::math::groups::SupercellTranslationGroup" name="mpqc::math::groups::SupercellTranslationGroup">
+<area shape="rect" id="Node000001" title="SupercellTranslationGroup is a discrete group of translations of a lattice." alt="" coords="5,387,205,427"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1math_1_1_group.html" title="Group is an abstract discrete group." alt="" coords="32,313,179,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,352,108,387,103,387,103,352"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="25,225,186,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,279,108,313,103,313,103,279"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="14,123,197,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,191,108,225,103,225,103,191"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="14,5,197,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="108,88,108,122,103,122,103,88"/>
+</map>

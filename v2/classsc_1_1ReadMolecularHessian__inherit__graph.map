@@ -1,0 +1,8 @@
+<map id="sc::ReadMolecularHessian" name="sc::ReadMolecularHessian">
+<area shape="rect" id="node1" title="ReadMolecularHessian is an implementation of MolecularHessian that reads the hessian from a file." alt="" coords="5,372,185,397"/>
+<area shape="rect" id="node2" href="$classsc_1_1MolecularHessian.html" title="MolecularHessian is an abstract class that computes a molecule&#39;s second derivatives of the energy wit..." alt="" coords="21,299,169,324"/>
+<area shape="rect" id="node3" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="35,225,156,251"/>
+<area shape="rect" id="node4" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="28,152,163,177"/>
+<area shape="rect" id="node5" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="46,79,144,104"/>
+<area shape="rect" id="node6" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="53,5,138,31"/>
+</map>

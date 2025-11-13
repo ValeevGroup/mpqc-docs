@@ -1,0 +1,386 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="713,1408,903,1448"/>
+<area shape="rect" id="Node000001" href="$classmpqc_1_1math_1_1_optimizer.html" title="It is itself a Function, namely Function&lt;Params, std::tuple&lt;&gt;&gt;." alt="" coords="1002,1408,1174,1448"/>
+<area shape="poly" id="edge61_Node000000_Node000001" title=" " alt="" coords="917,1425,1002,1425,1002,1431,917,1431"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1math_1_1_quasi_newton_optimizer.html" title="It is itself a Function, namely Function&lt;Params, OptimizerParams&gt;." alt="" coords="1280,1348,1539,1388"/>
+<area shape="poly" id="edge62_Node000001_Node000002" title=" " alt="" coords="1187,1407,1301,1385,1302,1391,1188,1412"/>
+<area shape="rect" id="Node000019" href="$classmpqc_1_1math_1_1_function.html" title=" " alt="" coords="978,1578,1198,1633"/>
+<area shape="rect" id="Node000010" href="$classmpqc_1_1math_1_1_taylor_expansion_function.html" title=" " alt="" coords="1297,1671,1522,1711"/>
+<area shape="poly" id="edge63_Node000019_Node000010" title=" " alt="" coords="1205,1634,1334,1668,1333,1673,1204,1639"/>
+<area shape="rect" id="Node000007" href="$classmpqc_1_1_wavefunction_property.html" title=" " alt="" coords="1637,1671,1847,1711"/>
+<area shape="poly" id="edge64_Node000010_Node000007" title=" " alt="" coords="1536,1688,1636,1688,1636,1693,1536,1693"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1637,1735,1847,1790"/>
+<area shape="poly" id="edge67_Node000010_Node000011" title=" " alt="" coords="1519,1711,1561,1720,1637,1737,1636,1742,1559,1725,1518,1716"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1637,1814,1847,1869"/>
+<area shape="poly" id="edge70_Node000010_Node000014" title=" " alt="" coords="1537,1707,1562,1721,1579,1740,1587,1761,1594,1780,1610,1799,1638,1816,1635,1821,1606,1803,1589,1783,1582,1762,1575,1743,1558,1725,1534,1711"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1608,1591,1876,1646"/>
+<area shape="poly" id="edge72_Node000010_Node000016" title=" " alt="" coords="1515,1665,1615,1643,1616,1649,1516,1670"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1math_1_1_finite_difference_derivative.html" title=" " alt="" coords="1637,1945,1847,1999"/>
+<area shape="poly" id="edge74_Node000010_Node000004" title=" " alt="" coords="1536,1704,1562,1721,1578,1740,1587,1759,1591,1798,1593,1837,1598,1857,1610,1878,1645,1915,1686,1942,1683,1947,1642,1919,1606,1882,1593,1859,1587,1838,1585,1798,1582,1761,1574,1743,1558,1725,1533,1708"/>
+<area shape="rect" id="Node000018" href="$classmpqc_1_1math_1_1_finite_difference_derivative.html" title=" " alt="" coords="1637,1513,1847,1567"/>
+<area shape="poly" id="edge76_Node000010_Node000018" title=" " alt="" coords="1451,1661,1522,1618,1607,1576,1637,1565,1639,1570,1609,1581,1525,1623,1454,1665"/>
+<area shape="rect" id="Node000008" href="$classmpqc_1_1_energy.html" title="Taylor expansion of the molecular energy computed by a Wavefunction." alt="" coords="1985,1667,2096,1693"/>
+<area shape="poly" id="edge65_Node000007_Node000008" title=" " alt="" coords="1861,1684,1985,1679,1985,1685,1862,1689"/>
+<area shape="rect" id="Node000009" href="$classmpqc_1_1_g_f_real_pole.html" title=" " alt="" coords="1970,1782,2111,1807"/>
+<area shape="poly" id="edge66_Node000007_Node000009" title=" " alt="" coords="1861,1713,1877,1720,1893,1732,1902,1744,1911,1756,1925,1767,1970,1783,1969,1788,1923,1772,1907,1760,1898,1748,1889,1736,1875,1725,1859,1717"/>
+<area shape="rect" id="Node000012" href="$classmpqc_1_1_excitation_energy.html" title=" " alt="" coords="1953,1881,2129,1906"/>
+<area shape="poly" id="edge68_Node000011_Node000012" title=" " alt="" coords="1861,1789,1878,1799,1894,1816,1902,1834,1910,1851,1926,1866,1953,1879,1951,1884,1922,1870,1906,1854,1897,1836,1890,1819,1874,1803,1858,1794"/>
+<area shape="rect" id="Node000013" href="$classmpqc_1_1_perturbation_response.html" title="Response of a Wavefunction to a Perturbation or combination thereof." alt="" coords="1936,1831,2145,1857"/>
+<area shape="poly" id="edge69_Node000011_Node000013" title=" " alt="" coords="1854,1792,1877,1799,1925,1816,1975,1829,1974,1834,1923,1821,1875,1804,1852,1797"/>
+<area shape="rect" id="Node000015" href="$classmpqc_1_1_many_body_hamiltonian.html" title=" " alt="" coords="1933,1931,2148,1971"/>
+<area shape="poly" id="edge71_Node000014_Node000015" title=" " alt="" coords="1843,1871,1877,1886,1901,1901,1925,1915,1960,1928,1959,1933,1923,1920,1898,1905,1875,1890,1841,1876"/>
+<area shape="rect" id="Node000017" href="$classmpqc_1_1_r_d_m.html" title=" " alt="" coords="1941,1618,2140,1643"/>
+<area shape="poly" id="edge73_Node000016_Node000017" title=" " alt="" coords="1890,1622,1941,1624,1941,1629,1889,1627"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1_molecular_finite_difference_derivative.html" title="Evaluates FiniteDifferenceDerivative with respect to molecular coordinates." alt="" coords="1924,1995,2157,2035"/>
+<area shape="poly" id="edge75_Node000004_Node000005" title=" " alt="" coords="1862,1986,1924,1995,1923,2001,1861,1992"/>
+<area shape="rect" id="Node000135" title=" " alt="" coords="1325,3251,1493,3277"/>
+<area shape="rect" id="Node000134" href="$classmpqc_1_1lcao_1_1_direct_fock_builder.html" title=" " alt="" coords="1634,2831,1850,2871"/>
+<area shape="poly" id="edge77_Node000135_Node000134" title=" " alt="" coords="1490,3245,1527,3227,1558,3200,1572,3179,1581,3159,1588,3119,1586,3079,1578,3040,1571,3000,1569,2961,1579,2921,1590,2901,1606,2881,1632,2862,1635,2866,1610,2885,1595,2904,1584,2923,1575,2961,1576,3000,1583,3039,1591,3078,1594,3119,1586,3160,1576,3182,1562,3203,1530,3231,1492,3249"/>
+<area shape="rect" id="Node000136" href="$classmpqc_1_1lcao_1_1_exact_k_diagonal_builder.html" title=" " alt="" coords="1640,2895,1844,2935"/>
+<area shape="poly" id="edge78_Node000135_Node000136" title=" " alt="" coords="1488,3245,1526,3227,1558,3200,1577,3167,1584,3135,1583,3104,1579,3072,1574,3040,1575,3009,1584,2977,1606,2945,1621,2932,1638,2923,1641,2928,1624,2937,1610,2948,1589,2979,1580,3009,1580,3040,1584,3071,1589,3103,1590,3136,1582,3169,1562,3203,1529,3231,1490,3249"/>
+<area shape="rect" id="Node000137" href="$classmpqc_1_1lcao_1_1cc_1_1_p_n_o_e_e_pred.html" title="PNO preconditioner for EOM&#45;EE&#45;CCSD." alt="" coords="1644,3409,1840,3449"/>
+<area shape="poly" id="edge79_Node000135_Node000137" title=" " alt="" coords="1495,3278,1530,3292,1562,3313,1579,3334,1586,3356,1593,3376,1610,3395,1645,3413,1643,3418,1606,3399,1588,3379,1581,3357,1574,3337,1558,3317,1527,3297,1493,3283"/>
+<area shape="rect" id="Node000146" href="$classmpqc_1_1lcao_1_1cc_1_1_p_n_o_solver.html" title=" " alt="" coords="1646,3345,1838,3385"/>
+<area shape="poly" id="edge82_Node000135_Node000146" title=" " alt="" coords="1464,3279,1561,3312,1609,3331,1651,3343,1650,3348,1607,3336,1559,3317,1462,3284"/>
+<area shape="rect" id="Node000145" href="$classmpqc_1_1lcao_1_1cc_1_1_state_specific_p_n_o_e_e_pred.html" title="State Specific PNO preconditioner for EOM&#45;CCSD." alt="" coords="1639,3473,1845,3513"/>
+<area shape="poly" id="edge83_Node000135_Node000145" title=" " alt="" coords="1505,3279,1535,3293,1562,3313,1576,3332,1583,3351,1586,3389,1589,3425,1596,3442,1610,3459,1640,3478,1637,3482,1606,3463,1591,3445,1583,3426,1581,3389,1578,3352,1572,3334,1558,3317,1533,3297,1503,3283"/>
+<area shape="rect" id="Node000151" href="$classmpqc_1_1lcao_1_1pbc_1_1_cadf_k_builder.html" title=" " alt="" coords="1633,3087,1851,3127"/>
+<area shape="poly" id="edge84_Node000135_Node000151" title=" " alt="" coords="1469,3244,1515,3226,1558,3199,1573,3184,1581,3169,1590,3153,1606,3138,1632,3124,1635,3129,1610,3142,1594,3156,1586,3171,1577,3187,1562,3203,1517,3230,1471,3249"/>
+<area shape="rect" id="Node000152" href="$classmpqc_1_1lcao_1_1pbc_1_1_direct_fock_builder.html" title=" " alt="" coords="1641,3601,1843,3641"/>
+<area shape="poly" id="edge85_Node000135_Node000152" title=" " alt="" coords="1507,3277,1537,3292,1562,3313,1584,3349,1592,3384,1591,3419,1585,3454,1579,3488,1579,3521,1587,3554,1610,3588,1625,3600,1642,3609,1640,3613,1622,3604,1606,3591,1582,3557,1573,3522,1574,3487,1580,3453,1586,3419,1587,3385,1579,3351,1558,3316,1534,3296,1505,3282"/>
+<area shape="rect" id="Node000156" href="$classmpqc_1_1lcao_1_1pbc_1_1_three_center_contraction_builder.html" title=" " alt="" coords="1636,3151,1848,3206"/>
+<area shape="poly" id="edge86_Node000135_Node000156" title=" " alt="" coords="1472,3245,1635,3203,1636,3208,1473,3251"/>
+<area shape="rect" id="Node000157" href="$classmpqc_1_1lcao_1_1pbc_1_1_two_center_builder.html" title=" " alt="" coords="1642,3231,1842,3271"/>
+<area shape="poly" id="edge87_Node000135_Node000157" title=" " alt="" coords="1507,3257,1642,3252,1642,3257,1507,3263"/>
+<area shape="rect" id="Node000158" href="$classmpqc_1_1lcao_1_1pno_1_1_m_p2_solver.html" title="The PNO MP2 energy solver." alt="" coords="1641,3295,1843,3321"/>
+<area shape="poly" id="edge88_Node000135_Node000158" title=" " alt="" coords="1507,3274,1646,3293,1645,3298,1506,3279"/>
+<area shape="rect" id="Node000138" href="$classmpqc_1_1lcao_1_1cc_1_1_state_average_p_n_o_e_e_pred.html" title=" " alt="" coords="1935,3377,2146,3417"/>
+<area shape="poly" id="edge80_Node000137_Node000138" title=" " alt="" coords="1853,3415,1935,3406,1935,3411,1854,3420"/>
+<area shape="rect" id="Node000139" href="$classmpqc_1_1lcao_1_1cc_1_1_state_merged_p_n_o_e_e_pred.html" title=" " alt="" coords="1937,3441,2144,3481"/>
+<area shape="poly" id="edge81_Node000137_Node000139" title=" " alt="" coords="1854,3439,1937,3448,1937,3453,1853,3444"/>
+<area shape="rect" id="Node000148" href="$classmpqc_1_1cc_1_1_solver.html" title=" " alt="" coords="1002,3241,1174,3281"/>
+<area shape="rect" id="Node000147" href="$classmpqc_1_1cc_1_1_d_i_i_s_solver.html" title=" " alt="" coords="1316,3326,1503,3381"/>
+<area shape="poly" id="edge89_Node000148_Node000147" title=" " alt="" coords="1173,3283,1316,3324,1315,3329,1171,3288"/>
+<area shape="rect" id="Node000149" href="$classmpqc_1_1cc_1_1_d_i_i_s_solver.html" title=" " alt="" coords="1332,3149,1487,3189"/>
+<area shape="poly" id="edge91_Node000148_Node000149" title=" " alt="" coords="1171,3235,1338,3187,1339,3192,1172,3240"/>
+<area shape="poly" id="edge90_Node000147_Node000146" title=" " alt="" coords="1517,3355,1646,3359,1645,3365,1517,3360"/>
+<area shape="rect" id="Node000150" href="$classmpqc_1_1lcao_1_1cc_1_1_jacobi_d_i_i_s_solver.html" title=" " alt="" coords="1627,3023,1857,3063"/>
+<area shape="poly" id="edge92_Node000149_Node000150" title=" " alt="" coords="1458,3140,1527,3105,1607,3072,1646,3060,1648,3065,1609,3077,1529,3110,1460,3145"/>
+<area shape="rect" id="Node000026" href="$classmpqc_1_1_key_val_1_1_writable.html" title="base class for objects that can write themselves to a KeyVal" alt="" coords="1001,1657,1175,1682"/>
+<area shape="rect" id="Node000006" href="$classmpqc_1_1_property.html" title="An abstract property that can be computed by MPQC as a Task." alt="" coords="1349,1735,1470,1761"/>
+<area shape="poly" id="edge93_Node000026_Node000006" title=" " alt="" coords="1188,1683,1212,1691,1236,1706,1260,1720,1304,1733,1349,1741,1348,1746,1303,1738,1258,1725,1233,1710,1210,1696,1187,1688"/>
+<area shape="poly" id="edge94_Node000006_Node000007" title=" " alt="" coords="1483,1733,1560,1720,1636,1707,1637,1712,1560,1725,1484,1738"/>
+<area shape="poly" id="edge95_Node000006_Node000011" title=" " alt="" coords="1484,1749,1637,1755,1636,1761,1483,1754"/>
+<area shape="poly" id="edge96_Node000006_Node000014" title=" " alt="" coords="1484,1758,1561,1777,1609,1799,1645,1811,1644,1816,1607,1804,1559,1783,1483,1763"/>
+<area shape="poly" id="edge97_Node000006_Node000016" title=" " alt="" coords="1483,1744,1522,1736,1559,1720,1574,1706,1582,1690,1590,1673,1606,1657,1629,1644,1631,1648,1610,1661,1595,1676,1587,1693,1578,1709,1561,1725,1524,1741,1484,1749"/>
+<area shape="poly" id="edge98_Node000006_Node000005" title=" " alt="" coords="1484,1748,1525,1758,1562,1778,1574,1790,1581,1803,1586,1830,1592,1855,1598,1867,1610,1878,1644,1899,1676,1909,1707,1911,1738,1909,1803,1907,1839,1913,1877,1930,1893,1942,1902,1955,1911,1968,1925,1980,1950,1992,1947,1997,1923,1985,1907,1972,1898,1958,1889,1946,1875,1934,1837,1919,1803,1912,1738,1915,1707,1916,1675,1914,1642,1904,1606,1882,1594,1870,1587,1857,1581,1831,1576,1805,1569,1793,1558,1782,1523,1763,1483,1753"/>
+<area shape="rect" id="Node000020" href="$classmpqc_1_1_wavefunction_property.html" title="WavefunctionProperty is a Property that can &quot;visit&quot; Wavefunction." alt="" coords="1637,2024,1847,2064"/>
+<area shape="poly" id="edge99_Node000006_Node000020" title=" " alt="" coords="1472,1763,1520,1786,1543,1803,1562,1822,1577,1848,1584,1873,1584,1920,1583,1943,1585,1965,1593,1987,1610,2009,1638,2027,1635,2032,1606,2013,1588,1989,1580,1966,1578,1943,1579,1920,1579,1873,1573,1850,1558,1826,1539,1807,1517,1791,1470,1768"/>
+<area shape="rect" id="Node000024" href="$classmpqc_1_1lcao_1_1gaussian_1_1_m_a_d_f.html" title=" " alt="" coords="1663,2088,1821,2128"/>
+<area shape="poly" id="edge100_Node000006_Node000024" title=" " alt="" coords="1474,1763,1521,1786,1544,1803,1562,1822,1581,1857,1588,1890,1587,1922,1583,1954,1579,1984,1580,2014,1589,2044,1610,2074,1634,2092,1663,2102,1662,2107,1632,2096,1606,2078,1584,2046,1574,2015,1574,1984,1578,1953,1582,1922,1583,1890,1576,1859,1558,1826,1540,1806,1519,1791,1472,1768"/>
+<area shape="rect" id="Node000105" href="$classmpqc_1_1lcao_1_1_basis.html" title="Basis is a tiled range of functions." alt="" coords="740,774,876,799"/>
+<area shape="rect" id="Node000104" href="$classmpqc_1_1lcao_1_1gaussian_1_1_basis.html" title=" " alt="" coords="1009,877,1167,917"/>
+<area shape="poly" id="edge101_Node000105_Node000104" title=" " alt="" coords="855,802,1038,875,1036,880,853,807"/>
+<area shape="rect" id="Node000106" href="$classmpqc_1_1lcao_1_1model_1_1_basis.html" title="Basis is an abstract model basis set." alt="" coords="1013,763,1163,803"/>
+<area shape="poly" id="edge103_Node000105_Node000106" title=" " alt="" coords="889,783,1013,781,1013,786,890,788"/>
+<area shape="rect" id="Node000103" href="$classmpqc_1_1lcao_1_1gaussian_1_1_atomic_basis.html" title=" " alt="" coords="1330,809,1489,849"/>
+<area shape="poly" id="edge102_Node000104_Node000103" title=" " alt="" coords="1181,875,1329,843,1330,849,1182,880"/>
+<area shape="rect" id="Node000036" href="$classmpqc_1_1lcao_1_1gaussian_1_1_integral_builder.html" title="Builds integrals from an array of bases and an integral engine pool." alt="" coords="452,1329,628,1383"/>
+<area shape="rect" id="Node000035" href="$classmpqc_1_1lcao_1_1gaussian_1_1_direct_integral_builder.html" title=" " alt="" coords="699,1329,917,1383"/>
+<area shape="poly" id="edge104_Node000036_Node000035" title=" " alt="" coords="642,1353,698,1353,698,1359,642,1359"/>
+<area shape="rect" id="Node000153" href="$classmpqc_1_1lcao_1_1pbc_1_1_fock_builder.html" title=" " alt="" coords="1305,3865,1513,3905"/>
+<area shape="poly" id="edge105_Node000153_Node000152" title=" " alt="" coords="1426,3852,1456,3806,1496,3752,1547,3697,1607,3651,1640,3636,1642,3640,1609,3656,1551,3701,1500,3755,1460,3809,1431,3855"/>
+<area shape="rect" id="Node000154" href="$classmpqc_1_1lcao_1_1pbc_1_1_fock_builder_impl.html" title="pbc::MaJFockBuilder is an implementation of pbc::FockBuilder with multipole&#45;accelerated 4&#45;center Coul..." alt="" coords="1638,3937,1846,3991"/>
+<area shape="poly" id="edge106_Node000153_Node000154" title=" " alt="" coords="1508,3906,1638,3937,1637,3942,1507,3911"/>
+<area shape="rect" id="Node000155" href="$classmpqc_1_1lcao_1_1pbc_1_1_reference_fock_builder.html" title=" " alt="" coords="1643,3858,1841,3913"/>
+<area shape="poly" id="edge107_Node000153_Node000155" title=" " alt="" coords="1527,3883,1642,3883,1642,3888,1527,3888"/>
+<area shape="rect" id="Node000140" href="$classmpqc_1_1math_1_1_davidson_eigensolver_preconditioner.html" title="Preconditioner for DavidsonEigensolver." alt="" coords="1287,3601,1532,3641"/>
+<area shape="poly" id="edge112_Node000140_Node000137" title=" " alt="" coords="1437,3589,1510,3523,1557,3488,1607,3459,1643,3445,1645,3450,1609,3464,1560,3493,1513,3527,1441,3593"/>
+<area shape="poly" id="edge113_Node000140_Node000145" title=" " alt="" coords="1457,3592,1527,3557,1607,3523,1646,3511,1647,3516,1609,3528,1529,3562,1459,3597"/>
+<area shape="rect" id="Node000141" href="$classmpqc_1_1_u_c_s_r_diagonal_matrix_preconditioner.html" title=" " alt="" coords="1641,3537,1843,3577"/>
+<area shape="poly" id="edge108_Node000140_Node000141" title=" " alt="" coords="1527,3596,1640,3574,1641,3579,1528,3601"/>
+<area shape="rect" id="Node000142" href="$classmpqc_1_1lcao_1_1cc_1_1_e_a_pred.html" title=" " alt="" coords="1657,3665,1827,3705"/>
+<area shape="poly" id="edge109_Node000140_Node000142" title=" " alt="" coords="1528,3641,1657,3666,1656,3672,1527,3647"/>
+<area shape="rect" id="Node000143" href="$classmpqc_1_1lcao_1_1cc_1_1_e_o_m_pred.html" title=" " alt="" coords="1651,3793,1833,3833"/>
+<area shape="poly" id="edge110_Node000140_Node000143" title=" " alt="" coords="1441,3649,1513,3715,1560,3750,1609,3779,1652,3795,1650,3800,1607,3784,1557,3754,1510,3719,1437,3653"/>
+<area shape="rect" id="Node000144" href="$classmpqc_1_1lcao_1_1cc_1_1_i_p_pred.html" title="preconditioner for EOM&#45;IP&#45;CCSD, approximate the diagonal of H matrix" alt="" coords="1660,3729,1824,3769"/>
+<area shape="poly" id="edge111_Node000140_Node000144" title=" " alt="" coords="1459,3646,1529,3681,1609,3715,1661,3730,1659,3735,1607,3720,1527,3686,1457,3650"/>
+<area shape="rect" id="Node000022" href="$classmpqc_1_1math_1_1_function.html" title="Function maps Parameters to a Value." alt="" coords="1003,1907,1173,1947"/>
+<area shape="rect" id="Node000023" href="$classmpqc_1_1math_1_1_taylor_expansion_function.html" title=" " alt="" coords="1259,1836,1560,1876"/>
+<area shape="poly" id="edge114_Node000022_Node000023" title=" " alt="" coords="1187,1901,1258,1885,1313,1873,1314,1879,1259,1891,1188,1907"/>
+<area shape="rect" id="Node000021" href="$classmpqc_1_1math_1_1_taylor_expansion_function.html" title=" " alt="" coords="1263,1900,1556,1940"/>
+<area shape="poly" id="edge115_Node000022_Node000021" title=" " alt="" coords="1187,1922,1262,1920,1262,1926,1187,1927"/>
+<area shape="poly" id="edge116_Node000021_Node000020" title=" " alt="" coords="1550,1943,1562,1950,1578,1964,1586,1980,1595,1995,1610,2008,1638,2022,1635,2027,1606,2013,1590,1998,1582,1982,1574,1968,1558,1954,1547,1948"/>
+<area shape="rect" id="Node000102" href="$classmpqc_1_1utility_1_1_observer.html" title="helps to set up messaging between objects via the Observer pattern" alt="" coords="723,885,893,910"/>
+<area shape="poly" id="edge166_Node000102_Node000103" title=" " alt="" coords="876,879,965,863,1162,841,1330,830,1330,835,1162,847,966,868,877,884"/>
+<area shape="rect" id="Node000072" href="$classmpqc_1_1_wavefunction.html" title=" " alt="" coords="1011,942,1165,967"/>
+<area shape="poly" id="edge117_Node000102_Node000072" title=" " alt="" coords="885,910,1026,939,1025,945,884,915"/>
+<area shape="rect" id="Node000071" href="$classmpqc_1_1_many_body_hamiltonian_reader.html" title="reads ManyBodyHamiltonian from KeyVal or uses tensors given programmatically" alt="" coords="1302,973,1517,1013"/>
+<area shape="poly" id="edge118_Node000072_Node000071" title=" " alt="" coords="1180,963,1302,978,1301,983,1179,968"/>
+<area shape="rect" id="Node000073" href="$classmpqc_1_1lcao_1_1_wavefunction.html" title=" " alt="" coords="1314,874,1505,899"/>
+<area shape="poly" id="edge119_Node000072_Node000073" title=" " alt="" coords="1173,936,1210,927,1258,908,1313,896,1314,901,1259,913,1211,932,1174,941"/>
+<area shape="rect" id="Node000099" href="$classmpqc_1_1mra_1_1_wavefunction.html" title=" " alt="" coords="1315,923,1504,949"/>
+<area shape="poly" id="edge164_Node000072_Node000099" title=" " alt="" coords="1179,947,1315,939,1315,944,1179,952"/>
+<area shape="rect" id="Node000074" href="$classmpqc_1_1lcao_1_1_l_c_a_o_wavefunction.html" title=" " alt="" coords="1629,476,1855,516"/>
+<area shape="poly" id="edge120_Node000073_Node000074" title=" " alt="" coords="1517,883,1539,874,1558,859,1574,840,1585,820,1592,800,1595,780,1592,738,1583,697,1573,654,1570,612,1579,569,1590,547,1606,526,1627,510,1631,514,1610,530,1594,550,1584,571,1575,612,1579,653,1588,695,1597,738,1600,780,1597,801,1590,822,1579,843,1562,863,1542,878,1519,888"/>
+<area shape="rect" id="Node000077" href="$classmpqc_1_1lcao_1_1_a_o_wavefunction.html" title="AOWavefunction is a Wavefunction&lt;&gt; with an abstract AOFactory&lt;&gt;" alt="" coords="1637,229,1847,269"/>
+<area shape="poly" id="edge122_Node000073_Node000077" title=" " alt="" coords="1517,884,1539,874,1558,860,1572,839,1581,812,1590,744,1589,662,1583,573,1576,483,1575,400,1583,330,1592,302,1606,280,1620,267,1635,258,1638,263,1623,271,1610,283,1597,304,1588,331,1580,400,1582,483,1588,572,1594,662,1595,744,1586,814,1576,841,1562,863,1542,879,1519,889"/>
+<area shape="rect" id="Node000058" href="$classmpqc_1_1lcao_1_1_l_c_a_o_wavefunction.html" title="LCAOWavefunction is a Wavefunction with an LCAOFactory." alt="" coords="1629,1088,1855,1128"/>
+<area shape="poly" id="edge131_Node000073_Node000058" title=" " alt="" coords="1519,888,1541,896,1562,909,1575,922,1583,936,1589,964,1594,993,1600,1007,1610,1022,1651,1059,1696,1086,1694,1090,1648,1063,1606,1026,1595,1010,1589,994,1584,965,1578,938,1571,925,1558,913,1539,901,1517,893"/>
+<area shape="rect" id="Node000087" href="$classmpqc_1_1lcao_1_1_periodic_wavefunction.html" title="PeriodicAOWavefunction is a Wavefunction with a pbc::gaussian::AOFactory." alt="" coords="1621,1363,1863,1389"/>
+<area shape="poly" id="edge153_Node000073_Node000087" title=" " alt="" coords="1519,885,1542,894,1562,909,1580,930,1593,951,1606,992,1606,1033,1600,1075,1592,1117,1588,1161,1592,1207,1610,1256,1634,1290,1663,1319,1720,1361,1717,1365,1660,1323,1630,1293,1606,1259,1587,1208,1582,1161,1587,1116,1595,1074,1601,1033,1600,993,1588,953,1576,933,1558,913,1539,899,1517,890"/>
+<area shape="rect" id="Node000075" href="$classmpqc_1_1lcao_1_1_pao_pno_r_m_p2.html" title="PNO MP2 in PAO basis (with OSV as optional intermediate basis)" alt="" coords="1948,512,2133,552"/>
+<area shape="poly" id="edge121_Node000074_Node000075" title=" " alt="" coords="1869,509,1948,518,1947,524,1868,514"/>
+<area shape="rect" id="Node000078" href="$classmpqc_1_1lcao_1_1_s_d.html" title="General Single&#45;Determinant Wavefunction." alt="" coords="1959,229,2122,269"/>
+<area shape="poly" id="edge123_Node000077_Node000078" title=" " alt="" coords="1860,247,1959,247,1959,252,1860,252"/>
+<area shape="rect" id="Node000079" href="$classmpqc_1_1lcao_1_1_clr_df_j_cadf_k_r_h_f.html" title=" " alt="" coords="2207,325,2411,365"/>
+<area shape="poly" id="edge124_Node000078_Node000079" title=" " alt="" coords="2104,272,2206,311,2242,323,2240,328,2204,316,2102,277"/>
+<area shape="rect" id="Node000080" href="$classmpqc_1_1lcao_1_1_df_j_cadf_k_r_h_f.html" title=" " alt="" coords="2216,389,2403,429"/>
+<area shape="poly" id="edge125_Node000078_Node000080" title=" " alt="" coords="2074,277,2133,327,2169,352,2207,375,2233,387,2231,392,2204,380,2166,357,2130,331,2070,281"/>
+<area shape="rect" id="Node000081" href="$classmpqc_1_1lcao_1_1_df_j_r_h_f.html" title=" " alt="" coords="2236,5,2383,45"/>
+<area shape="poly" id="edge126_Node000078_Node000081" title=" " alt="" coords="2059,216,2083,179,2117,136,2158,92,2204,55,2234,40,2237,45,2207,60,2161,96,2121,139,2088,182,2063,219"/>
+<area shape="rect" id="Node000082" href="$classmpqc_1_1lcao_1_1_df_r_h_f.html" title=" " alt="" coords="2232,69,2387,109"/>
+<area shape="poly" id="edge127_Node000078_Node000082" title=" " alt="" coords="2070,218,2130,168,2166,142,2204,119,2231,107,2233,112,2207,124,2169,146,2133,172,2074,222"/>
+<area shape="rect" id="Node000083" href="$classmpqc_1_1lcao_1_1_direct_df_r_h_f.html" title=" " alt="" coords="2218,133,2401,173"/>
+<area shape="poly" id="edge128_Node000078_Node000083" title=" " alt="" coords="2102,222,2204,183,2240,171,2242,176,2206,188,2104,227"/>
+<area shape="rect" id="Node000084" href="$classmpqc_1_1lcao_1_1_direct_r_h_f.html" title=" " alt="" coords="2226,197,2393,237"/>
+<area shape="poly" id="edge129_Node000078_Node000084" title=" " alt="" coords="2135,235,2225,225,2226,230,2136,241"/>
+<area shape="rect" id="Node000085" href="$classmpqc_1_1lcao_1_1_r_h_f.html" title=" " alt="" coords="2224,261,2395,301"/>
+<area shape="poly" id="edge130_Node000078_Node000085" title=" " alt="" coords="2136,258,2224,269,2224,274,2135,263"/>
+<area shape="rect" id="Node000059" href="$classmpqc_1_1lcao_1_1_g_f2_f12.html" title="GF2F12 class keyval name for this class GF2F12." alt="" coords="1965,795,2116,835"/>
+<area shape="poly" id="edge132_Node000058_Node000059" title=" " alt="" coords="1803,1079,1841,1055,1874,1022,1887,999,1893,976,1894,932,1896,889,1905,867,1922,845,1942,830,1964,821,1966,826,1944,835,1926,849,1910,870,1902,890,1899,933,1898,977,1892,1001,1878,1026,1845,1059,1806,1084"/>
+<area shape="rect" id="Node000061" href="$classmpqc_1_1lcao_1_1_gamma_point_m_p2.html" title=" " alt="" coords="1933,1024,2148,1064"/>
+<area shape="poly" id="edge133_Node000058_Node000061" title=" " alt="" coords="1849,1082,1946,1061,1947,1067,1850,1088"/>
+<area shape="rect" id="Node000069" href="$classmpqc_1_1lcao_1_1_h__bar__f12.html" title="Approximate transcorrelated effective Hamiltonian." alt="" coords="1957,859,2124,899"/>
+<area shape="poly" id="edge134_Node000058_Node000069" title=" " alt="" coords="1860,1079,1874,1067,1888,1049,1895,1031,1898,994,1900,955,1907,935,1922,915,1938,903,1956,893,1958,898,1941,907,1926,919,1912,938,1905,956,1903,994,1900,1032,1893,1052,1878,1071,1863,1083"/>
+<area shape="rect" id="Node000063" href="$classmpqc_1_1lcao_1_1_m_p2.html" title="Computed the MP2 energy." alt="" coords="1955,1344,2127,1384"/>
+<area shape="poly" id="edge135_Node000058_Node000063" title=" " alt="" coords="1868,1131,1878,1140,1896,1163,1904,1188,1905,1212,1903,1237,1901,1261,1902,1284,1909,1307,1926,1330,1956,1349,1953,1354,1922,1334,1905,1310,1897,1285,1896,1260,1898,1236,1900,1212,1898,1189,1891,1166,1874,1143,1865,1135"/>
+<area shape="rect" id="Node000064" href="$classmpqc_1_1lcao_1_1_r_laplace_m_p2.html" title="Laplace MP2 class for closed&#45;shell system." alt="" coords="1947,1152,2135,1192"/>
+<area shape="poly" id="edge136_Node000058_Node000064" title=" " alt="" coords="1850,1128,1947,1149,1946,1155,1849,1134"/>
+<area shape="rect" id="Node000065" href="$classmpqc_1_1lcao_1_1_r_m_p2_f12.html" title="MP2F12 method for closed shell." alt="" coords="1959,1088,2122,1128"/>
+<area shape="poly" id="edge137_Node000058_Node000065" title=" " alt="" coords="1868,1105,1959,1105,1959,1111,1868,1111"/>
+<area shape="rect" id="Node000107" href="$classmpqc_1_1lcao_1_1cc_1_1_c_c_s_d.html" title=" " alt="" coords="1961,616,2120,656"/>
+<area shape="poly" id="edge139_Node000058_Node000107" title=" " alt="" coords="1807,1079,1844,1055,1874,1022,1887,998,1896,974,1902,929,1899,884,1890,841,1883,798,1882,755,1893,711,1905,689,1922,666,1939,652,1960,642,1962,647,1942,656,1926,670,1909,692,1898,713,1887,756,1888,798,1896,840,1904,884,1908,929,1901,976,1892,1000,1878,1026,1847,1059,1810,1084"/>
+<area shape="rect" id="Node000067" href="$classmpqc_1_1lcao_1_1cc_1_1_c_c_s_d_t.html" title=" " alt="" coords="1957,1280,2124,1320"/>
+<area shape="poly" id="edge148_Node000058_Node000067" title=" " alt="" coords="1868,1132,1878,1139,1891,1155,1899,1172,1903,1204,1907,1236,1913,1251,1926,1266,1958,1285,1955,1290,1922,1270,1909,1254,1901,1237,1898,1205,1894,1173,1887,1158,1874,1143,1865,1136"/>
+<area shape="rect" id="Node000068" href="$classmpqc_1_1lcao_1_1cc_1_1_c_c_s_d___s_o.html" title=" " alt="" coords="1961,1216,2120,1256"/>
+<area shape="poly" id="edge149_Node000058_Node000068" title=" " alt="" coords="1864,1131,1878,1139,1894,1155,1902,1171,1911,1187,1926,1202,1962,1219,1960,1224,1922,1206,1906,1190,1898,1174,1890,1158,1874,1143,1862,1136"/>
+<area shape="rect" id="Node000057" href="$classmpqc_1_1lcao_1_1cc_1_1_c_ck.html" title="Solves for coupled cluster wave operator and properties." alt="" coords="2235,967,2384,1007"/>
+<area shape="poly" id="edge150_Node000058_Node000057" title=" " alt="" coords="1850,1080,1874,1067,1889,1053,1897,1038,1906,1023,1923,1010,1961,993,2002,981,2086,969,2166,967,2235,972,2234,978,2166,973,2086,974,2003,986,1963,998,1925,1014,1910,1026,1902,1041,1893,1056,1878,1071,1852,1085"/>
+<area shape="rect" id="Node000115" href="$classmpqc_1_1lcao_1_1ci_1_1_c_i_s.html" title=" " alt="" coords="2239,837,2380,877"/>
+<area shape="poly" id="edge151_Node000058_Node000115" title=" " alt="" coords="1856,1080,1874,1067,1885,1056,1891,1045,1897,1021,1904,996,1911,983,1922,971,1952,950,1980,937,2007,929,2033,926,2089,922,2121,917,2157,908,2254,875,2256,880,2158,913,2122,922,2090,927,2034,931,2008,935,1982,942,1955,955,1926,975,1915,986,1909,998,1902,1022,1896,1047,1889,1059,1878,1071,1859,1084"/>
+<area shape="rect" id="Node000118" href="$classmpqc_1_1lcao_1_1ci_1_1s_c_i.html" title=" " alt="" coords="2239,1481,2379,1521"/>
+<area shape="poly" id="edge152_Node000058_Node000118" title=" " alt="" coords="1868,1130,1878,1140,1894,1161,1905,1182,1911,1204,1913,1226,1909,1269,1899,1312,1890,1354,1887,1395,1890,1415,1897,1435,1909,1454,1926,1473,1947,1486,1979,1495,2061,1505,2155,1507,2239,1504,2239,1509,2155,1512,2061,1511,1978,1500,1945,1490,1922,1477,1904,1457,1892,1437,1885,1416,1882,1395,1884,1353,1894,1311,1904,1268,1908,1226,1906,1205,1900,1184,1890,1164,1874,1143,1864,1134"/>
+<area shape="rect" id="Node000066" href="$classmpqc_1_1lcao_1_1_d_f_r_m_p2_f12.html" title="MP2F12 method for closed shell with DF." alt="" coords="2219,1088,2399,1128"/>
+<area shape="poly" id="edge138_Node000065_Node000066" title=" " alt="" coords="2136,1105,2219,1105,2219,1111,2136,1111"/>
+<area shape="rect" id="Node000108" href="$classmpqc_1_1lcao_1_1_c_c_s_d___f12.html" title=" " alt="" coords="2225,581,2393,621"/>
+<area shape="poly" id="edge140_Node000107_Node000108" title=" " alt="" coords="2133,621,2225,610,2225,615,2134,627"/>
+<area shape="rect" id="Node000110" href="$classmpqc_1_1lcao_1_1cc_1_1_c_c_s_d___t.html" title="CCSD_T class that compute CCSD(T) triple calculation." alt="" coords="2230,453,2389,493"/>
+<area shape="poly" id="edge142_Node000107_Node000110" title=" " alt="" coords="2092,607,2124,586,2156,562,2169,547,2178,532,2188,518,2204,503,2228,490,2231,495,2207,508,2192,521,2183,535,2174,550,2159,566,2127,590,2094,611"/>
+<area shape="rect" id="Node000111" href="$classmpqc_1_1lcao_1_1cc_1_1_e_o_m___c_c_s_d.html" title="Implements closed&#45;shell EOM&#45;EE&#45;CCSD." alt="" coords="2226,773,2393,813"/>
+<area shape="poly" id="edge144_Node000107_Node000111" title=" " alt="" coords="2134,651,2159,666,2177,690,2184,714,2190,737,2207,759,2227,772,2224,777,2204,763,2185,739,2179,715,2173,692,2156,670,2132,656"/>
+<area shape="rect" id="Node000113" href="$classmpqc_1_1lcao_1_1cc_1_1_e_o_m___e_a___c_c_s_d.html" title=" " alt="" coords="2214,645,2405,685"/>
+<area shape="poly" id="edge145_Node000107_Node000113" title=" " alt="" coords="2134,643,2214,652,2214,658,2133,649"/>
+<area shape="rect" id="Node000114" href="$classmpqc_1_1lcao_1_1cc_1_1_e_o_m___i_p___c_c_s_d.html" title=" " alt="" coords="2217,709,2402,749"/>
+<area shape="poly" id="edge146_Node000107_Node000114" title=" " alt="" coords="2134,656,2159,666,2183,680,2207,695,2236,707,2234,712,2204,700,2180,685,2156,670,2133,661"/>
+<area shape="rect" id="Node000116" href="$classmpqc_1_1lcao_1_1cc_1_1_gamma_point_c_c_s_d.html" title=" " alt="" coords="2205,517,2413,557"/>
+<area shape="poly" id="edge147_Node000107_Node000116" title=" " alt="" coords="2099,608,2204,567,2240,555,2242,560,2206,572,2101,613"/>
+<area shape="rect" id="Node000109" href="$classmpqc_1_1lcao_1_1_c_c_s_d___t___f12.html" title="CCSD(T)F12 class." alt="" coords="2487,517,2641,557"/>
+<area shape="poly" id="edge141_Node000108_Node000109" title=" " alt="" coords="2402,575,2486,554,2487,559,2404,580"/>
+<area shape="poly" id="edge143_Node000110_Node000109" title=" " alt="" coords="2402,494,2487,515,2486,521,2401,499"/>
+<area shape="rect" id="Node000088" href="$classmpqc_1_1lcao_1_1pbc_1_1_s_d.html" title="Abstract single&#45;determinant wavefunction under open and periodic boundary conditions." alt="" coords="1965,1717,2116,1757"/>
+<area shape="poly" id="edge154_Node000087_Node000088" title=" " alt="" coords="1776,1395,1829,1438,1856,1467,1878,1499,1891,1528,1897,1556,1896,1607,1896,1631,1899,1654,1908,1678,1926,1702,1944,1716,1966,1726,1964,1731,1942,1721,1922,1706,1903,1680,1893,1656,1890,1631,1891,1607,1892,1557,1886,1530,1874,1501,1852,1470,1826,1442,1773,1399"/>
+<area shape="rect" id="Node000089" href="$classmpqc_1_1lcao_1_1pbc_1_1_s_d_1_1_impl.html" title="single&#45;determinant wavefunction under open and periodic boundary conditions." alt="" coords="2229,1717,2389,1757"/>
+<area shape="poly" id="edge155_Node000088_Node000089" title=" " alt="" coords="2130,1735,2229,1735,2229,1740,2130,1740"/>
+<area shape="rect" id="Node000090" href="$classmpqc_1_1lcao_1_1pbc_1_1_cadf_kz_r_h_f.html" title="CadfKzRHF uses four&#45;center&#45;J for coulomb and CADF&#45;K for exchange." alt="" coords="2461,1685,2667,1725"/>
+<area shape="poly" id="edge156_Node000089_Node000090" title=" " alt="" coords="2403,1723,2461,1716,2461,1721,2403,1728"/>
+<area shape="rect" id="Node000091" href="$classmpqc_1_1lcao_1_1pbc_1_1_df_j_cadf_kz_r_h_f.html" title="DfJCadfKzRHF uses DF&#45;J for coulomb and CADF&#45;K for exchange." alt="" coords="2473,1749,2655,1789"/>
+<area shape="poly" id="edge157_Node000089_Node000091" title=" " alt="" coords="2403,1746,2473,1755,2473,1761,2402,1752"/>
+<area shape="rect" id="Node000092" href="$classmpqc_1_1lcao_1_1pbc_1_1_df_jz_r_h_f.html" title="DfJzRHF class uses multipole&#45;conserving density fitting for Coulomb and 4&#45;center&#45;K for exchange." alt="" coords="2471,1813,2657,1853"/>
+<area shape="poly" id="edge158_Node000089_Node000092" title=" " alt="" coords="2368,1760,2462,1799,2497,1811,2495,1816,2460,1804,2366,1765"/>
+<area shape="rect" id="Node000093" href="$classmpqc_1_1lcao_1_1pbc_1_1_ma_df_j_cadf_kz_r_h_f.html" title="MaDfJCadfKzRHF uses MA&#45;DF&#45;J for coulomb and CADF&#45;K for exchange." alt="" coords="2463,1877,2665,1917"/>
+<area shape="poly" id="edge159_Node000089_Node000093" title=" " alt="" coords="2341,1765,2395,1815,2428,1841,2463,1863,2488,1875,2486,1880,2460,1868,2425,1845,2391,1819,2337,1769"/>
+<area shape="rect" id="Node000094" href="$classmpqc_1_1lcao_1_1pbc_1_1_ma_df_jz_r_h_f.html" title="MaDfJzRHF uses MA&#45;DF&#45;J for coulomb and four&#45;center&#45;K for exchange." alt="" coords="2461,1941,2667,1981"/>
+<area shape="poly" id="edge160_Node000089_Node000094" title=" " alt="" coords="2330,1768,2352,1805,2383,1848,2420,1891,2463,1927,2484,1939,2481,1943,2460,1932,2416,1894,2379,1851,2348,1808,2325,1771"/>
+<area shape="rect" id="Node000095" href="$classmpqc_1_1lcao_1_1pbc_1_1_ma_j_cadf_kz_r_h_f.html" title="MAJCADFK uses four&#45;center&#45;J (CNF) and MA (CFF) for Coulomb and CADF&#45;K for exchange." alt="" coords="2471,1493,2657,1533"/>
+<area shape="poly" id="edge161_Node000089_Node000095" title=" " alt="" coords="2325,1704,2348,1667,2379,1623,2416,1580,2460,1543,2481,1531,2484,1536,2463,1548,2420,1584,2383,1627,2352,1670,2330,1706"/>
+<area shape="rect" id="Node000096" href="$classmpqc_1_1lcao_1_1pbc_1_1_ma_jz_r_h_f.html" title="MaJzRHF uses MA for Coulomb CFF and four&#45;center&#45;JK for Coulomb and exchange CNF." alt="" coords="2469,1557,2659,1597"/>
+<area shape="poly" id="edge162_Node000089_Node000096" title=" " alt="" coords="2337,1705,2391,1655,2425,1630,2460,1607,2486,1595,2488,1600,2463,1612,2428,1634,2395,1659,2341,1709"/>
+<area shape="rect" id="Node000097" href="$classmpqc_1_1lcao_1_1pbc_1_1z_r_h_f.html" title="zRHF class uses reference Fock builder." alt="" coords="2481,1621,2647,1661"/>
+<area shape="poly" id="edge163_Node000089_Node000097" title=" " alt="" coords="2366,1709,2460,1671,2495,1659,2497,1664,2462,1676,2368,1714"/>
+<area shape="rect" id="Node000100" href="$classmpqc_1_1mra_1_1_s_p_solver.html" title=" " alt="" coords="1659,1153,1825,1193"/>
+<area shape="poly" id="edge165_Node000099_Node000100" title=" " alt="" coords="1518,936,1541,945,1562,959,1579,981,1588,1004,1589,1027,1587,1050,1587,1095,1594,1117,1610,1138,1633,1154,1660,1164,1658,1169,1630,1159,1606,1142,1589,1119,1582,1096,1582,1050,1584,1027,1582,1005,1575,984,1558,963,1539,950,1516,941"/>
+<area shape="rect" id="Node000025" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1293,2307,1526,2333"/>
+<area shape="poly" id="edge167_Node000025_Node000024" title=" " alt="" coords="1537,2306,1558,2293,1573,2276,1580,2259,1582,2222,1584,2184,1592,2165,1606,2146,1632,2128,1661,2116,1663,2121,1635,2132,1610,2150,1596,2168,1590,2185,1588,2223,1585,2260,1577,2279,1562,2297,1540,2311"/>
+<area shape="rect" id="Node000062" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1643,1221,1841,1246"/>
+<area shape="poly" id="edge168_Node000062_Node000061" title=" " alt="" coords="1852,1218,1874,1203,1887,1189,1894,1173,1898,1141,1901,1107,1909,1090,1922,1074,1939,1062,1942,1066,1926,1078,1913,1093,1907,1109,1903,1141,1899,1175,1892,1191,1878,1207,1855,1222"/>
+<area shape="poly" id="edge169_Node000062_Node000063" title=" " alt="" coords="1776,1251,1843,1290,1925,1330,1959,1341,1957,1346,1923,1334,1841,1295,1773,1256"/>
+<area shape="poly" id="edge170_Node000062_Node000064" title=" " alt="" coords="1818,1215,1946,1189,1947,1194,1819,1220"/>
+<area shape="poly" id="edge171_Node000062_Node000065" title=" " alt="" coords="1852,1214,1874,1203,1890,1188,1898,1172,1906,1155,1922,1138,1958,1120,1960,1125,1926,1142,1910,1158,1903,1174,1894,1191,1878,1208,1855,1219"/>
+<area shape="poly" id="edge172_Node000062_Node000067" title=" " alt="" coords="1814,1246,1957,1279,1956,1284,1813,1252"/>
+<area shape="poly" id="edge173_Node000062_Node000068" title=" " alt="" coords="1855,1232,1961,1233,1961,1238,1854,1237"/>
+<area shape="rect" id="Node000098" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1649,2353,1835,2407"/>
+<area shape="poly" id="edge174_Node000098_Node000088" title=" " alt="" coords="1846,2360,1874,2338,1886,2317,1895,2291,1903,2223,1902,2142,1897,2054,1892,1967,1891,1886,1899,1817,1909,1790,1922,1768,1941,1751,1964,1741,1966,1746,1944,1756,1926,1771,1913,1792,1905,1819,1896,1886,1897,1967,1902,2054,1908,2142,1909,2223,1900,2292,1891,2319,1878,2342,1850,2364"/>
+<area shape="rect" id="Node000086" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1622,294,1862,378"/>
+<area shape="poly" id="edge175_Node000086_Node000078" title=" " alt="" coords="1874,295,1970,267,1972,272,1876,300"/>
+<area shape="rect" id="Node000076" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1649,541,1835,595"/>
+<area shape="poly" id="edge176_Node000076_Node000075" title=" " alt="" coords="1849,552,1948,540,1948,546,1849,558"/>
+<area shape="rect" id="Node000120" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1929,1409,2153,1463"/>
+<area shape="poly" id="edge177_Node000120_Node000057" title=" " alt="" coords="2152,1398,2155,1394,2181,1355,2191,1317,2192,1280,2187,1242,2181,1204,2179,1164,2185,1121,2203,1075,2217,1053,2235,1034,2273,1005,2276,1009,2239,1038,2222,1057,2208,1077,2190,1122,2184,1164,2187,1203,2192,1241,2197,1279,2196,1317,2185,1357,2159,1398,2156,1401"/>
+<area shape="rect" id="Node000119" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1947,1539,2134,1594"/>
+<area shape="poly" id="edge178_Node000119_Node000118" title=" " alt="" coords="2147,1538,2238,1516,2240,1521,2148,1543"/>
+<area shape="rect" id="Node000117" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1649,620,1835,660"/>
+<area shape="poly" id="edge179_Node000117_Node000107" title=" " alt="" coords="1849,636,1961,634,1961,640,1849,641"/>
+<area shape="rect" id="Node000101" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1296,1463,1523,1503"/>
+<area shape="poly" id="edge180_Node000101_Node000100" title=" " alt="" coords="1534,1465,1558,1447,1579,1419,1587,1389,1586,1360,1582,1330,1577,1299,1577,1268,1585,1237,1606,1206,1630,1188,1657,1178,1659,1182,1632,1193,1610,1210,1590,1239,1582,1269,1583,1298,1587,1329,1592,1359,1592,1390,1583,1421,1562,1451,1537,1469"/>
+<area shape="rect" id="Node000112" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1939,680,2142,720"/>
+<area shape="poly" id="edge181_Node000112_Node000111" title=" " alt="" coords="2139,722,2159,730,2183,744,2207,759,2236,771,2234,776,2204,764,2180,749,2156,734,2137,727"/>
+<area shape="poly" id="edge182_Node000112_Node000113" title=" " alt="" coords="2155,683,2213,675,2214,680,2156,688"/>
+<area shape="poly" id="edge183_Node000112_Node000114" title=" " alt="" coords="2156,710,2217,717,2216,722,2155,715"/>
+<area shape="poly" id="edge184_Node000112_Node000115" title=" " alt="" coords="2152,725,2159,730,2177,754,2184,778,2190,801,2207,823,2240,842,2237,846,2204,827,2185,803,2179,779,2173,756,2155,734,2149,729"/>
+<area shape="rect" id="Node000060" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="1629,987,1855,1013"/>
+<area shape="poly" id="edge185_Node000060_Node000059" title=" " alt="" coords="1854,979,1874,966,1887,952,1893,938,1898,907,1902,876,1909,860,1922,845,1942,831,1964,822,1966,827,1945,836,1926,849,1914,863,1907,877,1903,908,1898,939,1891,955,1878,970,1857,984"/>
+<area shape="rect" id="Node000070" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="979,1003,1197,1043"/>
+<area shape="poly" id="edge186_Node000070_Node000071" title=" " alt="" coords="1211,1009,1301,1000,1302,1006,1211,1014"/>
+<area shape="poly" id="edge187_Node000070_Node000069" title=" " alt="" coords="1211,1036,1381,1052,1576,1062,1669,1061,1754,1055,1824,1042,1852,1033,1875,1022,1887,1012,1894,1001,1899,976,1905,949,1911,935,1922,922,1941,908,1963,897,1965,901,1944,912,1926,926,1916,938,1910,951,1905,977,1898,1003,1891,1015,1877,1026,1854,1038,1825,1048,1754,1061,1669,1067,1576,1068,1381,1058,1211,1041"/>
+<area shape="rect" id="Node000055" title=" " alt="" coords="5,1845,151,1885"/>
+<area shape="rect" id="Node000037" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="199,1838,381,1893"/>
+<area shape="poly" id="edge188_Node000055_Node000037" title=" " alt="" coords="164,1863,199,1863,199,1868,164,1868"/>
+<area shape="rect" id="Node000038" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="429,1813,651,1853"/>
+<area shape="poly" id="edge189_Node000037_Node000038" title=" " alt="" coords="395,1849,429,1845,430,1850,396,1855"/>
+<area shape="rect" id="Node000039" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="450,1877,630,1917"/>
+<area shape="poly" id="edge246_Node000037_Node000039" title=" " alt="" coords="396,1876,450,1883,449,1888,395,1881"/>
+<area shape="rect" id="Node000040" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="433,1942,647,1997"/>
+<area shape="poly" id="edge247_Node000037_Node000040" title=" " alt="" coords="361,1896,430,1927,462,1939,460,1944,428,1932,359,1901"/>
+<area shape="rect" id="Node000042" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="443,2021,637,2091"/>
+<area shape="poly" id="edge249_Node000037_Node000042" title=" " alt="" coords="323,1902,371,1955,431,2006,452,2019,450,2024,428,2010,367,1958,319,1905"/>
+<area shape="rect" id="Node000043" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="445,2511,635,2551"/>
+<area shape="poly" id="edge250_Node000037_Node000043" title=" " alt="" coords="309,1905,534,2509,529,2511,304,1907"/>
+<area shape="rect" id="Node000049" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="459,984,621,1024"/>
+<area shape="poly" id="edge256_Node000037_Node000049" title=" " alt="" coords="298,1823,349,1605,386,1461,427,1315,483,1146,528,1023,533,1025,488,1148,432,1317,391,1462,354,1607,303,1825"/>
+<area shape="rect" id="Node000053" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="454,1749,626,1789"/>
+<area shape="poly" id="edge260_Node000037_Node000053" title=" " alt="" coords="357,1830,428,1799,464,1787,466,1792,430,1804,359,1835"/>
+<area shape="rect" id="Node000034" href="$classmpqc_1_1enable__shared__from__this.html" title="just like std::enable_shared_from_this but can appear multiple times in the subhierarchy of a class" alt="" coords="459,1472,621,1512"/>
+<area shape="poly" id="edge262_Node000037_Node000034" title=" " alt="" coords="315,1825,523,1511,527,1514,319,1828"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1_described_class.html" title=" " alt="" coords="725,1857,891,1882"/>
+<area shape="poly" id="edge190_Node000038_Node000003" title=" " alt="" coords="665,1847,725,1856,724,1861,664,1853"/>
+<area shape="poly" id="edge245_Node000003_Node000001" title=" " alt="" coords="855,1848,888,1828,915,1800,936,1754,943,1711,940,1669,932,1628,926,1588,925,1547,936,1505,963,1462,980,1447,1000,1437,1003,1442,983,1452,967,1466,941,1507,930,1548,931,1587,938,1628,945,1669,948,1711,942,1756,920,1803,892,1832,858,1853"/>
+<area shape="poly" id="edge191_Node000003_Node000004" title=" " alt="" coords="883,1851,1044,1822,1243,1797,1342,1790,1432,1791,1507,1801,1537,1810,1562,1822,1576,1834,1583,1849,1588,1878,1592,1908,1598,1922,1610,1935,1637,1952,1635,1957,1606,1939,1594,1925,1587,1909,1583,1879,1578,1850,1571,1838,1558,1826,1535,1815,1506,1806,1432,1796,1342,1796,1244,1802,1045,1828,884,1856"/>
+<area shape="poly" id="edge244_Node000003_Node000018" title=" " alt="" coords="854,1848,887,1828,915,1800,931,1768,936,1737,935,1706,931,1677,928,1647,929,1618,940,1590,964,1563,1000,1549,1063,1539,1245,1530,1455,1530,1637,1534,1637,1539,1454,1535,1245,1535,1064,1545,1001,1554,967,1568,945,1593,935,1620,933,1647,936,1676,940,1706,942,1737,936,1770,920,1803,891,1832,857,1853"/>
+<area shape="poly" id="edge238_Node000003_Node000024" title=" " alt="" coords="861,1885,892,1903,919,1928,932,1948,938,1968,940,2005,944,2040,952,2056,967,2071,990,2085,1020,2097,1096,2114,1187,2124,1289,2128,1495,2124,1662,2113,1663,2118,1495,2129,1289,2133,1187,2129,1095,2119,1018,2102,988,2090,964,2075,947,2059,939,2042,935,2006,933,1968,927,1950,915,1931,889,1907,858,1890"/>
+<area shape="poly" id="edge237_Node000003_Node000104" title=" " alt="" coords="857,1848,890,1828,915,1800,930,1765,940,1722,945,1671,946,1616,941,1492,930,1359,920,1227,917,1105,921,1051,930,1002,943,961,963,928,983,911,1007,900,1010,905,986,915,967,931,948,963,935,1004,926,1052,923,1106,925,1227,935,1359,946,1491,952,1616,950,1672,945,1722,935,1766,920,1803,893,1832,860,1853"/>
+<area shape="poly" id="edge206_Node000003_Node000072" title=" " alt="" coords="857,1848,889,1828,915,1800,929,1767,939,1727,944,1681,945,1629,941,1514,931,1391,922,1268,921,1155,924,1104,932,1059,945,1020,963,989,984,971,1009,960,1011,965,987,976,967,992,950,1022,937,1060,930,1105,926,1155,928,1268,936,1391,946,1514,950,1629,949,1681,944,1728,934,1769,920,1803,893,1832,860,1853"/>
+<area shape="rect" id="Node000028" href="$classmpqc_1_1_debugger.html" title=" " alt="" coords="1023,1857,1153,1882"/>
+<area shape="poly" id="edge192_Node000003_Node000028" title=" " alt="" coords="905,1867,1023,1867,1023,1872,905,1872"/>
+<area shape="rect" id="Node000029" href="$classmpqc_1_1_molecular_coordinates.html" title=" " alt="" coords="984,2143,1192,2169"/>
+<area shape="poly" id="edge193_Node000003_Node000029" title=" " alt="" coords="862,1885,893,1903,919,1928,935,1954,942,1980,941,2029,940,2053,942,2076,950,2099,967,2122,996,2141,993,2146,964,2126,945,2102,936,2077,934,2053,936,2029,936,1981,930,1956,915,1931,890,1907,860,1890"/>
+<area shape="rect" id="Node000031" href="$classmpqc_1_1_molecule.html" title="Molecule is a class which contains a vector of AtomBasedClusterables." alt="" coords="1025,1477,1151,1502"/>
+<area shape="poly" id="edge195_Node000003_Node000031" title=" " alt="" coords="855,1848,888,1828,915,1800,934,1762,940,1726,938,1691,933,1657,929,1623,929,1589,939,1555,963,1519,992,1500,1025,1490,1026,1495,994,1504,967,1523,944,1557,934,1590,934,1623,938,1657,944,1691,945,1727,939,1764,920,1803,891,1832,858,1853"/>
+<area shape="rect" id="Node000056" href="$classmpqc_1_1_multistate_impl_base.html" title=" " alt="" coords="1944,745,2137,770"/>
+<area shape="poly" id="edge197_Node000003_Node000056" title=" " alt="" coords="856,1848,889,1828,915,1800,930,1772,941,1745,949,1695,947,1646,939,1599,930,1551,928,1502,937,1450,947,1423,963,1395,995,1349,1027,1311,1060,1279,1093,1253,1162,1213,1234,1183,1309,1157,1388,1127,1471,1085,1514,1057,1558,1023,1582,998,1606,973,1688,908,1755,861,1827,822,1923,780,1964,767,1965,773,1925,785,1829,826,1758,865,1691,912,1610,977,1586,1002,1562,1027,1517,1061,1473,1089,1390,1132,1311,1162,1236,1188,1164,1218,1096,1257,1063,1283,1031,1314,999,1352,968,1397,952,1425,942,1452,933,1503,936,1551,944,1598,952,1646,955,1695,946,1747,935,1774,919,1803,892,1832,859,1853"/>
+<area shape="rect" id="Node000027" href="$classmpqc_1_1_task.html" title=" " alt="" coords="1041,1706,1135,1731"/>
+<area shape="poly" id="edge204_Node000003_Node000027" title=" " alt="" coords="845,1848,881,1826,916,1799,929,1784,938,1769,947,1754,964,1740,1002,1725,1040,1718,1041,1723,1003,1730,967,1745,951,1758,942,1772,934,1787,919,1803,884,1830,848,1852"/>
+<area shape="rect" id="Node000121" href="$classmpqc_1_1_wavefunction_world.html" title="It provides an execution context (madness::World) and a set of atoms." alt="" coords="992,2193,1184,2218"/>
+<area shape="poly" id="edge207_Node000003_Node000121" title=" " alt="" coords="864,1885,894,1903,919,1928,938,1962,944,1996,943,2029,939,2060,935,2091,936,2120,945,2150,967,2179,993,2196,990,2201,964,2183,941,2152,931,2121,930,2090,934,2059,938,2028,939,1997,933,1964,915,1931,891,1907,861,1890"/>
+<area shape="rect" id="Node000124" href="$classmpqc_1_1lcao_1_1_factory.html" title="Abstract integral factory." alt="" coords="1014,2303,1162,2329"/>
+<area shape="poly" id="edge210_Node000003_Node000124" title=" " alt="" coords="864,1885,894,1903,919,1928,941,1969,950,2007,950,2043,946,2079,942,2114,941,2150,948,2188,968,2229,987,2253,1010,2273,1058,2301,1055,2306,1007,2277,983,2257,963,2232,943,2190,936,2151,936,2114,941,2078,945,2043,945,2007,936,1970,915,1931,891,1907,861,1890"/>
+<area shape="rect" id="Node000128" href="$classmpqc_1_1lcao_1_1_fock_builder.html" title=" " alt="" coords="999,2421,1177,2461"/>
+<area shape="poly" id="edge214_Node000003_Node000128" title=" " alt="" coords="865,1885,895,1903,919,1928,936,1956,948,1984,958,2035,957,2085,949,2133,941,2181,938,2230,945,2283,954,2311,968,2340,985,2364,1006,2386,1051,2419,1048,2423,1002,2390,980,2368,963,2343,949,2313,940,2284,932,2230,936,2180,944,2132,952,2084,953,2036,943,1985,931,1959,915,1931,892,1907,862,1890"/>
+<area shape="rect" id="Node000162" href="$classmpqc_1_1lcao_1_1_orbital_localizer.html" title="Localizes orbitals using LCAO&#45;specific info (e.g. AO&#45;basis operators)" alt="" coords="987,2715,1189,2755"/>
+<area shape="poly" id="edge225_Node000003_Node000162" title=" " alt="" coords="866,1885,895,1903,920,1928,932,1953,941,1982,952,2054,956,2138,956,2228,953,2404,957,2479,968,2537,990,2589,1018,2638,1072,2713,1067,2716,1014,2641,985,2591,963,2538,952,2479,948,2404,950,2228,951,2138,947,2055,936,1984,927,1955,915,1931,892,1907,863,1890"/>
+<area shape="rect" id="Node000171" href="$classmpqc_1_1lcao_1_1_population_analysis.html" title="Performs population analysis on a set of LCAOs." alt="" coords="975,2779,1201,2819"/>
+<area shape="poly" id="edge234_Node000003_Node000171" title=" " alt="" coords="867,1885,896,1903,920,1928,935,1962,946,2004,951,2053,953,2106,948,2226,937,2353,927,2480,925,2597,928,2649,936,2695,949,2734,967,2765,980,2777,976,2781,963,2768,944,2736,931,2696,923,2650,919,2597,922,2480,932,2353,942,2225,947,2106,946,2053,940,2005,930,1964,915,1931,893,1907,864,1890"/>
+<area shape="rect" id="Node000173" href="$classmpqc_1_1lcao_1_1gaussian_1_1_atomic_basis_1_1_provider.html" title=" " alt="" coords="1001,2485,1175,2525"/>
+<area shape="poly" id="edge236_Node000003_Node000173" title=" " alt="" coords="866,1885,895,1903,920,1928,930,1950,938,1978,944,2044,944,2122,939,2205,936,2287,937,2363,946,2427,955,2452,967,2472,983,2485,1002,2495,1000,2499,980,2490,963,2475,950,2454,941,2428,931,2364,931,2287,934,2205,938,2122,939,2044,933,1979,925,1952,915,1931,892,1907,863,1890"/>
+<area shape="rect" id="Node000174" href="$classmpqc_1_1lcao_1_1z_orbital_localizer.html" title=" " alt="" coords="983,2035,1193,2061"/>
+<area shape="poly" id="edge239_Node000003_Node000174" title=" " alt="" coords="857,1885,889,1903,919,1928,936,1953,942,1977,949,2000,967,2021,989,2033,986,2038,964,2025,944,2002,937,1979,931,1955,915,1931,886,1908,855,1890"/>
+<area shape="rect" id="Node000177" href="$classmpqc_1_1math_1_1_d_i_i_s.html" title="Factory for creating DIIS objects." alt="" coords="1021,1755,1155,1781"/>
+<area shape="poly" id="edge242_Node000003_Node000177" title=" " alt="" coords="846,1848,901,1823,964,1797,1030,1778,1031,1783,966,1803,903,1828,848,1853"/>
+<area shape="rect" id="Node000178" href="$classmpqc_1_1math_1_1_davidson_eigensolver_factory.html" title="A factory class for DavidsonEigensolver." alt="" coords="965,1971,1211,2011"/>
+<area shape="poly" id="edge243_Node000003_Node000178" title=" " alt="" coords="847,1887,919,1927,942,1943,966,1956,999,1968,997,1973,964,1961,939,1947,916,1932,844,1891"/>
+<area shape="rect" id="Node000030" href="$classmpqc_1_1_cart_molecular_coordinates.html" title=" " alt="" coords="1292,2143,1527,2169"/>
+<area shape="poly" id="edge194_Node000029_Node000030" title=" " alt="" coords="1206,2153,1292,2153,1292,2159,1206,2159"/>
+<area shape="rect" id="Node000032" href="$classmpqc_1_1_unit_cell.html" title=" " alt="" coords="1350,1413,1469,1438"/>
+<area shape="poly" id="edge196_Node000031_Node000032" title=" " alt="" coords="1154,1471,1258,1448,1349,1432,1350,1437,1259,1453,1155,1476"/>
+<area shape="poly" id="edge199_Node000056_Node000111" title=" " alt="" coords="2149,769,2226,780,2225,785,2149,774"/>
+<area shape="poly" id="edge200_Node000056_Node000113" title=" " alt="" coords="2133,738,2156,730,2180,713,2204,695,2232,683,2234,688,2207,700,2183,717,2159,734,2135,743"/>
+<area shape="poly" id="edge201_Node000056_Node000114" title=" " alt="" coords="2151,743,2216,736,2217,742,2151,749"/>
+<area shape="poly" id="edge198_Node000056_Node000057" title=" " alt="" coords="2150,774,2159,781,2180,806,2188,832,2193,859,2208,888,2245,931,2283,965,2280,969,2241,934,2203,891,2188,860,2183,833,2175,808,2156,785,2147,779"/>
+<area shape="poly" id="edge202_Node000056_Node000115" title=" " alt="" coords="2138,772,2159,780,2174,791,2184,802,2193,813,2207,823,2239,838,2237,842,2204,828,2189,817,2180,805,2170,795,2156,785,2136,777"/>
+<area shape="poly" id="edge203_Node000056_Node000118" title=" " alt="" coords="2151,773,2159,781,2177,811,2188,852,2195,901,2198,954,2201,1059,2208,1140,2232,1241,2259,1339,2304,1480,2299,1482,2254,1341,2227,1242,2203,1140,2196,1060,2193,954,2189,901,2183,853,2172,813,2155,784,2147,777"/>
+<area shape="poly" id="edge205_Node000027_Node000006" title=" " alt="" coords="1149,1722,1349,1740,1348,1745,1149,1727"/>
+<area shape="rect" id="Node000122" href="$classmpqc_1_1lcao_1_1_wavefunction_world.html" title="specialization of mpqc::WavefunctionWorld to the LCAO case" alt="" coords="1314,2243,1505,2283"/>
+<area shape="poly" id="edge208_Node000121_Node000122" title=" " alt="" coords="1174,2218,1314,2243,1313,2248,1173,2223"/>
+<area shape="rect" id="Node000123" href="$classmpqc_1_1mra_1_1_wavefunction_world.html" title="specialization of mpqc::WavefunctionWorld to the MRA case" alt="" coords="1296,2193,1523,2218"/>
+<area shape="poly" id="edge209_Node000121_Node000123" title=" " alt="" coords="1197,2203,1296,2203,1296,2208,1197,2208"/>
+<area shape="rect" id="Node000125" href="$classmpqc_1_1lcao_1_1gaussian_1_1_gaussian_factory.html" title=" " alt="" coords="1330,2357,1489,2397"/>
+<area shape="poly" id="edge211_Node000124_Node000125" title=" " alt="" coords="1169,2329,1330,2360,1329,2365,1168,2334"/>
+<area shape="rect" id="Node000126" href="$classmpqc_1_1lcao_1_1gaussian_1_1_a_o_factory.html" title="Gaussian AO integral factory using ab initio Hamiltonians." alt="" coords="1643,2224,1841,2264"/>
+<area shape="poly" id="edge212_Node000125_Node000126" title=" " alt="" coords="1501,2367,1531,2357,1558,2343,1574,2327,1582,2310,1590,2291,1606,2274,1642,2256,1644,2261,1610,2278,1594,2294,1587,2312,1579,2330,1562,2347,1533,2362,1503,2372"/>
+<area shape="rect" id="Node000127" href="$classmpqc_1_1lcao_1_1pbc_1_1gaussian_1_1_a_o_factory.html" title="Bloch&#45;AO Integral Factory." alt="" coords="1643,2160,1841,2200"/>
+<area shape="poly" id="edge213_Node000125_Node000127" title=" " alt="" coords="1502,2370,1532,2360,1558,2343,1571,2328,1578,2312,1582,2279,1585,2244,1592,2227,1606,2210,1623,2198,1642,2189,1644,2194,1626,2203,1610,2214,1597,2229,1590,2245,1587,2279,1583,2314,1576,2331,1562,2347,1534,2365,1503,2375"/>
+<area shape="rect" id="Node000129" href="$classmpqc_1_1lcao_1_1_j_k_fock_builder.html" title=" " alt="" coords="1314,2549,1505,2589"/>
+<area shape="poly" id="edge215_Node000128_Node000129" title=" " alt="" coords="1191,2460,1212,2471,1229,2487,1237,2504,1245,2520,1260,2535,1286,2548,1315,2557,1313,2562,1284,2553,1257,2540,1241,2524,1232,2507,1224,2491,1209,2475,1189,2464"/>
+<area shape="rect" id="Node000160" href="$classmpqc_1_1lcao_1_1_k_s_fock_builder.html" title=" " alt="" coords="1312,2485,1507,2525"/>
+<area shape="poly" id="edge223_Node000128_Node000160" title=" " alt="" coords="1191,2459,1312,2483,1311,2489,1190,2464"/>
+<area shape="rect" id="Node000161" href="$classmpqc_1_1lcao_1_1_x_c_fock_builder.html" title=" " alt="" coords="1312,2421,1507,2461"/>
+<area shape="poly" id="edge224_Node000128_Node000161" title=" " alt="" coords="1190,2439,1312,2439,1312,2444,1190,2444"/>
+<area shape="poly" id="edge220_Node000129_Node000134" title=" " alt="" coords="1519,2574,1542,2584,1562,2599,1582,2627,1590,2654,1590,2682,1587,2710,1584,2737,1584,2764,1591,2791,1610,2817,1635,2834,1632,2839,1606,2821,1587,2793,1579,2765,1578,2737,1582,2709,1585,2682,1585,2655,1577,2629,1558,2603,1539,2589,1517,2579"/>
+<area shape="poly" id="edge221_Node000129_Node000136" title=" " alt="" coords="1519,2574,1542,2584,1562,2600,1586,2635,1595,2671,1594,2706,1587,2742,1581,2777,1579,2812,1587,2847,1610,2881,1624,2893,1641,2901,1638,2906,1621,2897,1606,2884,1582,2849,1574,2813,1575,2777,1582,2741,1588,2706,1590,2671,1581,2637,1558,2603,1539,2588,1517,2578"/>
+<area shape="rect" id="Node000130" href="$classmpqc_1_1lcao_1_1_cadf_fock_builder.html" title=" " alt="" coords="1639,2511,1845,2551"/>
+<area shape="poly" id="edge216_Node000129_Node000130" title=" " alt="" coords="1518,2554,1638,2540,1639,2545,1519,2559"/>
+<area shape="rect" id="Node000131" href="$classmpqc_1_1lcao_1_1_clr_df_j_cadf_k_fock_builder.html" title=" " alt="" coords="1617,2575,1867,2615"/>
+<area shape="poly" id="edge217_Node000129_Node000131" title=" " alt="" coords="1519,2575,1616,2582,1616,2588,1518,2580"/>
+<area shape="rect" id="Node000132" href="$classmpqc_1_1lcao_1_1_d_f_fock_builder.html" title=" " alt="" coords="1645,2639,1839,2679"/>
+<area shape="poly" id="edge218_Node000129_Node000132" title=" " alt="" coords="1519,2586,1561,2599,1585,2612,1609,2624,1646,2636,1644,2641,1607,2629,1583,2616,1559,2604,1517,2591"/>
+<area shape="rect" id="Node000133" href="$classmpqc_1_1lcao_1_1_d_f_j4c_k_fock_builder.html" title=" " alt="" coords="1631,2288,1853,2328"/>
+<area shape="poly" id="edge219_Node000129_Node000133" title=" " alt="" coords="1517,2559,1539,2549,1558,2535,1576,2512,1583,2489,1584,2465,1582,2440,1579,2415,1580,2390,1588,2364,1606,2339,1629,2323,1632,2327,1610,2343,1593,2367,1586,2390,1585,2415,1587,2439,1589,2465,1588,2490,1580,2515,1562,2539,1542,2554,1519,2564"/>
+<area shape="rect" id="Node000159" href="$classmpqc_1_1lcao_1_1_reference_fock_builder.html" title=" " alt="" coords="1643,2431,1841,2486"/>
+<area shape="poly" id="edge222_Node000129_Node000159" title=" " alt="" coords="1517,2550,1559,2535,1573,2526,1582,2517,1592,2506,1607,2496,1642,2481,1644,2486,1609,2501,1595,2510,1586,2520,1576,2530,1561,2540,1519,2555"/>
+<area shape="rect" id="Node000163" href="$classmpqc_1_1lcao_1_1_jacobi_orbital_localizer.html" title=" " alt="" coords="1288,2944,1531,3013"/>
+<area shape="poly" id="edge226_Node000162_Node000163" title=" " alt="" coords="1203,2757,1213,2765,1229,2786,1236,2807,1238,2849,1239,2890,1246,2910,1261,2930,1290,2951,1286,2956,1257,2934,1241,2913,1234,2891,1232,2849,1231,2808,1224,2788,1209,2769,1200,2761"/>
+<area shape="rect" id="Node000165" href="$classmpqc_1_1lcao_1_1_jacobi_orbital_localizer.html" title=" " alt="" coords="1288,2613,1531,2683"/>
+<area shape="poly" id="edge228_Node000162_Node000165" title=" " alt="" coords="1175,2708,1287,2678,1288,2683,1177,2714"/>
+<area shape="rect" id="Node000167" href="$classmpqc_1_1lcao_1_1_jacobi_orbital_localizer.html" title=" " alt="" coords="1287,2851,1532,2920"/>
+<area shape="poly" id="edge230_Node000162_Node000167" title=" " alt="" coords="1203,2759,1212,2765,1229,2783,1237,2801,1245,2819,1260,2837,1288,2853,1285,2858,1257,2841,1240,2822,1232,2803,1225,2786,1209,2769,1200,2763"/>
+<area shape="rect" id="Node000169" href="$classmpqc_1_1lcao_1_1_jacobi_orbital_localizer.html" title="Implements Jacobi&#45;based spread minimizer." alt="" coords="1317,2707,1501,2762"/>
+<area shape="poly" id="edge232_Node000162_Node000169" title=" " alt="" coords="1203,2732,1317,2732,1317,2737,1203,2737"/>
+<area shape="rect" id="Node000170" href="$classmpqc_1_1lcao_1_1_r_r_q_r_localizer.html" title=" " alt="" coords="1311,2787,1507,2827"/>
+<area shape="poly" id="edge233_Node000162_Node000170" title=" " alt="" coords="1186,2755,1259,2772,1314,2784,1313,2789,1258,2777,1185,2760"/>
+<area shape="rect" id="Node000164" href="$classmpqc_1_1lcao_1_1_e_r_localizer.html" title="Performs Edmiston&#45;Ruedenberg localization." alt="" coords="1654,2959,1830,2999"/>
+<area shape="poly" id="edge227_Node000163_Node000164" title=" " alt="" coords="1544,2976,1654,2976,1654,2981,1544,2981"/>
+<area shape="rect" id="Node000166" href="$classmpqc_1_1lcao_1_1_f_b_localizer.html" title=" " alt="" coords="1654,2703,1830,2743"/>
+<area shape="poly" id="edge229_Node000165_Node000166" title=" " alt="" coords="1544,2676,1654,2700,1653,2706,1543,2681"/>
+<area shape="rect" id="Node000168" href="$classmpqc_1_1lcao_1_1_p_m_localizer.html" title="Performs Pipek&#45;Mezey localization." alt="" coords="1653,2767,1831,2807"/>
+<area shape="poly" id="edge231_Node000167_Node000168" title=" " alt="" coords="1538,2844,1559,2836,1607,2816,1652,2803,1653,2808,1609,2821,1561,2841,1540,2849"/>
+<area shape="rect" id="Node000172" href="$classmpqc_1_1lcao_1_1_mulliken_population_analysis.html" title="Implements Mulliken population analysis." alt="" coords="1297,3037,1522,3077"/>
+<area shape="poly" id="edge235_Node000171_Node000172" title=" " alt="" coords="1209,2825,1213,2829,1230,2854,1238,2879,1239,2904,1237,2929,1235,2953,1236,2977,1243,3001,1261,3023,1278,3036,1298,3046,1295,3051,1275,3041,1257,3027,1238,3003,1230,2978,1229,2953,1231,2928,1234,2904,1233,2880,1226,2856,1209,2832,1205,2829"/>
+<area shape="rect" id="Node000175" href="$classmpqc_1_1lcao_1_1pbc_1_1_p_mz_localizer_b_f_g_s.html" title="Implements L&#45;BFGS for PM." alt="" coords="1301,2028,1518,2068"/>
+<area shape="poly" id="edge240_Node000174_Node000175" title=" " alt="" coords="1207,2045,1300,2045,1300,2051,1207,2051"/>
+<area shape="rect" id="Node000176" href="$classmpqc_1_1lcao_1_1pbc_1_1_p_mz_localizer_c_g.html" title="PM localizer for crystaline orbitals using the nonlinear conjugate gradient method." alt="" coords="1301,1964,1518,2004"/>
+<area shape="poly" id="edge241_Node000174_Node000176" title=" " alt="" coords="1166,2030,1308,2001,1309,2007,1167,2035"/>
+<area shape="rect" id="Node000041" href="$classmpqc_1_1lcao_1_1gaussian_1_1_direct_d_f_integral_builder.html" title="DirectDFIntegralBuilder is a class that builds direct df tiles on the fly which can be composed by pr..." alt="" coords="717,1942,899,1997"/>
+<area shape="poly" id="edge248_Node000040_Node000041" title=" " alt="" coords="661,1967,716,1967,716,1972,661,1972"/>
+<area shape="rect" id="Node000044" href="$classmpqc_1_1lcao_1_1integrals_1_1_direct_expr.html" title="parent class for all direct expressions" alt="" coords="729,2907,887,2947"/>
+<area shape="poly" id="edge251_Node000043_Node000044" title=" " alt="" coords="565,2561,795,2905,791,2908,560,2564"/>
+<area shape="rect" id="Node000045" href="$classmpqc_1_1lcao_1_1integrals_1_1_integral_expr.html" title="class for integral expressions e.g. &lt;a b |G| c d&gt; or (a b |G| c d)" alt="" coords="1009,2907,1167,2947"/>
+<area shape="poly" id="edge252_Node000044_Node000045" title=" " alt="" coords="901,2924,1008,2924,1008,2929,901,2929"/>
+<area shape="rect" id="Node000046" href="$classmpqc_1_1lcao_1_1integrals_1_1_operator_expr.html" title="class for operator expressions e.g. +, &#45;, *, =, [, ], †, ^" alt="" coords="1009,2971,1167,3011"/>
+<area shape="poly" id="edge253_Node000044_Node000046" title=" " alt="" coords="901,2945,1009,2970,1008,2975,900,2950"/>
+<area shape="rect" id="Node000047" href="$classmpqc_1_1lcao_1_1integrals_1_1_result_expr.html" title="class for result expressions e.g. (i j a b) or" alt="" coords="1009,3035,1167,3075"/>
+<area shape="poly" id="edge254_Node000044_Node000047" title=" " alt="" coords="849,2952,903,2988,966,3020,1009,3035,1008,3040,964,3025,901,2992,846,2957"/>
+<area shape="rect" id="Node000048" href="$classmpqc_1_1lcao_1_1integrals_1_1_scalar_expr.html" title="class for scalar expressions e.g. 1, 2.0, 3.14, etc." alt="" coords="1009,2843,1167,2883"/>
+<area shape="poly" id="edge255_Node000044_Node000048" title=" " alt="" coords="900,2903,1008,2878,1009,2883,901,2908"/>
+<area shape="rect" id="Node000050" href="$classmpqc_1_1math_1_1_group.html" title="Group is an abstract discrete group." alt="" coords="735,713,881,738"/>
+<area shape="poly" id="edge257_Node000049_Node000050" title=" " alt="" coords="552,970,573,923,605,867,646,809,670,783,697,759,720,745,744,736,746,741,722,750,700,763,674,786,650,812,609,869,578,926,557,972"/>
+<area shape="rect" id="Node000051" href="$classmpqc_1_1math_1_1groups_1_1_supercell_translation_group.html" title="SupercellTranslationGroup is a discrete group of translations of a lattice." alt="" coords="988,648,1188,688"/>
+<area shape="poly" id="edge258_Node000050_Node000051" title=" " alt="" coords="883,707,989,685,990,691,885,713"/>
+<area shape="rect" id="Node000052" href="$classmpqc_1_1math_1_1groups_1_1_z1.html" title="Z1 is the trivial group." alt="" coords="999,713,1177,738"/>
+<area shape="poly" id="edge259_Node000050_Node000052" title=" " alt="" coords="895,723,999,723,999,728,895,728"/>
+<area shape="rect" id="Node000054" href="$classmpqc_1_1utility_1_1_observable.html" title="helps to set up messaging between objects via the Observer pattern" alt="" coords="715,1749,901,1789"/>
+<area shape="poly" id="edge261_Node000053_Node000054" title=" " alt="" coords="640,1767,715,1767,715,1772,640,1772"/>
+<area shape="poly" id="edge265_Node000034_Node000035" title=" " alt="" coords="580,1462,635,1428,697,1394,726,1381,728,1386,700,1398,638,1432,583,1467"/>
+<area shape="rect" id="Node000033" href="$classmpqc_1_1utility_1_1_observable.html" title=" " alt="" coords="715,1472,901,1512"/>
+<area shape="poly" id="edge263_Node000034_Node000033" title=" " alt="" coords="634,1489,715,1489,715,1495,634,1495"/>
+<area shape="poly" id="edge264_Node000033_Node000031" title=" " alt="" coords="914,1488,1025,1487,1025,1493,914,1494"/>
+</map>

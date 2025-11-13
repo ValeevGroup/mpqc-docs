@@ -1,0 +1,7 @@
+<map id="sc::DistSymmSCMatrix" name="sc::DistSymmSCMatrix">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,163,324"/>
+<area shape="rect" id="node2" href="$classsc_1_1SymmSCMatrix.html" title="The SymmSCMatrix class is the abstract base class for symmetric double valued matrices." alt="" coords="17,225,151,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="16,152,152,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="35,79,133,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="42,5,127,31"/>
+</map>

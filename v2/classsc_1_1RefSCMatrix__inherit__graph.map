@@ -1,0 +1,5 @@
+<map id="sc::RefSCMatrix" name="sc::RefSCMatrix">
+<area shape="rect" id="node1" title="The RefSCMatrix class is a smart pointer to an SCMatrix specialization." alt="" coords="17,152,134,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1Ref.html" title=" " alt="" coords="5,79,146,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="29,5,122,31"/>
+</map>

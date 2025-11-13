@@ -1,0 +1,4 @@
+var structsc_1_1detail_1_1TwoBodyEvalCreator_3_01NumCenters_00_01TwoBodyOperSet_1_1DeltaFunction_01_4 =
+[
+    [ "value", "structsc_1_1detail_1_1TwoBodyEvalCreator_3_01NumCenters_00_01TwoBodyOperSet_1_1DeltaFunction_01_4.html#a78cc1ab23e5594052f35de8e9f93db7c", null ]
+];

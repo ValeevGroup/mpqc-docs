@@ -1,0 +1,7 @@
+<map id="mpqc::utility::nbody_op&lt; 2, Tensor1, Tensor2 &gt;" name="mpqc::utility::nbody_op&lt; 2, Tensor1, Tensor2 &gt;">
+<area shape="rect" id="Node000001" title="spin&#45;free n&#45;body operator composed of up to 2&#45;body ops" alt="" coords="68,108,267,148"/>
+<area shape="rect" id="Node000002" href="$structmpqc_1_1utility_1_1nbody__op.html" title=" " alt="" coords="5,5,156,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,54,153,106,149,110,104,58"/>
+<area shape="rect" id="Node000003" href="$structmpqc_1_1utility_1_1nbody__op2.html" title=" " alt="" coords="180,5,331,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,58,186,110,182,106,228,54"/>
+</map>

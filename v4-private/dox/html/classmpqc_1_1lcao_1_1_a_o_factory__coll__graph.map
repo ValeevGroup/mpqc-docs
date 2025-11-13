@@ -1,0 +1,31 @@
+<map id="mpqc::lcao::AOFactory&lt; Tile, Policy &gt;" name="mpqc::lcao::AOFactory&lt; Tile, Policy &gt;">
+<area shape="rect" id="Node000001" title="Abstract AO integral factory." alt="" coords="1540,136,1707,176"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1321,129,1491,183"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1505,153,1540,153,1540,159,1505,159"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1lcao_1_1_factory.html" title="Abstract integral factory." alt="" coords="1007,45,1155,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1156,70,1298,109,1343,126,1341,131,1297,115,1154,76"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1_described_class.html" title=" " alt="" coords="759,27,926,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="940,44,1007,49,1007,55,940,50"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="469,20,691,60"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="704,37,759,37,759,43,704,43"/>
+<area shape="rect" id="Node000006" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="237,13,420,67"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="434,37,469,37,469,43,434,43"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,5,188,75"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="202,37,237,37,237,43,202,43"/>
+<area shape="rect" id="Node000008" href="$classmpqc_1_1_formula_registry.html" title=" " alt="" coords="995,99,1168,139"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1182,127,1321,144,1321,149,1181,133"/>
+<area shape="rect" id="Node000009" href="$classmpqc_1_1_formula_registry_base.html" title=" " alt="" coords="740,210,945,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="916,203,944,191,959,181,968,171,978,160,993,148,1017,136,1019,141,996,153,982,164,972,174,962,185,947,196,918,208"/>
+<area shape="rect" id="Node000011" href="$classmpqc_1_1_formula_registry.html" title=" " alt="" coords="995,236,1168,276"/>
+<area shape="poly" id="edge11_Node000011_Node000009" title=" " alt="" coords="947,235,995,241,994,247,947,240"/>
+<area shape="rect" id="Node000013" href="$classmpqc_1_1_formula_registry.html" title=" " alt="" coords="995,163,1168,203"/>
+<area shape="poly" id="edge14_Node000013_Node000009" title=" " alt="" coords="947,205,970,201,994,197,995,202,971,207,948,211"/>
+<area shape="rect" id="Node000010" href="$classmpqc_1_1utility_1_1_registry.html" title="a syntactically&#45;sweet wrapper of std::map, not thread_safe for writing" alt="" coords="760,77,925,117"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="940,103,995,108,994,114,939,109"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1170,230,1297,192,1330,181,1331,186,1298,197,1171,235"/>
+<area shape="rect" id="Node000012" href="$classmpqc_1_1utility_1_1_registry.html" title="a syntactically&#45;sweet wrapper of std::map, not thread_safe for writing" alt="" coords="760,269,925,309"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="939,273,994,265,995,271,939,279"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="1182,174,1297,165,1321,163,1321,168,1298,171,1182,179"/>
+<area shape="rect" id="Node000014" href="$classmpqc_1_1utility_1_1_registry.html" title="a syntactically&#45;sweet wrapper of std::map, not thread_safe for writing" alt="" coords="760,141,925,181"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="940,167,995,172,994,178,939,173"/>
+</map>

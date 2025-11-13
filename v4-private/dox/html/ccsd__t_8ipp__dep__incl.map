@@ -1,0 +1,12 @@
+<map id="mpqc/chemistry/qc/lcao/cc/pt/ccsd_t.ipp" name="mpqc/chemistry/qc/lcao/cc/pt/ccsd_t.ipp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,5,384,45"/>
+<area shape="rect" id="Node000002" href="$ccsd__t_8cpp.html" title=" " alt="" coords="5,93,183,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,53,139,96,137,91,237,48"/>
+<area shape="rect" id="Node000003" href="$ccsd__t_8h.html" title=" " alt="" coords="207,93,384,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="289,59,290,93,285,93,284,59"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="301,80,300,46,306,46,307,80"/>
+<area shape="rect" id="Node000004" href="$ccsd__t__f12_8h.html" title=" " alt="" coords="207,181,384,221"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="298,147,298,181,293,181,293,147"/>
+<area shape="rect" id="Node000005" href="$ccsd__t__f12_8cpp.html" title=" " alt="" coords="207,269,384,309"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="298,235,298,269,293,269,293,235"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="228,70,355,95"/>
+<area shape="rect" id="Node000001" href="$structmpqc_1_1lcao_1_1gaussian_1_1_shell_data.html" title="aggregate of the Libint2 and SQVl shell data" alt="" coords="419,19,577,59"/>
+<area shape="poly" id="edge10_Node000000_Node000001" title=" " alt="" coords="365,64,418,53,419,58,366,70"/>
+<area shape="rect" id="Node000004" href="$structmpqc_1_1lcao_1_1gaussian_1_1_shell_pair_data.html" title="aggregate of the Libint2 and SQVl shell&#45;pair data" alt="" coords="419,95,577,135"/>
+<area shape="poly" id="edge11_Node000000_Node000004" title=" " alt="" coords="369,92,419,100,418,105,368,97"/>
+<area shape="rect" id="Node000003" href="$structmpqc_1_1lcao_1_1gaussian_1_1_f_m_m_shell_data.html" title="This holds shell&#45;specific data relevant to FMM and related methods." alt="" coords="5,5,164,45"/>
+<area shape="rect" id="Node000002" href="$structmpqc_1_1lcao_1_1gaussian_1_1_s_q_vl_shell_data.html" title="This holds shell&#45;specific data relevant to the SVQ(l) integral estimator described in DOI 10...." alt="" coords="212,5,371,45"/>
+<area shape="poly" id="edge12_Node000003_Node000002" title=" " alt="" coords="178,23,212,23,212,28,178,28"/>
+<area shape="poly" id="edge13_Node000002_Node000001" title=" " alt="" coords="384,29,419,31,418,36,384,34"/>
+<area shape="rect" id="Node000006" href="$structmpqc_1_1lcao_1_1gaussian_1_1_f_m_m_shell_pair_data.html" title="This holds shell&#45;pair&#45;specific data relevant to FMM and related methods." alt="" coords="5,120,164,160"/>
+<area shape="rect" id="Node000005" href="$structmpqc_1_1lcao_1_1gaussian_1_1_s_q_vl_shell_pair_data.html" title="This holds shell&#45;specific data relevant to the SVQ(l) integral estimator described in DOI 10...." alt="" coords="212,120,371,160"/>
+<area shape="poly" id="edge14_Node000006_Node000005" title=" " alt="" coords="178,137,212,137,212,143,178,143"/>
+<area shape="poly" id="edge15_Node000005_Node000004" title=" " alt="" coords="384,126,418,122,419,127,385,131"/>
+</map>

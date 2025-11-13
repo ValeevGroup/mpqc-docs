@@ -1,0 +1,7 @@
+<map id="sc::MPIMessageGrp" name="sc::MPIMessageGrp">
+<area shape="rect" id="node1" title="The MPIMessageGrp class is an concrete implementation of MessageGrp that uses the MPI 1 library." alt="" coords="5,299,147,324"/>
+<area shape="rect" id="node2" href="$classsc_1_1MessageGrp.html" title="The MessageGrp abstract class provides a mechanism for moving data and objects between nodes in a par..." alt="" coords="17,225,136,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="9,152,144,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="27,79,126,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="34,5,119,31"/>
+</map>

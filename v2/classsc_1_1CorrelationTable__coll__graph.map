@@ -1,0 +1,5 @@
+<map id="sc::CorrelationTable" name="sc::CorrelationTable">
+<area shape="rect" id="node1" title="The CorrelationTable class provides a correlation table between two point groups." alt="" coords="5,152,144,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="26,79,124,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="32,5,117,31"/>
+</map>

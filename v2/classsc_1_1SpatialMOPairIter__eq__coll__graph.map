@@ -1,0 +1,7 @@
+<map id="sc::SpatialMOPairIter_eq" name="sc::SpatialMOPairIter_eq">
+<area shape="rect" id="node1" title="SpatialMOPairIter_eq gives the ordering of same&#45;spin and different&#45;spin orbital pairs if both orbital..." alt="" coords="5,299,175,324"/>
+<area shape="rect" id="node2" href="$classsc_1_1SpatialMOPairIter.html" title="SpatialMOPairIter gives the ordering of pairs of spatial orbitals." alt="" coords="16,225,164,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1MOPairIter.html" title="MOPairIter gives the ordering of orbital pairs." alt="" coords="37,152,143,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="41,79,139,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="48,5,133,31"/>
+</map>

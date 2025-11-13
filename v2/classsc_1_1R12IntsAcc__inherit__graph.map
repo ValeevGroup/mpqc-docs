@@ -1,0 +1,11 @@
+<map id="sc::R12IntsAcc" name="sc::R12IntsAcc">
+<area shape="rect" id="node1" title="R12IntsAcc accumulates transformed (MO) integrals stored as (ijxy) where i, j, x, and,..." alt="" coords="251,299,361,324"/>
+<area shape="rect" id="node6" href="$classsc_1_1R12IntsAcc__MemoryGrp.html" title=" " alt="" coords="5,372,193,397"/>
+<area shape="rect" id="node7" href="$classsc_1_1R12IntsAcc__MPIIOFile.html" title=" " alt="" coords="218,372,394,397"/>
+<area shape="rect" id="node9" href="$classsc_1_1R12IntsAcc__Node0File.html" title=" " alt="" coords="418,372,597,397"/>
+<area shape="rect" id="node2" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="245,225,367,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="238,152,374,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="257,79,355,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="263,5,349,31"/>
+<area shape="rect" id="node8" href="$classsc_1_1R12IntsAcc__MPIIOFile__Ind.html" title=" " alt="" coords="205,445,407,471"/>
+</map>

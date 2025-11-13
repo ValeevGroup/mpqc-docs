@@ -1,0 +1,69 @@
+\form#0:$\mathrm{CH}_3\mathrm{NH}_2$
+\form#1:$i$
+\form#2:$0 \leq i < n$
+\form#3:$2 (i-1) + 1$
+\form#4:$2 i$
+\form#5:$(i-1)\times 2 + 1$
+\form#6:$i\times 2$
+\form#7:$B$
+\form#8:$\kappa_2$
+\form#9:$C_{2v}$
+\form#10:$C_1$
+\form#11:$a$
+\form#12:$b$
+\form#13:$\bar{r}_a$
+\form#14:$\bar{r}_b$
+\form#15:$r$
+\form#16:\[ r = \| \bar{r}_a - \bar{r}_b \| \]
+\form#17:$c$
+\form#18:$\bar{r}_c$
+\form#19:$\theta$
+\form#20:\[ \bar{u}_{ab} = \frac{\bar{r}_a - \bar{r}_b}{\| \bar{r}_a - \bar{r}_b \|}\]
+\form#21:\[ \bar{u}_{cb} = \frac{\bar{r}_c - \bar{r}_b}{\| \bar{r}_c - \bar{r}_b \|}\]
+\form#22:\[ \theta = \arccos ( \bar{u}_{ab} \cdot \bar{u}_{cb} ) \]
+\form#23:$d$
+\form#24:$\bar{r}_d$
+\form#25:$\tau$
+\form#26:\[ \bar{u}_{cd} = \frac{\bar{r}_c - \bar{r}_d}{\| \bar{r}_c - \bar{r}_b \|}\]
+\form#27:\[ \bar{n}_{abc}= \frac{\bar{u}_{ab} \times \bar{u}_{cb}} {\| \bar{u}_{ab} \times \bar{u}_{cb} \|} \]
+\form#28:\[ \bar{n}_{bcd}= \frac{\bar{u}_{cd} \times \bar{u}_{bc}} {\| \bar{u}_{cd} \times \bar{u}_{bc} \|} \]
+\form#29:\[ s = \left\{ \begin{array}{ll} 1 & \mbox{if $(\bar{n}_{abc}\times\bar{n}_{bcd}) \cdot \bar{u}_{cb} > 0;$} \\ -1 & \mbox{otherwise} \end{array} \right. \]
+\form#30:\[ \tau = s \arccos ( - \bar{n}_{abc} \cdot \bar{n}_{bcd} ) \]
+\form#31:$\tau_s$
+\form#32:\[ \bar{n}_{abc}= \frac{\bar{u}_{ab} \times \bar{u}_{cb}} {\| \bar{u}_{ab} \times \bar{u}_{cb} \|}\]
+\form#33:\[ \bar{n}_{bcd}= \frac{\bar{u}_{cd} \times \bar{u}_{cb}} {\| \bar{u}_{cd} \times \bar{u}_{cb} \|}\]
+\form#34:\[ s = \left\{ \begin{array}{ll} -1 & \mbox{if $(\bar{n}_{abc}\times\bar{n}_{bcd}) \cdot \bar{u}_{cb} > 0$} \\ 1 & \mbox{otherwise} \end{array} \right. \]
+\form#35:\[ \tau_s = s \sqrt{\left(1-(\bar{u}_{ab} \cdot \bar{u}_{cb}\right)^2) \left(1-(\bar{u}_{cb} \cdot \bar{u}_{cd}\right)^2)} \arccos ( - \bar{n}_{abc} \cdot \bar{n}_{bcd} )\]
+\form#36:$\bar{u}$
+\form#37:$\bar{r}_a - \bar{r}_b$
+\form#38:$\bar{r}_b - \bar{r}_c$
+\form#39:$\theta_i$
+\form#40:\[ \bar{u}_{cb} = \frac{\bar{r}_b - \bar{r}_c}{\| \bar{r}_c - \bar{r}_b \|}\]
+\form#41:\[ \theta_i = \pi - \arccos ( \bar{u}_{ab} \cdot \bar{u} ) - \arccos ( \bar{u}_{cb} \cdot \bar{u} )\]
+\form#42:$\theta_o$
+\form#43:\[ \bar{n} = \frac{\bar{u} \times \bar{u}_{ab}} {\| \bar{u} \times \bar{u}_{ab} \|}\]
+\form#44:\[ \theta_o = \pi - \arccos ( \bar{u}_{ab} \cdot \bar{n} ) - \arccos ( \bar{u}_{cb} \cdot \bar{n} )\]
+\form#45:$n_0$
+\form#46:$n_1$
+\form#47:$n_2$
+\form#48:$O$
+\form#49:$X O X^T$
+\form#50:$X$
+\form#51:$x^d$
+\form#52:$x$
+\form#53:$O(n_\mathrm{basis}^5)$
+\form#54:$n_\mathrm{socc}$
+\form#55:$m$
+\form#56:$n_\mathrm{socc} = m - 1$
+\form#57:$n_\mathrm{docc}$
+\form#58:$n_\mathrm{docc} = (c - n_\mathrm{socc})/2$
+\form#59:$\Delta D$
+\form#60:$D$
+\form#61:$G$
+\form#62:\[ \bar{x}' = f(\bar{x}) \]
+\form#63:$m_{ij}$
+\form#64:$a_i$
+\form#65:$b_j$
+\form#66:$T_d$
+\form#67:$I_h$
+\form#68:$n$

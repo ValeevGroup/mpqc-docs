@@ -1,0 +1,35 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structmpqc_1_1utility_1_1_generator_range_facade.html" title="To make a Generator behave as a range use this as a CRTP base." alt="" coords="5,461,197,516"/>
+<area shape="rect" id="Node000001" href="$structmpqc_1_1_h_b_composite_generator.html" title=" " alt="" coords="282,5,561,89"/>
+<area shape="poly" id="edge300_Node000000_Node000001" title=" " alt="" coords="103,447,115,374,139,280,157,232,180,184,209,139,244,100,280,75,283,79,247,104,213,143,185,187,162,234,144,282,120,375,109,448"/>
+<area shape="rect" id="Node000002" href="$structmpqc_1_1_h_b_composite_generator.html" title=" " alt="" coords="311,114,531,183"/>
+<area shape="poly" id="edge301_Node000000_Node000002" title=" " alt="" coords="109,447,125,390,151,321,190,252,215,221,244,193,275,173,310,160,312,165,278,178,247,197,219,224,195,255,156,324,130,392,114,449"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1utility_1_1_filtered_generator.html" title=" " alt="" coords="265,208,577,321"/>
+<area shape="poly" id="edge302_Node000000_Node000003" title=" " alt="" coords="128,448,178,388,210,358,244,330,264,318,266,323,247,335,213,362,182,392,132,451"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1utility_1_1_filtered_generator.html" title=" " alt="" coords="245,345,597,429"/>
+<area shape="poly" id="edge303_Node000000_Node000004" title=" " alt="" coords="198,454,245,439,284,427,286,432,246,445,200,460"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1utility_1_1_filtered_generator.html" title=" " alt="" coords="259,454,584,523"/>
+<area shape="poly" id="edge304_Node000000_Node000005" title=" " alt="" coords="211,486,259,486,259,491,211,491"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="282,547,561,675"/>
+<area shape="poly" id="edge306_Node000000_Node000007" title=" " alt="" coords="187,518,283,555,281,560,185,523"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="270,699,573,827"/>
+<area shape="poly" id="edge309_Node000000_Node000010" title=" " alt="" coords="125,527,174,606,208,648,247,685,271,702,268,707,244,689,204,652,170,609,120,530"/>
+<area shape="rect" id="Node000013" href="$classmpqc_1_1_h_b_tuple_generator.html" title=" " alt="" coords="326,851,517,891"/>
+<area shape="poly" id="edge312_Node000000_Node000013" title=" " alt="" coords="109,529,121,597,146,682,164,725,186,766,214,805,247,837,284,858,326,868,325,874,282,863,244,841,210,808,182,769,159,727,141,683,116,599,104,530"/>
+<area shape="rect" id="Node000014" href="$classmpqc_1_1utility_1_1_tuple_generator.html" title=" " alt="" coords="316,916,527,971"/>
+<area shape="poly" id="edge313_Node000000_Node000014" title=" " alt="" coords="107,529,116,609,138,710,156,762,180,813,210,860,247,901,279,922,317,935,315,940,277,927,244,905,205,864,175,816,151,764,133,711,110,610,102,530"/>
+<area shape="rect" id="Node000006" href="$structmpqc_1_1_in_range_full_determinant_replacement_generator.html" title=" " alt="" coords="645,461,916,516"/>
+<area shape="poly" id="edge305_Node000005_Node000006" title=" " alt="" coords="598,486,645,486,645,491,598,491"/>
+<area shape="rect" id="Node000008" href="$structmpqc_1_1_primitive_operator_generator.html" title=" " alt="" coords="657,591,904,631"/>
+<area shape="poly" id="edge307_Node000007_Node000008" title=" " alt="" coords="575,609,657,609,657,614,575,614"/>
+<area shape="rect" id="Node000009" href="$structmpqc_1_1_full_string_replacement_generator.html" title=" " alt="" coords="978,591,1207,631"/>
+<area shape="poly" id="edge308_Node000008_Node000009" title=" " alt="" coords="918,609,978,609,978,614,918,614"/>
+<area shape="rect" id="Node000011" href="$structmpqc_1_1_primitive_operator_pair_generator.html" title=" " alt="" coords="654,743,907,783"/>
+<area shape="poly" id="edge310_Node000010_Node000011" title=" " alt="" coords="587,761,654,761,654,766,587,766"/>
+<area shape="rect" id="Node000012" href="$structmpqc_1_1_full_determinant_replacement_generator.html" title=" " alt="" coords="964,743,1221,783"/>
+<area shape="poly" id="edge311_Node000011_Node000012" title=" " alt="" coords="921,761,964,761,964,766,921,766"/>
+<area shape="rect" id="Node000015" href="$structmpqc_1_1_orbital_tuple_generator.html" title=" " alt="" coords="667,891,894,931"/>
+<area shape="poly" id="edge314_Node000014_Node000015" title=" " alt="" coords="540,930,667,919,667,924,541,935"/>
+<area shape="rect" id="Node000016" href="$structmpqc_1_1_orbital_tuple_generator.html" title=" " alt="" coords="676,955,885,995"/>
+<area shape="poly" id="edge315_Node000014_Node000016" title=" " alt="" coords="540,951,676,963,675,969,540,957"/>
+</map>

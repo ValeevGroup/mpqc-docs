@@ -1,0 +1,6 @@
+<map id="sc::TwoBodyTwoCenterInt" name="sc::TwoBodyTwoCenterInt">
+<area shape="rect" id="node1" title="This is an abstract base type for classes that compute integrals involving two electrons in two Gauss..." alt="" coords="13,152,190,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1TwoBodyTwoCenterIntV3.html" title="This implements electron repulsion integrals involving two centers in the IntV3 library." alt="" coords="5,225,198,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="52,79,151,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="59,5,144,31"/>
+</map>

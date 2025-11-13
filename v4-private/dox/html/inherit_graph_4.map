@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="561,69,753,109"/>
+<area shape="rect" id="Node000001" href="$classmpqc_1_1math_1_1mra_1_1_cartesian_gaussian.html" title=" " alt="" coords="834,5,1038,45"/>
+<area shape="poly" id="edge16_Node000000_Node000001" title=" " alt="" coords="758,64,848,43,849,48,759,69"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1math_1_1mra_1_1_radial_atomic_subshell.html" title="&quot;average&quot; radial part of an atomic subshell centered at the origin" alt="" coords="821,69,1051,109"/>
+<area shape="poly" id="edge17_Node000000_Node000002" title=" " alt="" coords="767,87,821,87,821,92,767,92"/>
+<area shape="rect" id="Node000003" href="$structmpqc_1_1math_1_1mra_1_1_real_solid_harmonic_gaussian.html" title=" " alt="" coords="835,133,1037,173"/>
+<area shape="poly" id="edge18_Node000000_Node000003" title=" " alt="" coords="759,110,849,131,848,136,758,115"/>
+<area shape="rect" id="Node000006" href="$classmpqc_1_1math_1_1_spherical_harmonic.html" title=" " alt="" coords="5,173,236,198"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1math_1_1_real_spherical_harmonic.html" title=" " alt="" coords="290,133,487,173"/>
+<area shape="poly" id="edge19_Node000006_Node000005" title=" " alt="" coords="241,168,290,162,290,168,241,174"/>
+<area shape="rect" id="Node000007" href="$classmpqc_1_1math_1_1_spinor_spherical_harmonic.html" title=" " alt="" coords="284,197,493,237"/>
+<area shape="poly" id="edge22_Node000006_Node000007" title=" " alt="" coords="241,197,284,202,284,208,241,202"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1math_1_1_real_solid_harmonic.html" title=" " alt="" coords="541,141,773,166"/>
+<area shape="poly" id="edge20_Node000005_Node000004" title=" " alt="" coords="501,151,541,151,541,156,501,156"/>
+<area shape="poly" id="edge21_Node000004_Node000003" title=" " alt="" coords="787,151,834,151,834,156,787,156"/>
+</map>

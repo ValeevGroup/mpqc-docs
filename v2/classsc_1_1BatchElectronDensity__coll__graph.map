@@ -1,0 +1,29 @@
+<map id="sc::BatchElectronDensity" name="sc::BatchElectronDensity">
+<area shape="rect" id="node1" title="This a more highly optimized than ElectronDensity since everything is precomputed." alt="" coords="1831,400,2001,425"/>
+<area shape="rect" id="node2" href="$classsc_1_1Volume.html" title="A Volume is a Function of three variables." alt="" coords="1618,271,1704,296"/>
+<area shape="rect" id="node3" href="$classsc_1_1Function.html" title="The Function class is an abstract base class that, given a set of coordinates, will compute a value a..." alt="" coords="1216,239,1309,264"/>
+<area shape="rect" id="node4" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="836,41,957,67"/>
+<area shape="rect" id="node5" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="364,41,500,67"/>
+<area shape="rect" id="node6" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="169,12,268,37"/>
+<area shape="rect" id="node20" href="$classsc_1_1ShellExtent.html" title=" " alt="" coords="1040,5,1150,31"/>
+<area shape="rect" id="node7" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="11,12,96,37"/>
+<area shape="rect" id="node8" href="$classsc_1_1Compute.html" title="The Compute class provides a means of keeping results up to date." alt="" coords="5,387,102,412"/>
+<area shape="rect" id="node11" href="$classsc_1_1ResultInfo.html" title="This is a base class for all of Compute&#39;s result types." alt="" coords="167,240,269,265"/>
+<area shape="rect" id="node9" href="$classsc_1_1AccResult.html" title=" " alt="" coords="796,140,998,165"/>
+<area shape="rect" id="node10" href="$classsc_1_1AccResultInfo.html" title="This is like ResultInfo but the accuracy with which a result was computed as well as the desired accu..." alt="" coords="370,168,494,193"/>
+<area shape="rect" id="node14" href="$classsc_1_1NCAccResult.html" title=" " alt="" coords="805,189,989,215"/>
+<area shape="rect" id="node17" href="$classsc_1_1AccResult.html" title=" " alt="" coords="778,91,1016,116"/>
+<area shape="rect" id="node12" href="$classsc_1_1Ref.html" title=" " alt="" coords="573,339,750,364"/>
+<area shape="rect" id="node13" href="$classsc_1_1RefBase.html" title="Provides a few utility routines common to all Ref template instantiations." alt="" coords="172,339,265,364"/>
+<area shape="rect" id="node16" href="$classsc_1_1Ref.html" title=" " alt="" coords="349,239,516,264"/>
+<area shape="rect" id="node19" href="$classsc_1_1Ref.html" title=" " alt="" coords="361,288,503,313"/>
+<area shape="rect" id="node26" href="$classsc_1_1Ref.html" title=" " alt="" coords="570,391,754,429"/>
+<area shape="rect" id="node27" href="$classsc_1_1Ref.html" title=" " alt="" coords="1375,484,1562,509"/>
+<area shape="rect" id="node15" href="$classsc_1_1RefSCDimension.html" title="The RefSCDimension class is a smart pointer to an SCDimension specialization." alt="" coords="825,239,969,264"/>
+<area shape="rect" id="node18" href="$classsc_1_1RefSCVector.html" title="The RefSCVector class is a smart pointer to an SCVector specialization." alt="" coords="837,288,956,313"/>
+<area shape="rect" id="node21" href="$classsc_1_1GaussianBasisSet_1_1ValueData.html" title="This holds scratch data needed to compute basis function values." alt="" coords="1586,545,1737,584"/>
+<area shape="rect" id="node22" href="$classsc_1_1SphericalTransformIter.html" title="This iterates through the components of a SphericalTransform." alt="" coords="1174,552,1351,577"/>
+<area shape="rect" id="node23" href="$classsc_1_1SphericalTransform.html" title="This is a base class for a container for a sparse Cartesian to solid harmonic basis function transfor..." alt="" coords="818,552,976,577"/>
+<area shape="rect" id="node24" href="$classsc_1_1SphericalTransformComponent.html" title="This is a base class for a container for a component of a sparse Cartesian to solid harmonic basis fu..." alt="" coords="319,552,546,577"/>
+<area shape="rect" id="node25" href="$classsc_1_1CartesianIter.html" title="CartesianIter gives the ordering of the Cartesian functions within a shell for the particular integra..." alt="" coords="1203,601,1321,627"/>
+</map>

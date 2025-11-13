@@ -1,0 +1,6 @@
+<map id="sc::AggregateKeyVal" name="sc::AggregateKeyVal">
+<area shape="rect" id="node1" title="This takes several KeyVal objects and makes them look like one KeyVal object." alt="" coords="5,225,150,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1KeyVal.html" title="The KeyVal class is designed to simplify the process of allowing a user to specify keyword/value asso..." alt="" coords="36,152,119,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="29,79,127,104"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="35,5,120,31"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="sc::Identity" name="sc::Identity">
+<area shape="rect" id="node1" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="5,1043,90,1068"/>
+<area shape="rect" id="node2" href="$classsc_1_1ClassDesc.html" title="This class is used to contain information about classes." alt="" coords="138,1017,244,1043"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="142,1067,240,1092"/>
+<area shape="rect" id="node4" href="$classsc_1_1CorrelationTable.html" title="The CorrelationTable class provides a correlation table between two point groups." alt="" coords="331,5,471,31"/>
+<area shape="rect" id="node5" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="333,55,469,80"/>
+<area shape="rect" id="node8" href="$classsc_1_1DipoleData.html" title=" " alt="" coords="347,104,455,129"/>
+<area shape="rect" id="node9" href="$classsc_1_1Edge.html" title=" " alt="" coords="364,153,438,179"/>
+<area shape="rect" id="node10" href="$classsc_1_1EfieldDotVectorData.html" title=" " alt="" coords="320,203,482,228"/>
+<area shape="rect" id="node11" href="$classsc_1_1FJT.html" title=" " alt="" coords="369,252,434,277"/>
+<area shape="rect" id="node12" href="$classsc_1_1GenPetite4.html" title="This class is an abstract base to a generalized four index petite list." alt="" coords="347,301,455,327"/>
+<area shape="rect" id="node13" href="$classsc_1_1Int1eCCA.html" title="Int1eCCA adapts CCA integrals components for use within SC." alt="" coords="351,351,451,376"/>
+<area shape="rect" id="node14" href="$classsc_1_1Int1eCints.html" title="Int1eCints is used by OneBodyIntCints and OneBodyDerivIntCints to implement IntegralCints." alt="" coords="350,400,452,425"/>
+<area shape="rect" id="node15" href="$classsc_1_1Int1eV3.html" title="Int1eV3 is a class wrapper for the one body part of the C language IntV3 library." alt="" coords="357,449,445,475"/>
+<area shape="rect" id="node16" href="$classsc_1_1Int2eCCA.html" title="Int2eCCA adapts CCA integrals components for use within SC." alt="" coords="351,499,451,524"/>
+<area shape="rect" id="node17" href="$classsc_1_1Int2eCints.html" title="Int2eCints is an interface to various specializations of two&#45;electron integral evaluators implemented..." alt="" coords="350,548,452,573"/>
+<area shape="rect" id="node18" href="$classsc_1_1Int2eV3.html" title="Int2eV3 is a class wrapper for the two body part of the C language IntV3 library." alt="" coords="357,597,445,623"/>
+<area shape="rect" id="node19" href="$classsc_1_1KeyVal.html" title="The KeyVal class is designed to simplify the process of allowing a user to specify keyword/value asso..." alt="" coords="359,647,443,672"/>
+<area shape="rect" id="node20" href="$classsc_1_1KeyValValue.html" title=" " alt="" coords="343,696,459,721"/>
+<area shape="rect" id="node21" href="$classsc_1_1MOPairIter.html" title="MOPairIter gives the ordering of orbital pairs." alt="" coords="348,745,454,771"/>
+<area shape="rect" id="node22" href="$classsc_1_1NonlinearTransform.html" title="The NonlinearTransform class transforms between two nonlinear coordinate systems." alt="" coords="321,795,481,820"/>
+<area shape="rect" id="node23" href="$classsc_1_1OneBodyDerivInt.html" title="OneBodyDerivInt is an abstract base class for objects that compute one body derivative integrals." alt="" coords="329,844,473,869"/>
+<area shape="rect" id="node24" href="$classsc_1_1OneBodyInt.html" title="OneBodyInt is an abstract base class for objects that compute integrals between two basis functions." alt="" coords="345,893,457,919"/>
+<area shape="rect" id="node25" href="$classsc_1_1OneBodyIntIter.html" title=" " alt="" coords="335,943,467,968"/>
+<area shape="rect" id="node26" href="$classsc_1_1OneBodyOneCenterDerivInt.html" title="OneBodyOneCenterDerivInt is an abstract base class for objects that compute one body derivative integ..." alt="" coords="297,992,505,1017"/>
+<area shape="rect" id="node27" href="$classsc_1_1OneBodyOneCenterInt.html" title="OneBodyOneCenterInt is an abstract base class for objects that compute integrals between two basis fu..." alt="" coords="312,1041,490,1067"/>
+<area shape="rect" id="node28" href="$classsc_1_1OneBodySOInt.html" title=" " alt="" coords="335,1091,467,1116"/>
+<area shape="rect" id="node29" href="$classsc_1_1PetiteList.html" title=" " alt="" coords="353,1140,450,1165"/>
+<area shape="rect" id="node30" href="$classsc_1_1PointChargeData.html" title=" " alt="" coords="329,1189,473,1215"/>
+<area shape="rect" id="node31" href="$classsc_1_1PrimPairsCints.html" title="PrimPairsCints contains primitive pair data." alt="" coords="336,1239,466,1264"/>
+<area shape="rect" id="node32" href="$classsc_1_1PsiFile11.html" title="PsiFile11 is a Psi gradient file." alt="" coords="353,1288,449,1313"/>
+<area shape="rect" id="node33" href="$classsc_1_1PsiInput.html" title="PsiInput is a Psi input file." alt="" coords="356,1337,446,1363"/>
+<area shape="rect" id="node34" href="$classsc_1_1R12Amplitudes.html" title="R12Amplitudes gives the amplitudes of some linear&#45;R12&#45;ansatz&#45;related terms in wave function." alt="" coords="335,1387,467,1412"/>
+<area shape="rect" id="node35" href="$classsc_1_1SCMatrixSubblockIter.html" title="Objects of class SCMatrixSubblockIter are used to iterate through the blocks of a matrix." alt="" coords="316,1436,487,1461"/>
+<area shape="rect" id="node36" href="$classsc_1_1ShellExtent.html" title=" " alt="" coords="346,1485,456,1511"/>
+<area shape="rect" id="node37" href="$classsc_1_1SOBasis.html" title="A SOBasis object describes the transformation from an atomic orbital basis to a symmetry orbital basi..." alt="" coords="354,1535,448,1560"/>
+<area shape="rect" id="node38" href="$classsc_1_1ThreadLock.html" title="The ThreadLock abstract class provides mutex locks to be used in conjunction with ThreadGrp&#39;s." alt="" coords="345,1584,457,1609"/>
+<area shape="rect" id="node39" href="$classsc_1_1Triangle.html" title=" " alt="" coords="356,1633,446,1659"/>
+<area shape="rect" id="node40" href="$classsc_1_1TriInterpCoef.html" title=" " alt="" coords="341,1683,461,1708"/>
+<area shape="rect" id="node41" href="$classsc_1_1TwoBodyDerivInt.html" title="This is an abstract base type for classes that compute integrals involving two electrons." alt="" coords="330,1732,472,1757"/>
+<area shape="rect" id="node42" href="$classsc_1_1TwoBodyInt.html" title="This is an abstract base type for classes that compute integrals involving two electrons." alt="" coords="345,1781,457,1807"/>
+<area shape="rect" id="node43" href="$classsc_1_1TwoBodySOInt.html" title=" " alt="" coords="336,1831,467,1856"/>
+<area shape="rect" id="node44" href="$classsc_1_1TwoBodyThreeCenterDerivInt.html" title="This is an abstract base type for classes that compute three centers integrals involving two electron..." alt="" coords="292,1880,510,1905"/>
+<area shape="rect" id="node45" href="$classsc_1_1TwoBodyThreeCenterInt.html" title="This is an abstract base type for classes that compute integrals involving two electrons in three Gau..." alt="" coords="308,1929,494,1955"/>
+<area shape="rect" id="node46" href="$classsc_1_1TwoBodyTwoCenterDerivInt.html" title="This is an abstract base type for classes that compute two centers integrals involving two electrons." alt="" coords="297,1979,505,2004"/>
+<area shape="rect" id="node47" href="$classsc_1_1TwoBodyTwoCenterInt.html" title="This is an abstract base type for classes that compute integrals involving two electrons in two Gauss..." alt="" coords="313,2028,489,2053"/>
+<area shape="rect" id="node48" href="$classsc_1_1Vertex.html" title=" " alt="" coords="361,2077,441,2103"/>
+<area shape="rect" id="node49" href="$classsc_1_1X.html" title=" " alt="" coords="376,2127,427,2152"/>
+<area shape="rect" id="node6" href="$classsc_1_1AnimatedObject.html" title=" " alt="" coords="558,31,695,56"/>
+<area shape="rect" id="node7" href="$classsc_1_1Appearance.html" title=" " alt="" coords="569,80,683,105"/>
+</map>

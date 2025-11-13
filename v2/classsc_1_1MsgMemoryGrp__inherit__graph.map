@@ -1,0 +1,12 @@
+<map id="sc::MsgMemoryGrp" name="sc::MsgMemoryGrp">
+<area shape="rect" id="node1" title="A MsgMemoryGrp that initializes its data using a messagegrp." alt="" coords="210,299,348,324"/>
+<area shape="rect" id="node6" href="$classsc_1_1ActiveMsgMemoryGrp.html" title="The ActiveMsgMemoryGrp abstract class specializes the MsgMemoryGrp class." alt="" coords="5,372,179,397"/>
+<area shape="rect" id="node8" href="$classsc_1_1RDMAMemoryGrp.html" title="The RDMAMemoryGrp abstract class specializes the MsgMemoryGrp class." alt="" coords="203,372,355,397"/>
+<area shape="rect" id="node10" href="$classsc_1_1ShmMemoryGrp.html" title="The ShmMemoryGrp concrete class provides an implementation of MsgMemoryGrp." alt="" coords="378,372,518,397"/>
+<area shape="rect" id="node2" href="$classsc_1_1MemoryGrp.html" title="The MemoryGrp abstract class provides a way of accessing distributed memory in a parallel machine." alt="" coords="223,225,335,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="211,152,347,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="230,79,328,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="236,5,322,31"/>
+<area shape="rect" id="node7" href="$classsc_1_1MTMPIMemoryGrp.html" title="This MemoryGrp class requires a MT&#45;safe MPI implementation." alt="" coords="15,445,170,471"/>
+<area shape="rect" id="node9" href="$classsc_1_1ARMCIMemoryGrp.html" title="The ARMCIMemoryGrp concrete class provides an implementation of MsgMemoryGrp." alt="" coords="201,445,357,471"/>
+</map>

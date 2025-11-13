@@ -1,0 +1,9 @@
+<map id="mpqc::math::Group" name="mpqc::math::Group">
+<area shape="rect" id="Node000001" title="Group is an abstract discrete group." alt="" coords="23,313,170,339"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="16,225,177,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,279,99,313,94,313,94,279"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="5,123,188,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,191,99,225,94,225,94,191"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,188,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,88,99,122,94,122,94,88"/>
+</map>

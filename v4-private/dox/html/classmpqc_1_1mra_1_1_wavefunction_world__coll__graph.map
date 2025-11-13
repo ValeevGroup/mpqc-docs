@@ -1,0 +1,13 @@
+<map id="mpqc::mra::WavefunctionWorld" name="mpqc::mra::WavefunctionWorld">
+<area shape="rect" id="Node000001" title="specialization of mpqc::WavefunctionWorld to the MRA case" alt="" coords="5,460,232,485"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1_wavefunction_world.html" title="It provides an execution context (madness::World) and a set of atoms." alt="" coords="23,387,215,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,426,121,460,116,460,116,426"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1_described_class.html" title=" " alt="" coords="35,313,202,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,352,121,387,116,387,116,352"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="8,225,229,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,279,121,313,116,313,116,279"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="27,123,210,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="121,191,121,225,116,225,116,191"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="27,5,210,75"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="121,88,121,122,116,122,116,88"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="mpqc/util/misc/assert.h" name="mpqc/util/misc/assert.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,5,308,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,161,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,33,119,75,117,70,197,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="186,79,255,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,31,223,65,218,65,218,31"/>
+<area shape="rect" id="Node000004" href="$exception_8h.html" title=" " alt="" coords="279,79,474,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,28,340,70,338,75,245,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="65,152,136,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="333,107,150,153,149,148,332,101"/>
+<area shape="rect" id="Node000006" href="$memory.html" title=" " alt="" coords="161,152,238,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="349,106,242,149,240,144,347,102"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="286,152,361,177"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="370,106,342,143,338,140,366,103"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="385,152,472,177"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="387,103,414,139,410,142,383,106"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="504,225,567,251"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="407,102,446,121,485,150,510,180,527,211,522,214,505,183,481,154,443,126,405,106"/>
+<area shape="rect" id="Node000010" href="$backtrace_8h.html" title=" " alt="" coords="547,152,742,177"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="420,101,589,146,588,151,419,107"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="229,149,253,151,261,156,265,165,258,176,243,181,242,175,255,172,259,164,257,159,251,156,229,155"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="629,180,566,220,563,215,626,175"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="615,225,674,251"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="647,178,647,212,642,212,642,178"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sc::ISphericalTransformV3" name="sc::ISphericalTransformV3">
+<area shape="rect" id="node1" title=" " alt="" coords="30,241,208,267"/>
+<area shape="rect" id="node2" href="$classsc_1_1ISphericalTransform.html" title="This describes a solid harmonic to Cartesian transform." alt="" coords="38,167,200,192"/>
+<area shape="rect" id="node3" href="$classsc_1_1SphericalTransform.html" title="This is a base class for a container for a sparse Cartesian to solid harmonic basis function transfor..." alt="" coords="40,92,198,117"/>
+<area shape="rect" id="node4" href="$classsc_1_1SphericalTransformComponent.html" title="This is a base class for a container for a component of a sparse Cartesian to solid harmonic basis fu..." alt="" coords="5,5,232,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sc::Result&lt; T &gt;" name="sc::Result&lt; T &gt;">
+<area shape="rect" id="node1" title="Result are members of Compute specializations that keep track of whether or not a particular result s..." alt="" coords="5,167,116,192"/>
+<area shape="rect" id="node2" href="$classsc_1_1ResultInfo.html" title="This is a base class for all of Compute&#39;s result types." alt="" coords="10,92,112,117"/>
+<area shape="rect" id="node3" href="$classsc_1_1Compute.html" title="The Compute class provides a means of keeping results up to date." alt="" coords="13,5,109,31"/>
+</map>

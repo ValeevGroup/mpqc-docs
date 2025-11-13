@@ -1,0 +1,11 @@
+<map id="mpqc::ToleranceExceeded" name="mpqc::ToleranceExceeded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,299,198,324"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1_algorithm_exception.html" title=" " alt="" coords="5,225,200,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,264,105,299,100,299,100,264"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1_exception.html" title=" " alt="" coords="37,152,168,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,191,105,225,100,225,100,191"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1detail_1_1_exception.html" title=" " alt="" coords="15,79,190,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,118,105,152,100,152,100,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="33,5,172,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="105,44,105,79,100,79,100,44"/>
+</map>

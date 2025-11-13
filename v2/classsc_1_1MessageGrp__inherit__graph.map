@@ -1,0 +1,10 @@
+<map id="sc::MessageGrp" name="sc::MessageGrp">
+<area shape="rect" id="node1" title="The MessageGrp abstract class provides a mechanism for moving data and objects between nodes in a par..." alt="" coords="180,225,299,251"/>
+<area shape="rect" id="node5" href="$classsc_1_1intMessageGrp.html" title="Uses integer message types to send and receive messages." alt="" coords="12,299,144,324"/>
+<area shape="rect" id="node7" href="$classsc_1_1MPIMessageGrp.html" title="The MPIMessageGrp class is an concrete implementation of MessageGrp that uses the MPI 1 library." alt="" coords="169,299,311,324"/>
+<area shape="rect" id="node8" href="$classsc_1_1ProcMessageGrp.html" title="ProcMessageGrp provides a concrete specialization of MessageGrp that supports only one node." alt="" coords="335,299,480,324"/>
+<area shape="rect" id="node2" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="172,152,307,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="190,79,289,104"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="197,5,282,31"/>
+<area shape="rect" id="node6" href="$classsc_1_1ShmMessageGrp.html" title="The ShmMessageGrp class is an implementation of MessageGrp that allows multiple process to be started..." alt="" coords="5,372,151,397"/>
+</map>

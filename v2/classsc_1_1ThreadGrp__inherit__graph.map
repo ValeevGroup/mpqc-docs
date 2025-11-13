@@ -1,0 +1,9 @@
+<map id="sc::ThreadGrp" name="sc::ThreadGrp">
+<area shape="rect" id="node1" title="The ThreadGrp abstract class provides a means to manage separate threads of control." alt="" coords="187,225,294,251"/>
+<area shape="rect" id="node5" href="$classsc_1_1ProcThreadGrp.html" title="The ProcThreadGrp class privides a concrete thread group appropriate for an environment where there i..." alt="" coords="5,299,139,324"/>
+<area shape="rect" id="node6" href="$classsc_1_1PthreadThreadGrp.html" title="The PthreadThreadGrp class privides a concrete thread group appropriate for an environment where pthr..." alt="" coords="164,299,317,324"/>
+<area shape="rect" id="node7" href="$classsc_1_1PumaThreadGrp.html" title="The PumaThreadGrp class privides a concrete thread group appropriate for the intel teraflops machine." alt="" coords="340,299,482,324"/>
+<area shape="rect" id="node2" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="173,152,308,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="191,79,290,104"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="198,5,283,31"/>
+</map>

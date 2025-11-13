@@ -1,0 +1,6 @@
+<map id="sc::ToleranceExceeded" name="sc::ToleranceExceeded">
+<area shape="rect" id="node1" title="This is thrown when when some tolerance is exceeded." alt="" coords="5,225,165,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1AlgorithmException.html" title="This exception is thrown whenever a problem with an algorithm is encountered." alt="" coords="6,152,163,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1SCException.html" title="This is a std::exception specialization that records information about where an exception took place." alt="" coords="25,79,145,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="33,5,137,31"/>
+</map>

@@ -1,0 +1,27 @@
+var classsc_1_1R12Technology_1_1CorrelationFactor =
+[
+    [ "CorrelationFactor", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a2abd02c82d3e8c2590055f7a25cc4ca3", null ],
+    [ "CorrelationFactor", "classsc_1_1R12Technology_1_1CorrelationFactor.html#ae2cef59417fafb8458a50b964d263da1", null ],
+    [ "~CorrelationFactor", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a957200d6ad5a043490d542a428fc644c", null ],
+    [ "equiv", "classsc_1_1R12Technology_1_1CorrelationFactor.html#afe19f0f2db3a9cd3258b4c55d6f7b7af", null ],
+    [ "geminaldescriptor", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a2380873746d1e07223b74a53a75ff025", null ],
+    [ "label", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a99e0325082cb64fc55f5707cec93f68d", null ],
+    [ "max_num_tbint_types", "classsc_1_1R12Technology_1_1CorrelationFactor.html#adf7d4da01e1f4471f123b574b4bea6ef", null ],
+    [ "nfunctions", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a548c4cbf71bdf36c09db7377646c549e", null ],
+    [ "nprimitives", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a07e2e214ece52ba300eaaa00a52cbfc8", null ],
+    [ "print", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a85c8f933faa939d845cd442707619e65", null ],
+    [ "print_params", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a103bbc2cf521d9927c56a9c3c337d6f4", null ],
+    [ "tbint_type_eri", "classsc_1_1R12Technology_1_1CorrelationFactor.html#ac66c1d04e6c8361aa174e5054b9288a0", null ],
+    [ "tbint_type_f12", "classsc_1_1R12Technology_1_1CorrelationFactor.html#af8bebdd71c7e69b8ef4296f50430c365", null ],
+    [ "tbint_type_f12eri", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a6d029c0c0297829cff5fa75bcd683a14", null ],
+    [ "tbint_type_f12f12", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a8a7d5a8243c448c9ac3f905d8f405a88", null ],
+    [ "tbint_type_f12f12_anti", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a329898c0e0bf1729a20deb2f4393f39e", null ],
+    [ "tbint_type_f12t1f12", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a52dd25c517683be764fc00ca23ebf277", null ],
+    [ "tbint_type_t1f12", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a6a02efb4dbb092ce626bf00c4d52140d", null ],
+    [ "tbint_type_t2f12", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a159bec8633749d5919e5b3bbfbd1fe38", null ],
+    [ "tbintdescr", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a4eee0bf9d0a2800f158ab2ac99abb8a9", null ],
+    [ "tbintdescr", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a8c771975b18bc33662d426df83ca6f82", null ],
+    [ "value", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a6136819929b9eda7df0a2050347c93a2", null ],
+    [ "geminaldescriptor_", "classsc_1_1R12Technology_1_1CorrelationFactor.html#ab821999be7707fc20dc2e0ce40bbee8d", null ],
+    [ "label_", "classsc_1_1R12Technology_1_1CorrelationFactor.html#a0eb2778d8b2d7f96ee1f682cd3c0fcba", null ]
+];

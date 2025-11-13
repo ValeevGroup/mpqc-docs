@@ -1,0 +1,21 @@
+<map id="mpqc::lcao::GammaPointMP2&lt; Tile, Policy &gt;" name="mpqc::lcao::GammaPointMP2&lt; Tile, Policy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="222,621,437,661"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1lcao_1_1_l_c_a_o_wavefunction.html" title="LCAOWavefunction is a Wavefunction with an LCAOFactory." alt="" coords="99,533,325,573"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,580,305,619,302,623,248,584"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1lcao_1_1_wavefunction.html" title=" " alt="" coords="117,460,307,485"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,499,215,533,209,533,209,499"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1_wavefunction.html" title=" " alt="" coords="135,387,289,412"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="215,426,215,460,209,460,209,426"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1_described_class.html" title=" " alt="" coords="33,313,199,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="144,345,198,384,195,389,141,349"/>
+<area shape="rect" id="Node000006" href="$classmpqc_1_1enable__shared__from__this.html" title=" " alt="" coords="5,225,227,265"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="119,279,119,313,113,313,113,279"/>
+<area shape="rect" id="Node000007" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="25,123,207,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="119,191,119,225,113,225,113,191"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="25,5,207,75"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="119,88,119,122,113,122,113,88"/>
+<area shape="rect" id="Node000009" href="$classmpqc_1_1utility_1_1_observer.html" title="helps to set up messaging between objects via the Observer pattern" alt="" coords="224,313,395,339"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="284,349,229,389,226,384,281,345"/>
+<area shape="rect" id="Node000010" href="$classmpqc_1_1_provides.html" title=" " alt="" coords="349,541,547,566"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="422,576,357,623,354,619,419,572"/>
+</map>

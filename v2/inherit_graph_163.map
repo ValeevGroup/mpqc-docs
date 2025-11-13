@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classsc_1_1SphericalTransform.html" title="This is a base class for a container for a sparse Cartesian to solid harmonic basis function transfor..." alt="" coords="5,129,163,155"/>
+<area shape="rect" id="node2" href="$classsc_1_1ISphericalTransform.html" title="This describes a solid harmonic to Cartesian transform." alt="" coords="225,55,386,80"/>
+<area shape="rect" id="node6" href="$classsc_1_1SphericalTransformCCA.html" title=" " alt="" coords="212,104,398,129"/>
+<area shape="rect" id="node7" href="$classsc_1_1SphericalTransformCints.html" title=" " alt="" coords="211,153,400,179"/>
+<area shape="rect" id="node8" href="$classsc_1_1SphericalTransformV3.html" title=" " alt="" coords="218,203,393,228"/>
+<area shape="rect" id="node3" href="$classsc_1_1ISphericalTransformCCA.html" title=" " alt="" coords="449,5,638,31"/>
+<area shape="rect" id="node4" href="$classsc_1_1ISphericalTransformCints.html" title=" " alt="" coords="448,55,640,80"/>
+<area shape="rect" id="node5" href="$classsc_1_1ISphericalTransformV3.html" title=" " alt="" coords="455,104,633,129"/>
+</map>

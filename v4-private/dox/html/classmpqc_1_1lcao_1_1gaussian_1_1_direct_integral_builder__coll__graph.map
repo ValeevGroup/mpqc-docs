@@ -1,0 +1,11 @@
+<map id="mpqc::lcao::gaussian::DirectIntegralBuilder&lt; Tile, ComputeTile, Engine &gt;" name="mpqc::lcao::gaussian::DirectIntegralBuilder&lt; Tile, ComputeTile, Engine &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="691,41,909,96"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1lcao_1_1gaussian_1_1_integral_builder.html" title="Builds integrals from an array of bases and an integral engine pool." alt="" coords="467,5,643,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="657,45,691,50,690,55,656,50"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1enable__shared__from__this.html" title="just like std::enable_shared_from_this but can appear multiple times in the subhierarchy of a class" alt="" coords="474,85,635,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="648,88,690,82,691,87,649,94"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1detail_1_1virt__base__of__enable__shared__from__this.html" title="helper class for mpqc::enable_shared_from_this" alt="" coords="236,77,419,132"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="433,102,474,102,474,107,433,107"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,70,188,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="201,102,236,102,236,107,201,107"/>
+</map>

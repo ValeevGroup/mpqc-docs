@@ -1,0 +1,12 @@
+<map id="sc::AccResultInfo" name="sc::AccResultInfo">
+<area shape="rect" id="node1" title="This is like ResultInfo but the accuracy with which a result was computed as well as the desired accu..." alt="" coords="155,179,280,204"/>
+<area shape="rect" id="node3" href="$classsc_1_1AccResult.html" title=" " alt="" coords="333,5,561,31"/>
+<area shape="rect" id="node4" href="$classsc_1_1AccResult.html" title=" " alt="" coords="347,55,547,80"/>
+<area shape="rect" id="node5" href="$classsc_1_1AccResult.html" title=" " alt="" coords="346,104,548,129"/>
+<area shape="rect" id="node6" href="$classsc_1_1AccResult.html" title=" " alt="" coords="328,153,566,179"/>
+<area shape="rect" id="node7" href="$classsc_1_1NCAccResult.html" title=" " alt="" coords="355,203,539,228"/>
+<area shape="rect" id="node8" href="$classsc_1_1AccResult.html" title="This associates a result datum with an accuracy." alt="" coords="381,252,513,277"/>
+<area shape="rect" id="node9" href="$classsc_1_1NCAccResult.html" title="This associates a result non&#45;class datum with an accuracy." alt="" coords="371,301,523,327"/>
+<area shape="rect" id="node10" href="$classsc_1_1SSAccResult.html" title="This associates a result datum with an accuracy." alt="" coords="372,351,522,376"/>
+<area shape="rect" id="node2" href="$classsc_1_1ResultInfo.html" title="This is a base class for all of Compute&#39;s result types." alt="" coords="5,179,107,204"/>
+</map>

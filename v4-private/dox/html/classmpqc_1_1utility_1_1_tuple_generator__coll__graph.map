@@ -1,0 +1,5 @@
+<map id="mpqc::utility::TupleGenerator&lt; R, HostRange, Container, ConstHostRangePtr &gt;" name="mpqc::utility::TupleGenerator&lt; R, HostRange, Container, ConstHostRangePtr &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,216,163"/>
+<area shape="rect" id="Node000002" href="$structmpqc_1_1utility_1_1_generator_range_facade.html" title="To make a Generator behave as a range use this as a CRTP base." alt="" coords="15,5,207,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,74,113,108,108,108,108,74"/>
+</map>

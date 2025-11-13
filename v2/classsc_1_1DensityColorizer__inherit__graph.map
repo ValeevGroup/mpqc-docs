@@ -1,0 +1,7 @@
+<map id="sc::DensityColorizer" name="sc::DensityColorizer">
+<area shape="rect" id="node1" title=" " alt="" coords="10,299,150,324"/>
+<area shape="rect" id="node2" href="$classsc_1_1MoleculeColorizer.html" title=" " alt="" coords="5,225,154,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="12,152,147,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="31,79,129,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="37,5,122,31"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="sc::UnionShape" name="sc::UnionShape">
+<area shape="rect" id="node1" title="A UnionShape is volume enclosed by a set of Shape&#39;s." alt="" coords="124,519,239,544"/>
+<area shape="rect" id="node10" href="$classsc_1_1DiscreteConnollyShape.html" title="DiscreteConnollyShape and ConnollyShape should produce the same result." alt="" coords="5,592,187,617"/>
+<area shape="rect" id="node11" href="$classsc_1_1VDWShape.html" title="The VDWShape class describes the surface of a molecule as the union of atom centered spheres,..." alt="" coords="211,592,323,617"/>
+<area shape="rect" id="node2" href="$classsc_1_1Shape.html" title="A Shape is a Volume represents an 3D solid." alt="" coords="141,445,222,471"/>
+<area shape="rect" id="node3" href="$classsc_1_1Volume.html" title="A Volume is a Function of three variables." alt="" coords="138,372,225,397"/>
+<area shape="rect" id="node4" href="$classsc_1_1Function.html" title="The Function class is an abstract base class that, given a set of coordinates, will compute a value a..." alt="" coords="135,299,228,324"/>
+<area shape="rect" id="node5" href="$classsc_1_1SavableState.html" title="Base class for objects that can save/restore state." alt="" coords="54,225,175,251"/>
+<area shape="rect" id="node6" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="47,152,182,177"/>
+<area shape="rect" id="node7" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="66,79,164,104"/>
+<area shape="rect" id="node8" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="72,5,157,31"/>
+<area shape="rect" id="node9" href="$classsc_1_1Compute.html" title="The Compute class provides a means of keeping results up to date." alt="" coords="200,225,296,251"/>
+</map>

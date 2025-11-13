@@ -1,0 +1,5 @@
+<map id="sc::AccResult&lt; T &gt;" name="sc::AccResult&lt; T &gt;">
+<area shape="rect" id="node1" title="This associates a result datum with an accuracy." alt="" coords="5,152,138,177"/>
+<area shape="rect" id="node2" href="$classsc_1_1AccResultInfo.html" title="This is like ResultInfo but the accuracy with which a result was computed as well as the desired accu..." alt="" coords="10,79,134,104"/>
+<area shape="rect" id="node3" href="$classsc_1_1ResultInfo.html" title="This is a base class for all of Compute&#39;s result types." alt="" coords="21,5,123,31"/>
+</map>

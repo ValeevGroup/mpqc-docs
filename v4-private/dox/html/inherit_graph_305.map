@@ -1,0 +1,37 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,179,144,204"/>
+<area shape="rect" id="Node000001" href="$structmpqc_1_1_key_val_1_1bad__input.html" title="KeyVal exception." alt="" coords="192,153,375,179"/>
+<area shape="poly" id="edge352_Node000000_Node000001" title=" " alt="" coords="157,179,191,174,192,180,158,184"/>
+<area shape="rect" id="Node000002" href="$classmpqc_1_1detail_1_1_exception.html" title=" " alt="" coords="196,203,371,228"/>
+<area shape="poly" id="edge353_Node000000_Node000002" title=" " alt="" coords="158,198,196,203,195,208,157,203"/>
+<area shape="rect" id="Node000003" href="$classmpqc_1_1_exception.html" title=" " alt="" coords="423,203,553,228"/>
+<area shape="poly" id="edge354_Node000002_Node000003" title=" " alt="" coords="384,213,422,213,422,218,384,218"/>
+<area shape="rect" id="Node000004" href="$classmpqc_1_1_algorithm_exception.html" title=" " alt="" coords="604,29,799,55"/>
+<area shape="poly" id="edge355_Node000003_Node000004" title=" " alt="" coords="499,189,538,126,566,92,600,64,623,52,625,57,603,68,570,96,542,129,503,192"/>
+<area shape="rect" id="Node000007" href="$classmpqc_1_1_assertion_failed.html" title=" " alt="" coords="619,79,784,104"/>
+<area shape="poly" id="edge358_Node000003_Node000007" title=" " alt="" coords="507,190,547,150,573,130,600,113,628,102,630,107,603,118,576,135,551,154,511,194"/>
+<area shape="rect" id="Node000008" href="$classmpqc_1_1_feature_disabled.html" title="‍** This is thrown when a verbose assertion fails. It is used by the" alt="" coords="615,128,787,153"/>
+<area shape="poly" id="edge359_Node000003_Node000008" title=" " alt="" coords="526,194,600,162,639,151,641,156,602,167,528,199"/>
+<area shape="rect" id="Node000009" href="$classmpqc_1_1_input_error.html" title=" " alt="" coords="636,177,767,203"/>
+<area shape="poly" id="edge360_Node000003_Node000009" title=" " alt="" coords="567,203,635,195,636,200,568,209"/>
+<area shape="rect" id="Node000010" href="$classmpqc_1_1_limit_exceeded.html" title=" " alt="" coords="601,227,801,252"/>
+<area shape="poly" id="edge361_Node000003_Node000010" title=" " alt="" coords="567,222,601,225,601,231,567,227"/>
+<area shape="rect" id="Node000011" href="$classmpqc_1_1_programming_error.html" title=" " alt="" coords="609,276,794,301"/>
+<area shape="poly" id="edge362_Node000003_Node000011" title=" " alt="" coords="529,231,602,261,645,273,643,279,600,266,527,236"/>
+<area shape="rect" id="Node000013" href="$classmpqc_1_1_system_exception.html" title=" " alt="" coords="612,325,791,351"/>
+<area shape="poly" id="edge364_Node000003_Node000013" title=" " alt="" coords="511,236,551,274,603,310,634,323,632,328,600,315,548,279,508,240"/>
+<area shape="rect" id="Node000017" href="$classmpqc_1_1_uncomputable.html" title=" " alt="" coords="621,375,782,400"/>
+<area shape="poly" id="edge368_Node000003_Node000017" title=" " alt="" coords="504,239,543,300,570,333,603,360,628,372,626,377,600,364,567,336,538,303,499,242"/>
+<area shape="rect" id="Node000005" href="$classmpqc_1_1_max_iter_exceeded.html" title=" " alt="" coords="873,5,1051,31"/>
+<area shape="poly" id="edge356_Node000004_Node000005" title=" " alt="" coords="812,29,872,24,873,29,813,34"/>
+<area shape="rect" id="Node000006" href="$classmpqc_1_1_tolerance_exceeded.html" title=" " alt="" coords="867,55,1057,80"/>
+<area shape="poly" id="edge357_Node000004_Node000006" title=" " alt="" coords="813,50,867,55,866,61,812,55"/>
+<area shape="rect" id="Node000012" href="$classmpqc_1_1_feature_not_implemented.html" title=" " alt="" coords="849,251,1075,276"/>
+<area shape="poly" id="edge363_Node000011_Node000012" title=" " alt="" coords="808,276,849,272,849,277,808,281"/>
+<area shape="rect" id="Node000014" href="$classmpqc_1_1_file_operation_failed.html" title=" " alt="" coords="867,300,1057,325"/>
+<area shape="poly" id="edge365_Node000013_Node000014" title=" " alt="" coords="804,325,866,319,867,325,804,331"/>
+<area shape="rect" id="Node000015" href="$classmpqc_1_1_mem_alloc_failed.html" title=" " alt="" coords="877,349,1047,375"/>
+<area shape="poly" id="edge366_Node000013_Node000015" title=" " alt="" coords="805,345,877,352,877,357,804,350"/>
+<area shape="rect" id="Node000016" href="$classmpqc_1_1_syscall_failed.html" title=" " alt="" coords="887,399,1037,424"/>
+<area shape="poly" id="edge367_Node000013_Node000016" title=" " alt="" coords="778,352,802,360,827,372,850,384,894,396,892,401,848,388,824,376,800,364,776,357"/>
+</map>

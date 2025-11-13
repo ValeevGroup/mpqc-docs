@@ -1,0 +1,10 @@
+<map id="sc::RenderedMolecule" name="sc::RenderedMolecule">
+<area shape="rect" id="node1" title=" " alt="" coords="231,299,385,324"/>
+<area shape="rect" id="node6" href="$classsc_1_1RenderedBallMolecule.html" title=" " alt="" coords="5,372,182,397"/>
+<area shape="rect" id="node7" href="$classsc_1_1RenderedMolecularSurface.html" title=" " alt="" coords="206,372,410,397"/>
+<area shape="rect" id="node8" href="$classsc_1_1RenderedStickMolecule.html" title=" " alt="" coords="434,372,617,397"/>
+<area shape="rect" id="node2" href="$classsc_1_1RenderedObject.html" title=" " alt="" coords="239,225,378,251"/>
+<area shape="rect" id="node3" href="$classsc_1_1DescribedClass.html" title="Classes which need runtime information about themselves and their relationship to other classes can v..." alt="" coords="240,152,376,177"/>
+<area shape="rect" id="node4" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="259,79,357,104"/>
+<area shape="rect" id="node5" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="266,5,351,31"/>
+</map>

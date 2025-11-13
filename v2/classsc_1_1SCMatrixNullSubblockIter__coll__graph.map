@@ -1,0 +1,6 @@
+<map id="sc::SCMatrixNullSubblockIter" name="sc::SCMatrixNullSubblockIter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,199,251"/>
+<area shape="rect" id="node2" href="$classsc_1_1SCMatrixSubblockIter.html" title="Objects of class SCMatrixSubblockIter are used to iterate through the blocks of a matrix." alt="" coords="17,152,188,177"/>
+<area shape="rect" id="node3" href="$classsc_1_1RefCount.html" title="The base class for all reference counted objects." alt="" coords="53,79,152,104"/>
+<area shape="rect" id="node4" href="$classsc_1_1Identity.html" title="Identity gives objects a unique identity and ordering relationship relative to all other objects." alt="" coords="60,5,145,31"/>
+</map>
